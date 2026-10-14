@@ -416,32 +416,6 @@ var LETTERS = (function () { var a = []; for (var i = 0; i < 26; i++) a.push(Str
            '</div>';
   }
 
-  // ---- 内嵌图 → blob URL ----------------------------------------------
-  // 有些沙箱化的浏览环境（GUI 预览窗、微信内置浏览器）会屏蔽 data: URI 图片。
-  // blob: 由本文档自己生成，属同源资源，能过这种限制。
-  // 失败时回退到 data:，行为与原来一致。
-  var __blobCache = {};
-  function blobUrlOf(art) {
-    var raw = art && art.img || "";
-    if (raw.indexOf("data:") !== 0) return raw;      // 外链版：原样返回
-    if (__blobCache[art.art_id]) return __blobCache[art.art_id];
-    var url = raw;
-    try {
-      var comma = raw.indexOf(",");
-      var meta = raw.slice(5, comma);                 // image/jpeg;base64
-      var b64 = raw.slice(comma + 1);
-      var bin = atob(b64);
-      var buf = new Uint8Array(bin.length);
-      for (var i = 0; i < bin.length; i++) buf[i] = bin.charCodeAt(i);
-      url = URL.createObjectURL(new Blob([buf], { type: "image/jpeg" }));
-    } catch (e) {
-      url = raw;                                      // 回退到 data:
-    }
-    __blobCache[art.art_id] = url;
-    return url;
-  }
-  // ----------------------------------------------------------------------
-
   var IMG_HANDLERS = {};   // key -> onerror 回调，供冒烟测试触发
 
   function renderIntro() {
@@ -562,7 +536,7 @@ var LETTERS = (function () { var a = []; for (var i = 0; i < 26; i++) a.push(Str
     /* ① 三张推荐 */
     var cards = picks.map(function (p, i) {
       var art = p.art;
-      var src = BASE + blobUrlOf(art);
+      var src = BASE + art.img;
       IMG_HANDLERS[art.art_id] = function (el) {
         if (el && el.parentNode) el.parentNode.innerHTML = placeholderHtml(art, i);
       };
