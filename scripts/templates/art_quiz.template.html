@@ -1,0 +1,765 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>万智牌美术审美测试</title>
+<style>
+  :root{
+    --bg:#0d1119; --bg2:#131923; --panel:#161d29; --panel2:#1b2230;
+    --line:#28313f; --line2:#3a4658;
+    --ink:#e8edf6; --ink2:#cbd5e1; --dim:#8b9bb0;
+    --accent:#7dd3fc; --accent2:#38bdf8; --deep:#12283a; --deep2:#22506e;
+    --gold:#fbbf24;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html,body{height:100%}
+  body{
+    background:radial-gradient(1100px 640px at 50% -12%,#1b2a3d 0%,var(--bg) 58%) fixed,var(--bg);
+    color:var(--ink);min-height:100vh;padding:22px 16px 56px;
+    font-family:"Noto Sans SC","PingFang SC","Microsoft YaHei",system-ui,-apple-system,"Segoe UI",sans-serif;
+    line-height:1.7;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility;
+  }
+  .wrap{max-width:880px;margin:0 auto}
+
+  /* ---------- 顶栏 ---------- */
+  .topbar{display:flex;align-items:center;gap:10px;margin-bottom:14px;min-height:24px}
+  .topbar .brand{font-size:13px;font-weight:700;letter-spacing:.1em;color:var(--dim);text-transform:uppercase}
+  .topbar .phase{margin-left:auto;font-size:12.5px;color:var(--dim);letter-spacing:.04em}
+  .progress{margin-bottom:20px}
+  .progress[hidden]{display:none}
+  .bar{height:6px;background:#0a0e15;border-radius:99px;overflow:hidden;border:1px solid #1e2734}
+  .bar > i{display:block;height:100%;width:0;border-radius:99px;
+    background:linear-gradient(90deg,#0ea5e9,#7dd3fc);transition:width .3s cubic-bezier(.4,0,.2,1)}
+  .meta{display:flex;justify-content:space-between;font-size:12.5px;color:var(--dim);margin-top:7px}
+  .meta b{color:var(--accent);font-weight:700}
+
+  /* ---------- 卡片 ---------- */
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:26px;
+    box-shadow:0 22px 55px -34px #000}
+  h1{font-size:4.6vw;line-height:1.28;letter-spacing:-.01em;font-weight:800}
+  h1 .hl{color:var(--accent)}
+  h2{font-size:3vw;line-height:1.5;font-weight:700;margin:0 0 18px}
+  .lead{font-size:15.5px;color:var(--ink2);margin-top:14px}
+  .lead + .lead{margin-top:9px}
+  .kw{color:var(--accent);font-weight:600}
+  .muted{color:var(--dim);font-size:13px;line-height:1.7}
+  .facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(118px,1fr));gap:10px;margin:20px 0 4px}
+  .fact{background:var(--bg2);border:1px solid var(--line);border-radius:11px;padding:11px 13px}
+  .fact .k{font-size:11.5px;color:var(--dim);letter-spacing:.05em}
+  .fact .v{font-size:17px;font-weight:700;margin-top:2px;color:var(--ink)}
+  .btn{appearance:none;border:0;cursor:pointer;font:inherit;font-weight:700;
+    background:linear-gradient(180deg,#38bdf8,#0ea5e9);color:#04121c;
+    padding:14px 30px;border-radius:11px;font-size:16px;transition:.16s}
+  .btn:hover{filter:brightness(1.09);transform:translateY(-1px)}
+  .btn:active{transform:translateY(0)}
+  .btn.ghost{background:transparent;color:var(--dim);border:1px solid var(--line)}
+  .btn.ghost:hover{color:var(--ink);border-color:var(--line2);filter:none}
+  .btn:disabled{opacity:.34;cursor:not-allowed;transform:none;filter:none}
+  .row{display:flex;gap:12px;flex-wrap:wrap;align-items:center}
+  .mt{margin-top:24px}.mt-s{margin-top:14px}
+
+  /* ---------- 答题 ---------- */
+  .opts{display:flex;flex-direction:column;gap:10px}
+  .opt{display:block;width:100%;text-align:left;font:inherit;font-size:15.5px;cursor:pointer;
+    background:#121824;border:1px solid var(--line);border-radius:12px;padding:15px 18px;
+    color:var(--ink);transition:.13s;position:relative;line-height:1.6}
+  .opt:hover{border-color:var(--line2);background:#172231;transform:translateX(2px)}
+  .opt.on{border-color:var(--accent);background:var(--deep);box-shadow:0 0 0 1px var(--accent) inset}
+  .opt .idx{display:inline-block;min-width:23px;color:var(--dim);font-size:13px;font-weight:800}
+  .opt.on .idx{color:var(--accent)}
+  /* 多选：选项前加一个方框，勾上的打勾；整行同时高亮（不靠颜色单独承担信息） */
+  .opt.multi{padding-left:16px;display:flex;align-items:center;gap:11px}
+  .opt .box{flex:0 0 auto;width:20px;height:20px;border-radius:6px;border:1.5px solid var(--line2);
+    background:#0b1017;display:flex;align-items:center;justify-content:center;
+    font-size:13px;font-weight:800;color:transparent;transition:.13s}
+  .opt .box::after{content:"✓"}
+  .opt.on .box{border-color:var(--accent);background:var(--accent);color:#04121c}
+  .opt .txt{flex:1 1 auto;min-width:0}
+  .opt.multi .idx{min-width:20px}
+  .pick-count{color:var(--accent);font-weight:700}
+  .chips{display:flex;flex-wrap:wrap;gap:7px;margin-top:9px}
+  .chip{font-size:12.5px;font-weight:700;color:var(--accent);background:var(--deep);
+    border:1px solid var(--deep2);border-radius:99px;padding:3px 12px}
+  .chip.dim{color:var(--dim);background:var(--bg2);border-color:var(--line)}
+  /* 结果页「你选的伙伴」：3 道形态题各一小块，逐题列出勾了什么 */
+  .fs-q{margin-top:14px;padding-top:12px;border-top:1px solid var(--line)}
+  .fs-q:first-of-type{border-top:0}
+  .fs-t{font-size:13px;font-weight:700;color:var(--fg)}
+  .fs-t .muted{font-weight:400}
+
+  /* ---------- 结果 ---------- */
+  .rhero{text-align:center;margin-bottom:26px}
+  .rtitle{font-size:12px;font-weight:800;letter-spacing:.18em;color:var(--gold);text-transform:uppercase}
+  .rsub{font-size:3.4vw;font-weight:800;margin-top:8px;line-height:1.35}
+  .rnote{font-size:13.5px;color:var(--dim);margin-top:8px}
+
+  .picks{display:flex;gap:16px;margin-top:20px;align-items:stretch}
+  .pick{flex:1 1 0;min-width:0;background:var(--panel);border:1px solid var(--line);border-radius:14px;
+    overflow:hidden;display:flex;flex-direction:column;position:relative}
+  .pick.rank1{border-color:#3c5f80;box-shadow:0 0 0 1px #2b4a66 inset,0 18px 44px -30px #7dd3fc}
+  .pick .shot{position:relative;background:#0a0e15;overflow:hidden;min-height:150px}
+  .pick .shot img{display:block;width:100%;height:auto;min-height:150px}
+  .ph{position:absolute;top:0;right:0;bottom:0;left:0;display:flex;flex-direction:column;align-items:center;justify-content:center;
+    gap:6px;padding:14px;text-align:center;background:repeating-linear-gradient(45deg,#111823,#111823 11px,#0d131d 11px,#0d131d 22px)}
+  .ph .ph-i{font-size:26px;opacity:.5;line-height:1}
+  .ph .ph-t{font-size:12.5px;color:var(--dim);line-height:1.6}
+  .ph .ph-n{font-size:13px;font-weight:700;color:var(--ink2)}
+  .pick .badge{position:absolute;top:10px;left:10px;z-index:2;font-size:11.5px;font-weight:800;
+    letter-spacing:.06em;padding:3px 10px;border-radius:99px;background:#0d1119cc;border:1px solid var(--line2);
+    color:var(--accent);-webkit-backdrop-filter:blur(8px);backdrop-filter:blur(3px)}
+  .pick.rank1 .badge{background:#0d1119e6;border-color:#3c5f80;color:var(--gold)}
+  .pick .info{padding:15px 17px 17px;display:flex;flex-direction:column;gap:5px;flex:1}
+  .pick .nm{font-size:16.5px;font-weight:800;line-height:1.35}
+  .pick .en{font-size:12.5px;color:var(--dim);font-style:italic;line-height:1.45;word-break:break-word}
+  .pick .kv{font-size:13px;color:var(--ink2);margin-top:auto;padding-top:9px;border-top:1px solid var(--line);line-height:1.65}
+  .pick .kv .lb{color:var(--dim);font-size:11.5px;letter-spacing:.05em;margin-right:5px}
+
+  .sect{margin-top:34px}
+  .sect > h3{font-size:12.5px;font-weight:800;letter-spacing:.12em;color:var(--dim);text-transform:uppercase;
+    margin-bottom:6px}
+  .sect > .sd{font-size:13px;color:var(--dim);margin-bottom:15px}
+
+  .prof{display:flex;flex-direction:column;gap:12px}
+  .axis{background:var(--bg2);border:1px solid var(--line);border-radius:12px;padding:13px 16px 14px}
+  .axis .hd{display:flex;justify-content:space-between;align-items:baseline;gap:10px;margin-bottom:8px}
+  .axis .zl{font-size:15px;font-weight:700}
+  .axis .zl .pl{color:var(--accent)}
+  .axis .zl .an{color:var(--dim);font-weight:500;font-size:12.5px;margin-left:6px}
+  .axis .vn{font-size:12.5px;color:var(--dim);white-space:nowrap;font-variant-numeric:tabular-nums}
+  .axis .track{height:8px;background:#0a0e15;border-radius:99px;overflow:hidden;border:1px solid #1c242f}
+  .axis .track > i{display:block;height:100%;border-radius:99px;
+    background:linear-gradient(90deg,#0ea5e9,#7dd3fc)}
+  .axis .track > i.neg{background:linear-gradient(90deg,#475569,#94a3b8)}
+  .axis .ends{display:flex;justify-content:space-between;font-size:11.5px;color:#64748b;margin-top:6px}
+
+  .foot{margin-top:32px;padding-top:22px;border-top:1px solid var(--line);text-align:center}
+  .disclaim{font-size:12.5px;color:var(--dim);line-height:1.75;max-width:640px;margin:16px auto 0}
+
+  @media(max-width:680px){
+    body{padding:16px 12px 44px}
+    .card{padding:20px 17px;border-radius:14px}
+    .picks{flex-direction:column;gap:14px}
+    .pick.rank1{order:-1}
+    
+    .pick .shot img{height:auto}
+    .opt{padding:14px 15px;font-size:15px}
+    .btn{width:100%;text-align:center}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="topbar">
+    <span class="brand">万智牌 · 美术审美测试</span>
+    <span class="phase" id="phase"></span>
+  </div>
+  <div class="progress" id="progress" hidden>
+    <div class="bar"><i id="bar-fill"></i></div>
+    <div class="meta">
+      <span>第 <b id="q-now">1</b> / <span id="q-total">20</span> 题</span>
+      <span id="q-hint"></span>
+    </div>
+  </div>
+  <div id="app"></div>
+</div>
+
+<script id="payload" type="application/json">__PAYLOAD__</script>
+<script>
+/* =====================================================================
+   万智牌美术审美测试 —— 单文件、零依赖、可直接 file:// 双击打开
+   数据结构（由 scripts/build_html.py 内嵌）：
+     DATA.q    : 38 题。35 道单选题（4 个选项）+ 3 道多选题（multi:true，各 6 个选项）
+                 选项带「有正负」的轴权重 s；多选题每个选项只挂自己那一类 form_*
+                 三道形态题（b01/b02/b03）的选项顺序是三种不同排列，勾选会叠加
+     DATA.a    : 370 张卡图，vec = 25 个轴（9 图像/元数据 + 7 画面形态 + 9 风格），都以 0 为中心
+     DATA.forms: 7 个画面形态名；DATA.styles: 9 个风格名
+     DATA.base : HTML 到项目根的相对前缀（HTML 在项目根时为空）
+   图片拼接：src = DATA.base + art.img，art.img 形如 "data/cards/art_crop/<id>.jpg"
+   被裁定剔除的 7 张图不会出现在 DATA.a 里，所以结果页推荐不到它们。
+   ===================================================================== */
+(function () {
+  "use strict";
+
+  /* ------------------------- 取内嵌数据 ------------------------- */
+  var payloadEl = document.getElementById("payload");
+  var DATA = JSON.parse(payloadEl.textContent.replace(/<\\\//g, "</"));
+  // 标题里的张数运行时算，避免池子变化后写死数字对不上
+  try { document.title = '万智牌美术审美测试 · 从 ' + DATA.a.length + ' 张插画里挑出你喜欢的'; } catch (e) {}
+  var QS = DATA.q, ARTS = DATA.a;
+  var BASE = DATA.base || "";          // HTML 到项目根的相对前缀（通常为空）
+
+  /* ------------------------- 轴的定义 ------------------------- */
+  /* 9 个图像/元数据轴 + 6 个画面形态轴 + 9 个风格轴，顺序与 payload.axes 一致
+     （darkarea 与 bright 实测 r = −0.830，2026-10-13 从题库和 payload 里一起下线；
+       style_* 是 2026-10-13 新增的「画风轴」，来自人工 mood 标签的多标签中心化） */
+  var AXES = ["warm", "bright", "vivid", "rich", "detailed",
+              "contrasty", "modern", "borderless", "starart",
+              "form_纯人类", "form_人形异类", "form_凶猛巨兽",
+              "form_扭曲异形", "form_可爱小兽", "form_机械构装", "form_写实动物",
+              "style_神秘", "style_史诗", "style_黑暗", "style_怪诞", "style_激烈",
+              "style_温暖", "style_宁静", "style_可爱", "style_忧郁"];
+
+  // 中文标签 + 两极名称（正数极 / 负数极）
+  var AXIS_INFO = {
+    warm:       { zh: "冷暖",   pos: "暖",     neg: "冷" },
+    bright:     { zh: "明暗",   pos: "明亮",   neg: "幽暗" },
+    vivid:      { zh: "浓淡",   pos: "浓艳",   neg: "素淡" },
+    rich:       { zh: "色相多寡", pos: "多彩", neg: "单色" },
+    detailed:   { zh: "繁简",   pos: "繁复",   neg: "简洁" },
+    contrasty:  { zh: "明暗反差", pos: "强对比", neg: "柔和" },
+    modern:     { zh: "画法新旧", pos: "新画法", neg: "复古" },
+    borderless: { zh: "构图",   pos: "铺满画面", neg: "留边框" },
+    starart:    { zh: "画师熟识度", pos: "熟面孔", neg: "新面孔" },
+    "form_纯人类":   { zh: "画面形态", pos: "想看人",   neg: "不想看人" },
+    "form_人形异类": { zh: "画面形态", pos: "想看人形异类", neg: "不想看人形异类" },
+    "form_凶猛巨兽": { zh: "画面形态", pos: "想看巨兽", neg: "不想看巨兽" },
+    "form_扭曲异形": { zh: "画面形态", pos: "想看异形", neg: "不想看异形" },
+    "form_可爱小兽": { zh: "画面形态", pos: "想看小兽", neg: "不想看小兽" },
+    "form_机械构装": { zh: "画面形态", pos: "想看机械", neg: "不想看机械" },
+    "form_写实动物": { zh: "画面形态", pos: "想看写实动物", neg: "不想看写实动物" },
+    "style_神秘": { zh: "画风", pos: "神秘", neg: "不神秘" },
+    "style_史诗": { zh: "画风", pos: "史诗", neg: "不史诗" },
+    "style_黑暗": { zh: "画风", pos: "黑暗", neg: "不黑暗" },
+    "style_怪诞": { zh: "画风", pos: "怪诞", neg: "不怪诞" },
+    "style_激烈": { zh: "画风", pos: "激烈", neg: "不激烈" },
+    "style_温暖": { zh: "画风", pos: "温暖", neg: "不温暖" },
+    "style_宁静": { zh: "画风", pos: "宁静", neg: "不宁静" },
+    "style_可爱": { zh: "画风", pos: "可爱", neg: "不可爱" },
+    "style_忧郁": { zh: "画风", pos: "忧郁", neg: "不忧郁" }
+  };
+
+  // 选项字母按需生成，不写死 —— 形态题有 6 个选项，写死 4 个会让第 5/6 项渲染成 undefined
+var LETTERS = (function () { var a = []; for (var i = 0; i < 26; i++) a.push(String.fromCharCode(65 + i)); return a; })();
+
+  /** 单个轴能拿到的最大偏好值 = 每题都挑对该轴最有利的那一项，取所有轴里的最大 */
+  function maxAxisPref() {
+    var best = 0;
+    AXES.forEach(function (a) {
+      var total = 0;
+      QS.forEach(function (q) {
+        var top = 0;
+        q.opts.forEach(function (o) { if ((o.s[a] || 0) > top) top = o.s[a]; });
+        total += top;
+      });
+      if (total > best) best = total;
+    });
+    return best;
+  }
+  var MAXPREF = maxAxisPref();
+
+  /* =====================================================================
+     打分核心（口径固定，勿改）
+       pref[axis] = Σ 选中选项的 s[axis]
+       score[art] = Σ_a pref[a] * art.vec[a]
+     art.vec 已减中位数（正负都有），pref 天然有正负 —— 直接点乘。
+     不做归一化、不取绝对值、不再中心化。
+     ⚠️ 多选题：answers[q.id] 是**下标数组**，被勾中的每个选项的 s 都累加进去。
+        单选祖先选的那个下标也归一化成单元素数组，两条路径共用同一套累加逻辑。
+     ===================================================================== */
+  function isMulti(q) { return !!(q && q.multi); }
+
+  /** 把任一形态的答案归一化成下标数组（单选 = [i]，多选 = [i,...]，未答 = []） */
+  function answersOf(q, answers) {
+    var v = answers[q.id];
+    if (v === undefined || v === null) return [];
+    if (Object.prototype.toString.call(v) === "[object Array]") {
+      return v.filter(function (i) {
+        return typeof i === "number" && i >= 0 && i < q.opts.length;
+      }).sort(function (a, b) { return a - b; });
+    }
+    return (typeof v === "number" && v >= 0 && v < q.opts.length) ? [v] : [];
+  }
+
+  /** 题里有几项被勾中（单选答了就是 1） */
+  function picksOf(q, answers) { return answersOf(q, answers).length; }
+
+  function prefVector(answers) {
+    var pref = {};
+    AXES.forEach(function (a) { pref[a] = 0; });
+    QS.forEach(function (q) {
+      answersOf(q, answers).forEach(function (i) {
+        var s = q.opts[i].s;                 // s 可以为负
+        for (var k in s) {
+          if (Object.prototype.hasOwnProperty.call(s, k)) pref[k] += s[k];
+        }
+      });
+    });
+    return pref;
+  }
+
+  function scoreArt(pref, vec) {
+    var s = 0;
+    for (var i = 0; i < AXES.length; i++) s += pref[AXES[i]] * vec[AXES[i]];
+    return s;
+  }
+
+  /** 排序取前 n 名，同一个主将只保留最高分的那张（art_id 去重 → 主将去重） */
+  function recommend(pref, n) {
+    n = n || 3;
+    var scored = ARTS.map(function (art) {
+      return { art: art, score: scoreArt(pref, art.vec) };
+    });
+    scored.sort(function (x, y) {
+      if (y.score !== x.score) return y.score - x.score;
+      return String(x.art.art_id).localeCompare(String(y.art.art_id));  // 稳定
+    });
+    var out = [], seen = {};
+    for (var i = 0; i < scored.length && out.length < n; i++) {
+      var key = scored[i].art.cmdr_en || scored[i].art.cmdr_zh || scored[i].art.art_id;
+      if (seen[key]) continue;
+      seen[key] = true;
+      out.push(scored[i]);
+    }
+    return out;
+  }
+
+  /** 审美画像：|pref| 最大的 5 个轴，带方向与条形图宽度（宽度以本次最大值为基准，故恒在 0~100%） */
+  function profile(pref, k) {
+    k = k || 5;
+    var rows = AXES.map(function (a) {
+      var v = pref[a] || 0;
+      return { axis: a, value: v, mag: Math.abs(v), info: AXIS_INFO[a],
+               pole: v >= 0 ? AXIS_INFO[a].pos : AXIS_INFO[a].neg };
+    });
+    rows.sort(function (x, y) {
+      if (y.mag !== x.mag) return y.mag - x.mag;
+      return AXES.indexOf(x.axis) - AXES.indexOf(y.axis);
+    });
+    var top = rows.slice(0, k);
+    var max = top.length ? top[0].mag : 0;
+    return top.map(function (r) {
+      r.pct = max > 0 ? (r.mag / max) * 100 : 0;   // never negative, never > 100
+      return r;
+    });
+  }
+
+  /* ------------------------- 状态机 ------------------------- */
+  /* answers[q.id]：单选 = 下标（number）；多选 = 下标数组（number[]，升序、去重） */
+  var state = { screen: "intro", index: 0, answers: {}, last: null };
+
+  function answeredCount() {
+    return QS.filter(function (q) { return picksOf(q, state.answers) > 0; }).length;
+  }
+  function reset() { state = { screen: "intro", index: 0, answers: {}, last: null }; }
+
+  /** 单选题：选中即记下并自动翻页（行为与多选版之前完全一致） */
+  function choose(i) {
+    var q = QS[state.index];
+    if (!q || i < 0 || i >= q.opts.length) return;
+    if (isMulti(q)) { toggle(i); return; }      // 多选题误走单选路径时退化成勾选
+    state.answers[q.id] = i;
+    advance();
+  }
+
+  /** 多选题：点一下勾上、再点一下取消（可勾 0~n 个） */
+  function toggle(i) {
+    var q = QS[state.index];
+    if (!q || !isMulti(q) || i < 0 || i >= q.opts.length) return;
+    var cur = answersOf(q, state.answers);
+    var at = cur.indexOf(i);
+    if (at >= 0) cur.splice(at, 1); else cur.push(i);
+    cur.sort(function (a, b) { return a - b; });
+    state.answers[q.id] = cur;
+    render();                                   // 多选不自动翻页，等「下一题」
+  }
+
+  /** 从当前题往后走一步；最后一题就走完 */
+  function advance() {
+    if (state.index < QS.length - 1) {
+      state.index += 1;
+      state.screen = "quiz";
+    } else {
+      state.screen = "result";
+      state.last = { pref: prefVector(state.answers),
+                     picks: recommend(prefVector(state.answers), 3) };
+    }
+    render();
+  }
+
+  /** 当前题能不能往后走：多选题要有 ≥ 1 个勾选（单选题永远可以） */
+  function canAdvance() {
+    var q = QS[state.index];
+    if (!q) return false;
+    return !isMulti(q) || picksOf(q, state.answers) >= 1;
+  }
+
+  function back() {
+    if (state.screen === "result") { state.screen = "quiz"; state.index = QS.length - 1; render(); return; }
+    if (state.index > 0) { state.index -= 1; render(); }
+  }
+
+  function toResult() {
+    state.screen = "result";
+    state.last = { pref: prefVector(state.answers),
+                   picks: recommend(prefVector(state.answers), 3) };
+    render();
+  }
+
+  function start() { reset(); state.screen = "quiz"; state.index = 0; render(); }
+  function restart() { reset(); render(); }
+
+  /* ------------------------- 渲染 ------------------------- */
+  var esc = function (s) {
+    return String(s == null ? "" : s)
+      .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;").replace(/'/g, "&#39;");
+  };
+
+  // 图片加载失败兜底：把 <img> 换成占位块（onerror / 无 JS 都不会留破图）
+  function placeholderHtml(art, i) {
+    return '<div class="ph">' +
+             '<div class="ph-i">🃏</div>' +
+             '<div class="ph-n">' + esc(art.cmdr_zh) + '</div>' +
+             '<div class="ph-t">插画加载失败<br>（检查 data/cards/art_crop/ 是否在）</div>' +
+           '</div>';
+  }
+
+  // ---- 内嵌图 → blob URL ----------------------------------------------
+  // 有些沙箱化的浏览环境（GUI 预览窗、微信内置浏览器）会屏蔽 data: URI 图片。
+  // blob: 由本文档自己生成，属同源资源，能过这种限制。
+  // 失败时回退到 data:，行为与原来一致。
+  var __blobCache = {};
+  function blobUrlOf(art) {
+    var raw = art && art.img || "";
+    if (raw.indexOf("data:") !== 0) return raw;      // 外链版：原样返回
+    if (__blobCache[art.art_id]) return __blobCache[art.art_id];
+    var url = raw;
+    try {
+      var comma = raw.indexOf(",");
+      var meta = raw.slice(5, comma);                 // image/jpeg;base64
+      var b64 = raw.slice(comma + 1);
+      var bin = atob(b64);
+      var buf = new Uint8Array(bin.length);
+      for (var i = 0; i < bin.length; i++) buf[i] = bin.charCodeAt(i);
+      url = URL.createObjectURL(new Blob([buf], { type: "image/jpeg" }));
+    } catch (e) {
+      url = raw;                                      // 回退到 data:
+    }
+    __blobCache[art.art_id] = url;
+    return url;
+  }
+  // ----------------------------------------------------------------------
+
+  var IMG_HANDLERS = {};   // key -> onerror 回调，供冒烟测试触发
+
+  function renderIntro() {
+    var n1 = QS.length - multiCount();
+    var n2 = multiCount();
+    return '' +
+      '<div class="card">' +
+        '<h1>测一测你的<span class="hl">美术口味</span>，<br>再从 ' + ARTS.length +
+          ' 张万智牌插画里挑出你可能喜欢的。</h1>' +
+        '<p class="lead">这是 ' + QS.length + ' 道小题，都是日常小问题，没有对错，' +
+          '也没有牌面强弱 —— 只问一件事：什么样的画面让你愿意多看两眼。</p>' +
+        '<p class="lead">前 ' + n1 + ' 道每题 4 个选项，从「房间刷成什么样」「想养只什么」' +
+          '一路问到「你爱看哪种片子」「手机壳挑哪种」，选完自动进入下一题。' +
+          '最后是 ' + n2 + ' 道<span class="kw">多选题</span>：和哪些存在成为伙伴、' +
+          '你自己想挑个什么身份、故事里的对手你希望是哪种 —— ' +
+          '人、人形异类、巨兽、异形、小兽、写实动物、机械，每道都想勾几个就勾几个；' +
+          '几道的勾选会叠加起来，把勾中的每一类一起抬到推荐前排。</p>' +
+        '<p class="lead">答完会算出你的口味向量，拿去和每一张插画的图像特征做匹配，' +
+          '挑出 <span class="kw">3 位最适合你的主将插画</span>，并告诉你自己的口味偏向哪几头。</p>' +
+        '<div class="facts">' +
+          '<div class="fact"><div class="k">题目</div><div class="v">' + QS.length + ' 题</div></div>' +
+          '<div class="fact"><div class="k">插画池</div><div class="v">' + ARTS.length + ' 张</div></div>' +
+          '<div class="fact"><div class="k">主将</div><div class="v">' + commanderCount() + ' 位</div></div>' +
+          '<div class="fact"><div class="k">预计用时</div><div class="v">2~3 分钟</div></div>' +
+        '</div>' +
+        '<div class="row mt">' +
+          '<button class="btn" data-act="start">开始 →</button>' +
+        '</div>' +
+        '<div class="mt-s"><span class="muted">全部在本地运行：不联网、不上传、不埋点，' +
+          '答完关掉页面什么都不留下。</span></div>' +
+      '</div>';
+  }
+
+  function commanderCount() {
+    var seen = {}, n = 0;
+    ARTS.forEach(function (a) { if (!seen[a.cmdr_en]) { seen[a.cmdr_en] = 1; n++; } });
+    return n;
+  }
+
+  function renderQuiz() {
+    var q = QS[state.index];
+    if (!q) return '<div class="card"><p>题目数据缺失。</p></div>';
+    var multi = isMulti(q);
+    var picked = answersOf(q, state.answers);
+    var opts = q.opts.map(function (o, i) {
+      var on = picked.indexOf(i) >= 0;
+      return '<button class="opt' + (multi ? " multi" : "") + (on ? " on" : "") + '"' +
+             ' data-act="' + (multi ? "toggle" : "choose") + '" data-i="' + i + '"' +
+             (multi ? ' data-multi="1" aria-pressed="' + (on ? "true" : "false") + '"' : '') +
+             '>' +
+               (multi ? '<span class="box" aria-hidden="true"></span>' : '') +
+               '<span class="idx">' + LETTERS[i] + '</span>' +
+               '<span class="txt">' + esc(o.t) + '</span>' +
+             '</button>';
+    }).join("");
+    var tools = state.index > 0
+      ? '<button class="btn ghost" data-act="back">← 上一题</button>'
+      : '';
+    var next = '';
+    if (multi) {
+      var n = picked.length;
+      next = '<button class="btn" data-act="next"' + (n >= 1 ? '' : ' disabled') + '>' +
+             (state.index < QS.length - 1 ? '下一题 →' : '看结果 →') + '</button>';
+      tools = next + tools;
+    }
+    var tip = multi
+      ? '<div class="muted" style="margin-bottom:12px">可多选，点一下勾上、再点一下取消；' +
+        '选了几项在下面数着。勾中的每一类都会在推荐里占到分量，' +
+        '勾满全部 ' + q.opts.length + ' 类＝「我都行」，形态这一维对你完全中立。' +
+        '这一维一共有 ' + multiCount() + ' 道题，几道的勾选会叠加。</div>'
+      : '';
+    var counter = multi
+      ? '第 ' + (state.index + 1) + ' 题 / 共 ' + QS.length + ' 题　·　已勾 ' +
+        '<span class="pick-count">' + picked.length + '</span> / ' + q.opts.length + ' 项'
+      : '第 ' + (state.index + 1) + ' 题 / 共 ' + QS.length + ' 题';
+    return '<div class="card">' +
+             '<div class="muted" style="margin-bottom:10px">' + counter + '</div>' +
+             '<h2>' + esc(q.q) + '</h2>' +
+             tip +
+             '<div class="opts">' + opts + '</div>' +
+             (tools ? '<div class="row mt">' + tools + '</div>' : '') +
+           '</div>';
+  }
+
+  /** 画面形态那几道多选题：用户各勾了哪几类（结果页用来交代「你选的伙伴」）
+   *  ⚠️ 形态题现在是 3 道（b01/b02/b03），三道都要列出来 —— 只取第一道会漏掉后面的勾选。 */
+  function formSummary(answers) {
+    var rows = QS.filter(function (q) { return isMulti(q); });
+    if (!rows.length) return null;
+    var pickedTotal = 0, slotTotal = 0, allAll = true, items = [];
+    rows.forEach(function (q) {
+      var picked = answersOf(q, answers);
+      var all = picked.length === q.opts.length && q.opts.length > 0;
+      var chips = picked.map(function (i) { return { t: q.opts[i].t, on: true }; });
+      q.opts.forEach(function (o, i) {
+        if (picked.indexOf(i) < 0) chips.push({ t: o.t, on: false });
+      });
+      pickedTotal += picked.length;
+      slotTotal += q.opts.length;
+      if (!all) allAll = false;
+      items.push({ q: q, picked: picked, total: q.opts.length, all: all, chips: chips });
+    });
+    return { n_q: rows.length, pickedTotal: pickedTotal, slotTotal: slotTotal,
+             all: allAll, items: items, q: rows[0] };
+  }
+
+  /** 一共几道多选题 / 一共勾了几项（开场页与进度条用，都是算出来的） */
+  function multiCount() {
+    return QS.filter(function (q) { return isMulti(q); }).length;
+  }
+
+  function renderResult() {
+    var res = state.last || (state.last = {
+      pref: prefVector(state.answers), picks: recommend(prefVector(state.answers), 3)
+    });
+    var picks = res.picks;
+
+    /* ① 三张推荐 */
+    var cards = picks.map(function (p, i) {
+      var art = p.art;
+      var src = BASE + blobUrlOf(art);
+      IMG_HANDLERS[art.art_id] = function (el) {
+        if (el && el.parentNode) el.parentNode.innerHTML = placeholderHtml(art, i);
+      };
+      return '<div class="pick' + (i === 0 ? ' rank1' : '') + '">' +
+        '<div class="badge">' + (i === 0 ? "最符合你偏好的" : "第 " + (i + 1) + " 名") + '</div>' +
+        '<div class="shot">' +
+          '<img src="' + esc(src) + '" alt="' + esc(art.cmdr_zh) + ' 的插画" ' +
+               'loading="lazy" data-img-key="' + esc(art.art_id) + '" ' +
+               'onerror="window.__artQuizImgError&&window.__artQuizImgError(this)">' +
+        '</div>' +
+        '<div class="info">' +
+          '<div class="nm">' + esc(art.cmdr_zh) + '</div>' +
+          // 官方没有中文印刷版的 11 张（cmdr_zh 退回英文名）不再重复一遍英文
+          (art.cmdr_zh === art.cmdr_en ? '' : '<div class="en">' + esc(art.cmdr_en) + '</div>') +
+          '<div class="kv"><span class="lb">画师</span>' + esc(art.artist) + '<br>' +
+            '<span class="lb">出自</span>' + esc(art.set_name) +
+            (art.released_at ? ' · ' + esc(String(art.released_at).slice(0, 4)) : '') + '</div>' +
+        '</div>' +
+      '</div>';
+    }).join("");
+
+    /* ② 你勾的画面形态（三道形态题分别列出） */
+    var fs = formSummary(state.answers);
+    var formHtml = '';
+    if (fs) {
+      var blocks = fs.items.map(function (it) {
+        var chips = it.chips.map(function (c) {
+          return '<span class="chip' + (c.on ? '' : ' dim') + '">' +
+            (c.on ? '✓ ' : '') + esc(c.t) + '</span>';
+        }).join("");
+        return '<div class="fs-q">' +
+          '<div class="fs-t">' + esc(it.q.q) + '　<span class="muted">勾了 ' +
+            it.picked.length + ' / ' + it.total + ' 项</span></div>' +
+          '<div class="chips">' + chips + '</div>' +
+        '</div>';
+      }).join("");
+      formHtml = '<div class="sect">' +
+        '<h3>你选的伙伴</h3>' +
+        '<div class="sd">' + fs.n_q + ' 道形态题你一共勾了 <span class="kw">' +
+          fs.pickedTotal + ' / ' + fs.slotTotal + '</span> 项：' +
+          (fs.all
+            ? '每道都全部勾满 ＝「我都行」，这一维对你不偏不向 —— 六类画面在你眼里没有系统性区别，' +
+              '推荐完全由上面 9 个图像特征决定。'
+            : '勾中的每一类都按同一份推力算（六类之间的平均分差 < 0.03），' +
+              '所以打勾的这几类会一起被抬上来，没勾的不会被抬高。') +
+        '</div>' +
+        blocks +
+      '</div>';
+    }
+
+    /* ③ 审美画像 */
+    var rows = profile(res.pref, 5);
+    var axes = rows.map(function (r) {
+      var neg = r.value < 0;
+      return '<div class="axis">' +
+        '<div class="hd">' +
+          '<span class="zl"><span class="pl">' + esc(r.pole) + '</span>' +
+            '<span class="an">' + esc(r.info.zh) + '</span></span>' +
+          '<span class="vn">强度 ' + r.mag.toFixed(1) + '</span>' +
+        '</div>' +
+        '<div class="track"><i class="' + (neg ? "neg" : "") + '" style="width:' +
+          r.pct.toFixed(1) + '%"></i></div>' +
+        '<div class="ends"><span>' + esc(r.info.neg) + '</span><span>' + esc(r.info.pos) + '</span></div>' +
+      '</div>';
+    }).join("");
+
+    return '' +
+      '<div class="card">' +
+        '<div class="rhero">' +
+          '<div class="rtitle">你的结果</div>' +
+          '<div class="rsub">从 ' + ARTS.length + ' 张插画里，<br>挑出这 3 位最像你口味的</div>' +
+          '<div class="rnote">按你的口味向量与每张插画的图像特征点乘排序，' +
+            '同一个主将只保留分最高的那一版。</div>' +
+        '</div>' +
+        '<div class="picks">' + cards + '</div>' +
+      '</div>' +
+
+      formHtml +
+
+      '<div class="sect">' +
+        '<h3>你的审美画像</h3>' +
+        '<div class="sd">' +
+          '下面是你要求最强烈的 5 个维度（按强度排序）。条形越长＝这个维度上你的口味越明确；' +
+          '「强度」就是该轴的偏好值绝对大小，本次满分 ' + MAXPREF.toFixed(1) + '。' +
+        '</div>' +
+        '<div class="prof">' + axes + '</div>' +
+      '</div>' +
+
+      '<div class="foot">' +
+        '<button class="btn" data-act="restart">↻ 重新测一次</button>' +
+        '<div class="disclaim">' +
+          '画像里的 25 个轴分三类：9 个来自插画的图像统计量（色温、明度、饱和度、色相数量、' +
+          '细节密度、对比度）与卡牌元数据（首次印制年份、是否无边、画师在你池子里的出现次数）；' +
+          '7 个是<span class="kw">画面形态</span>轴（人、人形异类、巨兽、异形、小兽、写实动物、机械），' +
+          '来自对每张插画的人工分类；另外 9 个是<span class="kw">画风</span>轴' +
+          '（神秘、史诗、黑暗、怪诞、激烈、温暖、宁静、可爱、忧郁），' +
+          '来自对每张插画人工打的氛围标签。每个轴都做了零均值处理、SD 统一到 0.2887，权重才有统一含义。' +
+          '池子里 ' + ARTS.length + ' 张插画（另有 7 张纯场景/抽象的插画不参与匹配）。' +
+          '插画版权归 Wizards of the Coast 与各位画师所有，本页只做本地展示，不联网。' +
+        '</div>' +
+      '</div>';
+  }
+
+  function render() {
+    var app = document.getElementById("app");
+    var phase = document.getElementById("phase");
+    var progress = document.getElementById("progress");
+    var hint = document.getElementById("q-hint");
+
+    if (state.screen === "intro") {
+      app.innerHTML = renderIntro();
+      phase.textContent = "";
+      progress.hidden = true;
+      return;
+    }
+    if (state.screen === "quiz") {
+      app.innerHTML = renderQuiz();
+      phase.textContent = "答题中";
+      progress.hidden = false;
+      // 进度一律按「第几题」算（= 前面已答完 + 当前这题），多选题勾完才推进
+      var done = answeredCount();
+      document.getElementById("q-now").textContent = String(state.index + 1);
+      document.getElementById("q-total").textContent = String(QS.length);
+      document.getElementById("bar-fill").style.width =
+        ((done / QS.length) * 100).toFixed(1) + "%";
+      hint.textContent = state.index < QS.length - 1 ? "已答 " + done + " 题" : "最后一题";
+      return;
+    }
+    app.innerHTML = renderResult();
+    phase.textContent = "结果";
+    progress.hidden = false;
+    document.getElementById("q-now").textContent = String(QS.length);
+    document.getElementById("q-total").textContent = String(QS.length);
+    document.getElementById("bar-fill").style.width = "100%";
+    if (hint) hint.textContent = "已完成";
+  }
+
+  /* ------------------------- 事件（委托，便于桩测试） ------------------------- */
+  function onClick(e) {
+    var el = e.target;
+    while (el && el !== document && !(el.getAttribute && el.getAttribute("data-act"))) {
+      el = el.parentNode;
+    }
+    if (!el || !el.getAttribute) return;
+    var act = el.getAttribute("data-act");
+    if (act === "start") { start(); }
+    else if (act === "choose") { choose(parseInt(el.getAttribute("data-i"), 10)); }
+    else if (act === "toggle") { toggle(parseInt(el.getAttribute("data-i"), 10)); }
+    else if (act === "next") { if (canAdvance()) advance(); }
+    else if (act === "back") { back(); }
+    else if (act === "restart") { restart(); }
+  }
+
+  if (document.addEventListener) document.addEventListener("click", onClick, false);
+
+  // 供 onerror 使用
+  window.__artQuizImgError = function (el) {
+    var key = el && el.getAttribute ? el.getAttribute("data-img-key") : null;
+    var fn = key && IMG_HANDLERS[key];
+    if (fn) fn(el);
+  };
+
+  /* ------------------------- 对外接口（也供 scripts/smoke_test.mjs） ------------------------- */
+  window.__artQuiz = {
+    AXES: AXES,
+    AXIS_INFO: AXIS_INFO,
+    FORMS: DATA.forms || [],
+    Q: QS,
+    ARTS: ARTS,
+    BASE: BASE,
+    MAXPREF: MAXPREF,
+    getState: function () { return state; },
+    isMulti: isMulti,
+    answersOf: answersOf,
+    picksOf: picksOf,
+    multiCount: multiCount,
+    formSummary: function () { return formSummary(state.answers); },
+    canAdvance: canAdvance,
+    prefVector: prefVector,
+    scoreArt: scoreArt,
+    recommend: recommend,
+    profile: profile,
+    commanderCount: commanderCount,
+    placeholderHtml: placeholderHtml,
+    imgHandlers: IMG_HANDLERS,
+    start: start,
+    choose: choose,
+    toggle: toggle,
+    advance: advance,
+    back: back,
+    toResult: toResult,
+    restart: restart,
+    render: render,
+    onClick: onClick
+  };
+
+  render();
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,4828 @@
+[
+ {
+  "cmdr_en": "Atraxa, Grand Unifier",
+  "cmdr_zh": "大一统飞将亚崔夏",
+  "cmdr_rank": 104,
+  "cmdr_colors": "BGUW",
+  "form_hint": "扭曲异形",
+  "art_id": "f2ebe584-386c-424a-b8c0-2becc8fda954",
+  "face": 0,
+  "face_name": "Atraxa, Grand Unifier",
+  "artist": "Tetsuya Nomura",
+  "set": "fca",
+  "set_name": "Final Fantasy: Through the Ages",
+  "collector_number": "49",
+  "released_at": "2025-06-13",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [
+   "sourcematerial",
+   "universesbeyond",
+   "ffvii",
+   "boosterfun"
+  ],
+  "full_art": true,
+  "type_line": "Legendary Creature — Phyrexian Angel",
+  "types": [
+   "phyrexian"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/b/e/be326fe9-4ed8-4f64-934c-9955edea5fdb.jpg?1783906381",
+  "image_normal": "https://cards.scryfall.io/normal/front/b/e/be326fe9-4ed8-4f64-934c-9955edea5fdb.jpg?1783906381",
+  "image_large": "https://cards.scryfall.io/large/front/b/e/be326fe9-4ed8-4f64-934c-9955edea5fdb.jpg?1783906381",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/b/e/be326fe9-4ed8-4f64-934c-9955edea5fdb.jpg?1783906381",
+  "local_art_crop": "cards/art_crop/f2ebe584-386c-424a-b8c0-2becc8fda954.jpg",
+  "local_normal": "cards/normal/f2ebe584-386c-424a-b8c0-2becc8fda954.jpg",
+  "local_large": "cards/large/f2ebe584-386c-424a-b8c0-2becc8fda954.jpg",
+  "art": {
+   "brightness": 0.432,
+   "contrast": 0.2754,
+   "saturation": 0.1024,
+   "warmth": 0.4848,
+   "variety": 0.7962,
+   "detail": 0.0462,
+   "dark_ratio": 0.059,
+   "bright_ratio": 0.1825
+  }
+ },
+ {
+  "cmdr_en": "Atraxa, Grand Unifier",
+  "cmdr_zh": "大一统飞将亚崔夏",
+  "cmdr_rank": 104,
+  "cmdr_colors": "BGUW",
+  "form_hint": "扭曲异形",
+  "art_id": "d2bf0b07-a06a-4e27-95c0-e9fa78a92407",
+  "face": 0,
+  "face_name": "Atraxa, Grand Unifier",
+  "artist": "Anato Finnstark",
+  "set": "one",
+  "set_name": "Phyrexia: All Will Be One",
+  "collector_number": "459",
+  "released_at": "2023-02-10",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "inverted",
+   "showcase"
+  ],
+  "promo": false,
+  "promo_types": [
+   "stepandcompleat",
+   "boosterfun"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Phyrexian Angel",
+  "types": [
+   "phyrexian"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/b/4/b4d5df16-3f65-4616-9d41-b8a9afb1e6bb.jpg?1783917897",
+  "image_normal": "https://cards.scryfall.io/normal/front/b/4/b4d5df16-3f65-4616-9d41-b8a9afb1e6bb.jpg?1783917897",
+  "image_large": "https://cards.scryfall.io/large/front/b/4/b4d5df16-3f65-4616-9d41-b8a9afb1e6bb.jpg?1783917897",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/b/4/b4d5df16-3f65-4616-9d41-b8a9afb1e6bb.jpg?1783917897",
+  "local_art_crop": "cards/art_crop/d2bf0b07-a06a-4e27-95c0-e9fa78a92407.jpg",
+  "local_normal": "cards/normal/d2bf0b07-a06a-4e27-95c0-e9fa78a92407.jpg",
+  "local_large": "cards/large/d2bf0b07-a06a-4e27-95c0-e9fa78a92407.jpg",
+  "art": {
+   "brightness": 0.7354,
+   "contrast": 0.2859,
+   "saturation": 0.1973,
+   "warmth": 0.8441,
+   "variety": 0.4654,
+   "detail": 0.0555,
+   "dark_ratio": 0.1072,
+   "bright_ratio": 0.5655
+  }
+ },
+ {
+  "cmdr_en": "Deadpool, Trading Card",
+  "cmdr_zh": "集换卡牌死侍",
+  "cmdr_rank": 105,
+  "cmdr_colors": "BR",
+  "form_hint": "扭曲异形",
+  "art_id": "194c6f28-197c-49ea-91e3-5312dc2b0a0b",
+  "face": 0,
+  "face_name": "Deadpool, Trading Card",
+  "artist": "Justine Cruz",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "collector_number": "1753",
+  "released_at": "2025-04-01",
+  "border_color": "borderless",
+  "frame_effects": [
+   "inverted",
+   "legendary"
+  ],
+  "promo": false,
+  "promo_types": [
+   "universesbeyond"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Mutant Mercenary Hero",
+  "types": [
+   "mutant"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/3/a/3a14d6c5-cfd1-4860-834a-5a0dc9df0320.jpg?1783907438",
+  "image_normal": "https://cards.scryfall.io/normal/front/3/a/3a14d6c5-cfd1-4860-834a-5a0dc9df0320.jpg?1783907438",
+  "image_large": "https://cards.scryfall.io/large/front/3/a/3a14d6c5-cfd1-4860-834a-5a0dc9df0320.jpg?1783907438",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/3/a/3a14d6c5-cfd1-4860-834a-5a0dc9df0320.jpg?1783907438",
+  "local_art_crop": "cards/art_crop/194c6f28-197c-49ea-91e3-5312dc2b0a0b.jpg",
+  "local_normal": "cards/normal/194c6f28-197c-49ea-91e3-5312dc2b0a0b.jpg",
+  "local_large": "cards/large/194c6f28-197c-49ea-91e3-5312dc2b0a0b.jpg",
+  "art": {
+   "brightness": 0.3649,
+   "contrast": 0.2084,
+   "saturation": 0.4296,
+   "warmth": -0.3313,
+   "variety": 0.5894,
+   "detail": 0.0347,
+   "dark_ratio": 0.2935,
+   "bright_ratio": 0.0428
+  }
+ },
+ {
+  "cmdr_en": "Deadpool, Trading Card",
+  "cmdr_zh": "集换卡牌死侍",
+  "cmdr_rank": 105,
+  "cmdr_colors": "BR",
+  "form_hint": "扭曲异形",
+  "art_id": "f27c1453-2657-45aa-baff-b5c0ecb9e1ee",
+  "face": 0,
+  "face_name": "Deadpool, Trading Card",
+  "artist": "Mark Bagley & Jay David Ramos",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "collector_number": "7129",
+  "released_at": "2026-04-02",
+  "border_color": "black",
+  "frame_effects": [],
+  "promo": false,
+  "promo_types": [
+   "sldbonus",
+   "dazzlefoil",
+   "universesbeyond"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Mutant Mercenary Hero",
+  "types": [
+   "mutant"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/f/f/ffef4e1a-4ae8-41e7-a47a-9f23c2709e50.jpg?1783903994",
+  "image_normal": "https://cards.scryfall.io/normal/front/f/f/ffef4e1a-4ae8-41e7-a47a-9f23c2709e50.jpg?1783903994",
+  "image_large": "https://cards.scryfall.io/large/front/f/f/ffef4e1a-4ae8-41e7-a47a-9f23c2709e50.jpg?1783903994",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/f/f/ffef4e1a-4ae8-41e7-a47a-9f23c2709e50.jpg?1783903994",
+  "local_art_crop": "cards/art_crop/f27c1453-2657-45aa-baff-b5c0ecb9e1ee.jpg",
+  "local_normal": "cards/normal/f27c1453-2657-45aa-baff-b5c0ecb9e1ee.jpg",
+  "local_large": "cards/large/f27c1453-2657-45aa-baff-b5c0ecb9e1ee.jpg",
+  "art": {
+   "brightness": 0.4822,
+   "contrast": 0.2832,
+   "saturation": 0.2917,
+   "warmth": 0.4657,
+   "variety": 0.7551,
+   "detail": 0.0684,
+   "dark_ratio": 0.1862,
+   "bright_ratio": 0.232
+  }
+ },
+ {
+  "cmdr_en": "Etali, Primal Conqueror // Etali, Primal Sickness",
+  "cmdr_zh": "始霸埃泰力",
+  "cmdr_rank": 107,
+  "cmdr_colors": "GR",
+  "form_hint": "扭曲异形",
+  "art_id": "b0739892-9047-4144-9acb-a586258befbc",
+  "face": 0,
+  "face_name": "Etali, Primal Conqueror",
+  "artist": "Yeong-Hao Han",
+  "set": "mom",
+  "set_name": "March of the Machine",
+  "collector_number": "298",
+  "released_at": "2023-04-21",
+  "border_color": "black",
+  "frame_effects": [
+   "showcase",
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [
+   "boosterfun"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Elder Dinosaur // Legendary Creature — Phyrexian Elder Dinosaur",
+  "types": [
+   "phyrexian"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/3/e/3e97c609-3932-4428-96d4-1c97e61f0abb.jpg?1783916922",
+  "image_normal": "https://cards.scryfall.io/normal/front/3/e/3e97c609-3932-4428-96d4-1c97e61f0abb.jpg?1783916922",
+  "image_large": "https://cards.scryfall.io/large/front/3/e/3e97c609-3932-4428-96d4-1c97e61f0abb.jpg?1783916922",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/3/e/3e97c609-3932-4428-96d4-1c97e61f0abb.jpg?1783916922",
+  "local_art_crop": "cards/art_crop/b0739892-9047-4144-9acb-a586258befbc.jpg",
+  "local_normal": "cards/normal/b0739892-9047-4144-9acb-a586258befbc.jpg",
+  "local_large": "cards/large/b0739892-9047-4144-9acb-a586258befbc.jpg",
+  "art": {
+   "brightness": 0.4347,
+   "contrast": 0.1513,
+   "saturation": 0.4952,
+   "warmth": 0.967,
+   "variety": 0.3634,
+   "detail": 0.0574,
+   "dark_ratio": 0.0459,
+   "bright_ratio": 0.0132
+  }
+ },
+ {
+  "cmdr_en": "Etali, Primal Conqueror // Etali, Primal Sickness",
+  "cmdr_zh": "始霸埃泰力",
+  "cmdr_rank": 107,
+  "cmdr_colors": "GR",
+  "form_hint": "扭曲异形",
+  "art_id": "2a96e266-775f-4c6f-a33c-0450227fa9d2",
+  "face": 1,
+  "face_name": "Etali, Primal Sickness",
+  "artist": "Yeong-Hao Han",
+  "set": "mom",
+  "set_name": "March of the Machine",
+  "collector_number": "298",
+  "released_at": "2023-04-21",
+  "border_color": "black",
+  "frame_effects": [
+   "showcase",
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [
+   "boosterfun"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Elder Dinosaur // Legendary Creature — Phyrexian Elder Dinosaur",
+  "types": [
+   "phyrexian"
+  ],
+  "image_small": "https://cards.scryfall.io/small/back/3/e/3e97c609-3932-4428-96d4-1c97e61f0abb.jpg?1783916922",
+  "image_normal": "https://cards.scryfall.io/normal/back/3/e/3e97c609-3932-4428-96d4-1c97e61f0abb.jpg?1783916922",
+  "image_large": "https://cards.scryfall.io/large/back/3/e/3e97c609-3932-4428-96d4-1c97e61f0abb.jpg?1783916922",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/back/3/e/3e97c609-3932-4428-96d4-1c97e61f0abb.jpg?1783916922",
+  "local_art_crop": "cards/art_crop/2a96e266-775f-4c6f-a33c-0450227fa9d2.jpg",
+  "local_normal": "cards/normal/2a96e266-775f-4c6f-a33c-0450227fa9d2.jpg",
+  "local_large": "cards/large/2a96e266-775f-4c6f-a33c-0450227fa9d2.jpg",
+  "art": {
+   "brightness": 0.4648,
+   "contrast": 0.1929,
+   "saturation": 0.4124,
+   "warmth": 0.8985,
+   "variety": 0.4596,
+   "detail": 0.0781,
+   "dark_ratio": 0.0787,
+   "bright_ratio": 0.0367
+  }
+ },
+ {
+  "cmdr_en": "Mendicant Core, Guidelight",
+  "cmdr_zh": "循光械济缘核心",
+  "cmdr_rank": 109,
+  "cmdr_colors": "UW",
+  "form_hint": "机械构装",
+  "art_id": "7d4d9c6f-2870-4bb3-a190-5514f560612f",
+  "face": 0,
+  "face_name": "Mendicant Core, Guidelight",
+  "artist": "Dan Mumford",
+  "set": "dft",
+  "set_name": "Aetherdrift",
+  "collector_number": "365",
+  "released_at": "2025-02-14",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [
+   "boosterfun"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Artifact Creature — Robot",
+  "types": [
+   "robot"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/6/f/6f11d7a7-72e9-406e-a701-5c3a556a43e0.jpg?1783907807",
+  "image_normal": "https://cards.scryfall.io/normal/front/6/f/6f11d7a7-72e9-406e-a701-5c3a556a43e0.jpg?1783907807",
+  "image_large": "https://cards.scryfall.io/large/front/6/f/6f11d7a7-72e9-406e-a701-5c3a556a43e0.jpg?1783907807",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/6/f/6f11d7a7-72e9-406e-a701-5c3a556a43e0.jpg?1783907807",
+  "local_art_crop": "cards/art_crop/7d4d9c6f-2870-4bb3-a190-5514f560612f.jpg",
+  "local_normal": "cards/normal/7d4d9c6f-2870-4bb3-a190-5514f560612f.jpg",
+  "local_large": "cards/large/7d4d9c6f-2870-4bb3-a190-5514f560612f.jpg",
+  "art": {
+   "brightness": 0.5358,
+   "contrast": 0.2576,
+   "saturation": 0.4722,
+   "warmth": 0.2291,
+   "variety": 0.6745,
+   "detail": 0.0999,
+   "dark_ratio": 0.1644,
+   "bright_ratio": 0.1684
+  }
+ },
+ {
+  "cmdr_en": "Mendicant Core, Guidelight",
+  "cmdr_zh": "循光械济缘核心",
+  "cmdr_rank": 109,
+  "cmdr_colors": "UW",
+  "form_hint": "机械构装",
+  "art_id": "e54f5805-c80b-4087-af33-d42e94c85988",
+  "face": 0,
+  "face_name": "Mendicant Core, Guidelight",
+  "artist": "Zezhou Chen",
+  "set": "dft",
+  "set_name": "Aetherdrift",
+  "collector_number": "485",
+  "released_at": "2025-02-14",
+  "border_color": "yellow",
+  "frame_effects": [
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [
+   "firstplacefoil",
+   "boxtopper"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Artifact Creature — Robot",
+  "types": [
+   "robot"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/e/c/ec057f26-8d14-463b-84ce-cce82b95b08e.jpg?1783907773",
+  "image_normal": "https://cards.scryfall.io/normal/front/e/c/ec057f26-8d14-463b-84ce-cce82b95b08e.jpg?1783907773",
+  "image_large": "https://cards.scryfall.io/large/front/e/c/ec057f26-8d14-463b-84ce-cce82b95b08e.jpg?1783907773",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/e/c/ec057f26-8d14-463b-84ce-cce82b95b08e.jpg?1783907773",
+  "local_art_crop": "cards/art_crop/e54f5805-c80b-4087-af33-d42e94c85988.jpg",
+  "local_normal": "cards/normal/e54f5805-c80b-4087-af33-d42e94c85988.jpg",
+  "local_large": "cards/large/e54f5805-c80b-4087-af33-d42e94c85988.jpg",
+  "art": {
+   "brightness": 0.5287,
+   "contrast": 0.214,
+   "saturation": 0.6069,
+   "warmth": 0.7134,
+   "variety": 0.4214,
+   "detail": 0.0514,
+   "dark_ratio": 0.0643,
+   "bright_ratio": 0.0857
+  }
+ },
+ {
+  "cmdr_en": "Storm, Force of Nature",
+  "cmdr_zh": "自然之力暴风女",
+  "cmdr_rank": 114,
+  "cmdr_colors": "GRU",
+  "form_hint": "扭曲异形",
+  "art_id": "2a559433-c828-4609-b077-923190f607d5",
+  "face": 0,
+  "face_name": "Storm, Force of Nature",
+  "artist": "Ken Lashley & Juan Fernandez",
+  "set": "mar",
+  "set_name": "Marvel Universe",
+  "collector_number": "94",
+  "released_at": "2026-06-26",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [
+   "sourcematerial",
+   "universesbeyond"
+  ],
+  "full_art": true,
+  "type_line": "Legendary Creature — Mutant Hero",
+  "types": [
+   "mutant"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/0/8/08cd4665-9fc3-48f1-a136-41d4585b1bb4.jpg?1783903306",
+  "image_normal": "https://cards.scryfall.io/normal/front/0/8/08cd4665-9fc3-48f1-a136-41d4585b1bb4.jpg?1783903306",
+  "image_large": "https://cards.scryfall.io/large/front/0/8/08cd4665-9fc3-48f1-a136-41d4585b1bb4.jpg?1783903306",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/0/8/08cd4665-9fc3-48f1-a136-41d4585b1bb4.jpg?1783903306",
+  "local_art_crop": "cards/art_crop/2a559433-c828-4609-b077-923190f607d5.jpg",
+  "local_normal": "cards/normal/2a559433-c828-4609-b077-923190f607d5.jpg",
+  "local_large": "cards/large/2a559433-c828-4609-b077-923190f607d5.jpg",
+  "art": {
+   "brightness": 0.4538,
+   "contrast": 0.2621,
+   "saturation": 0.5194,
+   "warmth": -0.8679,
+   "variety": 0.5743,
+   "detail": 0.0615,
+   "dark_ratio": 0.2054,
+   "bright_ratio": 0.1234
+  }
+ },
+ {
+  "cmdr_en": "Storm, Force of Nature",
+  "cmdr_zh": "自然之力暴风女",
+  "cmdr_rank": 114,
+  "cmdr_colors": "GRU",
+  "form_hint": "扭曲异形",
+  "art_id": "a905a8d9-a2f1-4be3-93af-be705b8fc6d8",
+  "face": 0,
+  "face_name": "Storm, Force of Nature",
+  "artist": "Magali Villeneuve",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "collector_number": "1742",
+  "released_at": "2024-11-04",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [
+   "universesbeyond"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Mutant Hero",
+  "types": [
+   "mutant"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/6/a/6af7766e-7438-4128-a1f2-8b3b3ba3c650.jpg?1783909137",
+  "image_normal": "https://cards.scryfall.io/normal/front/6/a/6af7766e-7438-4128-a1f2-8b3b3ba3c650.jpg?1783909137",
+  "image_large": "https://cards.scryfall.io/large/front/6/a/6af7766e-7438-4128-a1f2-8b3b3ba3c650.jpg?1783909137",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/6/a/6af7766e-7438-4128-a1f2-8b3b3ba3c650.jpg?1783909137",
+  "local_art_crop": "cards/art_crop/a905a8d9-a2f1-4be3-93af-be705b8fc6d8.jpg",
+  "local_normal": "cards/normal/a905a8d9-a2f1-4be3-93af-be705b8fc6d8.jpg",
+  "local_large": "cards/large/a905a8d9-a2f1-4be3-93af-be705b8fc6d8.jpg",
+  "art": {
+   "brightness": 0.2679,
+   "contrast": 0.1728,
+   "saturation": 0.2983,
+   "warmth": -0.736,
+   "variety": 0.4854,
+   "detail": 0.0329,
+   "dark_ratio": 0.4249,
+   "bright_ratio": 0.0049
+  }
+ },
+ {
+  "cmdr_en": "Morophon, the Boundless",
+  "cmdr_zh": "无形莫洛丰",
+  "cmdr_rank": 115,
+  "cmdr_colors": "BGRUW",
+  "form_hint": "扭曲异形",
+  "art_id": "1367114e-80de-4bc9-8ad9-1dc1d2ccf13d",
+  "face": 0,
+  "face_name": "Morophon, the Boundless",
+  "artist": "Natalie Andrewson",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "collector_number": "1896",
+  "released_at": "2025-05-12",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [
+   "rainbowfoil"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Shapeshifter",
+  "types": [
+   "shapeshifter"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/5/8/58e4a55f-b35a-411a-9a05-0cbb0d767920.jpg?1783906685",
+  "image_normal": "https://cards.scryfall.io/normal/front/5/8/58e4a55f-b35a-411a-9a05-0cbb0d767920.jpg?1783906685",
+  "image_large": "https://cards.scryfall.io/large/front/5/8/58e4a55f-b35a-411a-9a05-0cbb0d767920.jpg?1783906685",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/5/8/58e4a55f-b35a-411a-9a05-0cbb0d767920.jpg?1783906685",
+  "local_art_crop": "cards/art_crop/1367114e-80de-4bc9-8ad9-1dc1d2ccf13d.jpg",
+  "local_normal": "cards/normal/1367114e-80de-4bc9-8ad9-1dc1d2ccf13d.jpg",
+  "local_large": "cards/large/1367114e-80de-4bc9-8ad9-1dc1d2ccf13d.jpg",
+  "art": {
+   "brightness": 0.6093,
+   "contrast": 0.184,
+   "saturation": 0.4114,
+   "warmth": 0.2868,
+   "variety": 0.8198,
+   "detail": 0.1019,
+   "dark_ratio": 0.0156,
+   "bright_ratio": 0.1968
+  }
+ },
+ {
+  "cmdr_en": "Morophon, the Boundless",
+  "cmdr_zh": "无形莫洛丰",
+  "cmdr_rank": 115,
+  "cmdr_colors": "BGRUW",
+  "form_hint": "扭曲异形",
+  "art_id": "b7449b07-147b-480b-8bd4-ea761621df15",
+  "face": 0,
+  "face_name": "Morophon, the Boundless",
+  "artist": "Jack Hughes",
+  "set": "cmm",
+  "set_name": "Commander Masters",
+  "collector_number": "1058",
+  "released_at": "2023-08-04",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [
+   "textured",
+   "portrait",
+   "boosterfun"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Shapeshifter",
+  "types": [
+   "shapeshifter"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/f/2/f21e1de9-7128-4797-8483-86ac826ab1e4.jpg?1783915369",
+  "image_normal": "https://cards.scryfall.io/normal/front/f/2/f21e1de9-7128-4797-8483-86ac826ab1e4.jpg?1783915369",
+  "image_large": "https://cards.scryfall.io/large/front/f/2/f21e1de9-7128-4797-8483-86ac826ab1e4.jpg?1783915369",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/f/2/f21e1de9-7128-4797-8483-86ac826ab1e4.jpg?1783915369",
+  "local_art_crop": "cards/art_crop/b7449b07-147b-480b-8bd4-ea761621df15.jpg",
+  "local_normal": "cards/normal/b7449b07-147b-480b-8bd4-ea761621df15.jpg",
+  "local_large": "cards/large/b7449b07-147b-480b-8bd4-ea761621df15.jpg",
+  "art": {
+   "brightness": 0.5842,
+   "contrast": 0.1375,
+   "saturation": 0.4238,
+   "warmth": -0.0742,
+   "variety": 0.3734,
+   "detail": 0.0415,
+   "dark_ratio": 0.0119,
+   "bright_ratio": 0.0417
+  }
+ },
+ {
+  "cmdr_en": "Omnath, Locus of All",
+  "cmdr_zh": "万物核欧那斯",
+  "cmdr_rank": 137,
+  "cmdr_colors": "BGRUW",
+  "form_hint": "扭曲异形",
+  "art_id": "88132aea-5e50-4b69-bab1-53eba5c0897d",
+  "face": 0,
+  "face_name": "Omnath, Locus of All",
+  "artist": "Jessica Rossier",
+  "set": "mom",
+  "set_name": "March of the Machine",
+  "collector_number": "313",
+  "released_at": "2023-04-21",
+  "border_color": "black",
+  "frame_effects": [
+   "showcase",
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [
+   "boosterfun"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Phyrexian Elemental",
+  "types": [
+   "phyrexian"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/5/b/5b998493-d2c5-48dd-8d0c-b63b6795acf6.jpg?1783916911",
+  "image_normal": "https://cards.scryfall.io/normal/front/5/b/5b998493-d2c5-48dd-8d0c-b63b6795acf6.jpg?1783916911",
+  "image_large": "https://cards.scryfall.io/large/front/5/b/5b998493-d2c5-48dd-8d0c-b63b6795acf6.jpg?1783916911",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/5/b/5b998493-d2c5-48dd-8d0c-b63b6795acf6.jpg?1783916911",
+  "local_art_crop": "cards/art_crop/88132aea-5e50-4b69-bab1-53eba5c0897d.jpg",
+  "local_normal": "cards/normal/88132aea-5e50-4b69-bab1-53eba5c0897d.jpg",
+  "local_large": "cards/large/88132aea-5e50-4b69-bab1-53eba5c0897d.jpg",
+  "art": {
+   "brightness": 0.2614,
+   "contrast": 0.1223,
+   "saturation": 0.5048,
+   "warmth": 0.6329,
+   "variety": 0.5119,
+   "detail": 0.0274,
+   "dark_ratio": 0.3268,
+   "bright_ratio": 0.0094
+  }
+ },
+ {
+  "cmdr_en": "Omnath, Locus of All",
+  "cmdr_zh": "万物核欧那斯",
+  "cmdr_rank": 137,
+  "cmdr_colors": "BGRUW",
+  "form_hint": "扭曲异形",
+  "art_id": "cd96b090-6ec5-412c-b238-f6e72c02ba39",
+  "face": 0,
+  "face_name": "Omnath, Locus of All",
+  "artist": "Bryan Sola",
+  "set": "mom",
+  "set_name": "March of the Machine",
+  "collector_number": "249",
+  "released_at": "2023-04-21",
+  "border_color": "black",
+  "frame_effects": [
+   "legendary"
+  ],
+  "promo": false,
+  "promo_types": [],
+  "full_art": false,
+  "type_line": "Legendary Creature — Phyrexian Elemental",
+  "types": [
+   "phyrexian"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/3/3/33d94ecf-758b-4f68-a7be-6bf3ff1047f4.jpg?1783916940",
+  "image_normal": "https://cards.scryfall.io/normal/front/3/3/33d94ecf-758b-4f68-a7be-6bf3ff1047f4.jpg?1783916940",
+  "image_large": "https://cards.scryfall.io/large/front/3/3/33d94ecf-758b-4f68-a7be-6bf3ff1047f4.jpg?1783916940",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/3/3/33d94ecf-758b-4f68-a7be-6bf3ff1047f4.jpg?1783916940",
+  "local_art_crop": "cards/art_crop/cd96b090-6ec5-412c-b238-f6e72c02ba39.jpg",
+  "local_normal": "cards/normal/cd96b090-6ec5-412c-b238-f6e72c02ba39.jpg",
+  "local_large": "cards/large/cd96b090-6ec5-412c-b238-f6e72c02ba39.jpg",
+  "art": {
+   "brightness": 0.2214,
+   "contrast": 0.1218,
+   "saturation": 0.6874,
+   "warmth": 0.6871,
+   "variety": 0.1711,
+   "detail": 0.0281,
+   "dark_ratio": 0.574,
+   "bright_ratio": 0.0055
+  }
+ },
+ {
+  "cmdr_en": "Kykar, Wind's Fury",
+  "cmdr_zh": "狂风怒火凯卡",
+  "cmdr_rank": 139,
+  "cmdr_colors": "RUW",
+  "form_hint": "可爱小兽",
+  "art_id": "5fc31f50-3f21-4add-9dd8-9ea6c6fb5b61",
+  "face": 0,
+  "face_name": "Kykar, Wind's Fury",
+  "artist": "Johan Grenier",
+  "set": "blc",
+  "set_name": "Bloomburrow Commander",
+  "collector_number": "91",
+  "released_at": "2024-08-02",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [
+   "boosterfun",
+   "imagine"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Bird Wizard",
+  "types": [
+   "bird"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/0/1/013fdf2d-8fa5-4d84-9a4d-e39dbed1c31b.jpg?1783910711",
+  "image_normal": "https://cards.scryfall.io/normal/front/0/1/013fdf2d-8fa5-4d84-9a4d-e39dbed1c31b.jpg?1783910711",
+  "image_large": "https://cards.scryfall.io/large/front/0/1/013fdf2d-8fa5-4d84-9a4d-e39dbed1c31b.jpg?1783910711",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/0/1/013fdf2d-8fa5-4d84-9a4d-e39dbed1c31b.jpg?1783910711",
+  "local_art_crop": "cards/art_crop/5fc31f50-3f21-4add-9dd8-9ea6c6fb5b61.jpg",
+  "local_normal": "cards/normal/5fc31f50-3f21-4add-9dd8-9ea6c6fb5b61.jpg",
+  "local_large": "cards/large/5fc31f50-3f21-4add-9dd8-9ea6c6fb5b61.jpg",
+  "art": {
+   "brightness": 0.4438,
+   "contrast": 0.1647,
+   "saturation": 0.3232,
+   "warmth": 0.5196,
+   "variety": 0.5768,
+   "detail": 0.033,
+   "dark_ratio": 0.0884,
+   "bright_ratio": 0.0383
+  }
+ },
+ {
+  "cmdr_en": "Kykar, Wind's Fury",
+  "cmdr_zh": "狂风怒火凯卡",
+  "cmdr_rank": 139,
+  "cmdr_colors": "RUW",
+  "form_hint": "可爱小兽",
+  "art_id": "a5dc8e4c-3582-4041-8427-7787d4d747b1",
+  "face": 0,
+  "face_name": "Kykar, Wind's Fury",
+  "artist": "April Prime",
+  "set": "cmm",
+  "set_name": "Commander Masters",
+  "collector_number": "683",
+  "released_at": "2023-08-04",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [
+   "portrait",
+   "boosterfun"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Bird Wizard",
+  "types": [
+   "bird"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/f/0/f01e857d-cc78-4364-9f31-6879d4ec74e1.jpg?1783915497",
+  "image_normal": "https://cards.scryfall.io/normal/front/f/0/f01e857d-cc78-4364-9f31-6879d4ec74e1.jpg?1783915497",
+  "image_large": "https://cards.scryfall.io/large/front/f/0/f01e857d-cc78-4364-9f31-6879d4ec74e1.jpg?1783915497",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/f/0/f01e857d-cc78-4364-9f31-6879d4ec74e1.jpg?1783915497",
+  "local_art_crop": "cards/art_crop/a5dc8e4c-3582-4041-8427-7787d4d747b1.jpg",
+  "local_normal": "cards/normal/a5dc8e4c-3582-4041-8427-7787d4d747b1.jpg",
+  "local_large": "cards/large/a5dc8e4c-3582-4041-8427-7787d4d747b1.jpg",
+  "art": {
+   "brightness": 0.4942,
+   "contrast": 0.1859,
+   "saturation": 0.5265,
+   "warmth": 0.7641,
+   "variety": 0.3934,
+   "detail": 0.0222,
+   "dark_ratio": 0.119,
+   "bright_ratio": 0.0478
+  }
+ },
+ {
+  "cmdr_en": "Azlask, the Swelling Scourge",
+  "cmdr_zh": "翻涌灾祸兹拉克",
+  "cmdr_rank": 153,
+  "cmdr_colors": "BGRUW",
+  "form_hint": "扭曲异形",
+  "art_id": "bafe5aae-4953-4ece-a9c8-98a2a32fec9d",
+  "face": 0,
+  "face_name": "Azlask, the Swelling Scourge",
+  "artist": "Cosmin Podar",
+  "set": "m3c",
+  "set_name": "Modern Horizons 3 Commander",
+  "collector_number": "136",
+  "released_at": "2024-06-14",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [
+   "ripplefoil",
+   "portrait",
+   "boosterfun"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Eldrazi",
+  "types": [
+   "eldrazi"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/c/b/cbe191c5-c019-4ee2-b3a4-dad4116d2bbb.jpg?1783911399",
+  "image_normal": "https://cards.scryfall.io/normal/front/c/b/cbe191c5-c019-4ee2-b3a4-dad4116d2bbb.jpg?1783911399",
+  "image_large": "https://cards.scryfall.io/large/front/c/b/cbe191c5-c019-4ee2-b3a4-dad4116d2bbb.jpg?1783911399",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/c/b/cbe191c5-c019-4ee2-b3a4-dad4116d2bbb.jpg?1783911399",
+  "local_art_crop": "cards/art_crop/bafe5aae-4953-4ece-a9c8-98a2a32fec9d.jpg",
+  "local_normal": "cards/normal/bafe5aae-4953-4ece-a9c8-98a2a32fec9d.jpg",
+  "local_large": "cards/large/bafe5aae-4953-4ece-a9c8-98a2a32fec9d.jpg",
+  "art": {
+   "brightness": 0.3623,
+   "contrast": 0.1731,
+   "saturation": 0.4011,
+   "warmth": 0.1311,
+   "variety": 0.6456,
+   "detail": 0.0272,
+   "dark_ratio": 0.2289,
+   "bright_ratio": 0.013
+  }
+ },
+ {
+  "cmdr_en": "Azlask, the Swelling Scourge",
+  "cmdr_zh": "翻涌灾祸兹拉克",
+  "cmdr_rank": 153,
+  "cmdr_colors": "BGRUW",
+  "form_hint": "扭曲异形",
+  "art_id": "fd78d186-f642-4576-8276-cc8ff066c64e",
+  "face": 0,
+  "face_name": "Azlask, the Swelling Scourge",
+  "artist": "Alexander Mokhov",
+  "set": "m3c",
+  "set_name": "Modern Horizons 3 Commander",
+  "collector_number": "25",
+  "released_at": "2024-06-14",
+  "border_color": "black",
+  "frame_effects": [
+   "legendary",
+   "extendedart"
+  ],
+  "promo": false,
+  "promo_types": [
+   "boosterfun"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Eldrazi",
+  "types": [
+   "eldrazi"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/d/3/d3cf185c-383b-4116-a03c-44126edffbf3.jpg?1783911432",
+  "image_normal": "https://cards.scryfall.io/normal/front/d/3/d3cf185c-383b-4116-a03c-44126edffbf3.jpg?1783911432",
+  "image_large": "https://cards.scryfall.io/large/front/d/3/d3cf185c-383b-4116-a03c-44126edffbf3.jpg?1783911432",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/d/3/d3cf185c-383b-4116-a03c-44126edffbf3.jpg?1783911432",
+  "local_art_crop": "cards/art_crop/fd78d186-f642-4576-8276-cc8ff066c64e.jpg",
+  "local_normal": "cards/normal/fd78d186-f642-4576-8276-cc8ff066c64e.jpg",
+  "local_large": "cards/large/fd78d186-f642-4576-8276-cc8ff066c64e.jpg",
+  "art": {
+   "brightness": 0.4098,
+   "contrast": 0.1843,
+   "saturation": 0.0859,
+   "warmth": -0.0413,
+   "variety": 0.8214,
+   "detail": 0.0353,
+   "dark_ratio": 0.159,
+   "bright_ratio": 0.0163
+  }
+ },
+ {
+  "cmdr_en": "Yarok, the Desecrated",
+  "cmdr_zh": "秽灵雅若克",
+  "cmdr_rank": 163,
+  "cmdr_colors": "BGU",
+  "form_hint": "扭曲异形",
+  "art_id": "6deddfec-0616-4825-9c28-d8cf1f79df6b",
+  "face": 0,
+  "face_name": "Yarok, the Desecrated",
+  "artist": "Cacho Rubione",
+  "set": "slc",
+  "set_name": "Secret Lair Countdown",
+  "collector_number": "52",
+  "released_at": "2025-11-03",
+  "border_color": "borderless",
+  "frame_effects": [
+   "inverted",
+   "legendary"
+  ],
+  "promo": false,
+  "promo_types": [
+   "halofoil"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Elemental Horror",
+  "types": [
+   "horror"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/a/f/af247608-1935-4bb5-be13-20b7974a5245.jpg?1783905095",
+  "image_normal": "https://cards.scryfall.io/normal/front/a/f/af247608-1935-4bb5-be13-20b7974a5245.jpg?1783905095",
+  "image_large": "https://cards.scryfall.io/large/front/a/f/af247608-1935-4bb5-be13-20b7974a5245.jpg?1783905095",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/a/f/af247608-1935-4bb5-be13-20b7974a5245.jpg?1783905095",
+  "local_art_crop": "cards/art_crop/6deddfec-0616-4825-9c28-d8cf1f79df6b.jpg",
+  "local_normal": "cards/normal/6deddfec-0616-4825-9c28-d8cf1f79df6b.jpg",
+  "local_large": "cards/large/6deddfec-0616-4825-9c28-d8cf1f79df6b.jpg",
+  "art": {
+   "brightness": 0.4221,
+   "contrast": 0.2248,
+   "saturation": 0.1729,
+   "warmth": -0.2162,
+   "variety": 0.8114,
+   "detail": 0.0809,
+   "dark_ratio": 0.2367,
+   "bright_ratio": 0.0545
+  }
+ },
+ {
+  "cmdr_en": "Yarok, the Desecrated",
+  "cmdr_zh": "秽灵雅若克",
+  "cmdr_rank": 163,
+  "cmdr_colors": "BGU",
+  "form_hint": "扭曲异形",
+  "art_id": "b73ba2be-e28d-4ba5-aada-00dd3322721d",
+  "face": 0,
+  "face_name": "Yarok, the Desecrated",
+  "artist": "Daarken",
+  "set": "ecc",
+  "set_name": "Lorwyn Eclipsed Commander",
+  "collector_number": "136",
+  "released_at": "2026-01-23",
+  "border_color": "black",
+  "frame_effects": [
+   "legendary"
+  ],
+  "promo": false,
+  "promo_types": [],
+  "full_art": false,
+  "type_line": "Legendary Creature — Elemental Horror",
+  "types": [
+   "horror"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/c/0/c08a2da8-3ce7-4e0d-bdb0-81b6cdf3126a.jpg?1783904533",
+  "image_normal": "https://cards.scryfall.io/normal/front/c/0/c08a2da8-3ce7-4e0d-bdb0-81b6cdf3126a.jpg?1783904533",
+  "image_large": "https://cards.scryfall.io/large/front/c/0/c08a2da8-3ce7-4e0d-bdb0-81b6cdf3126a.jpg?1783904533",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/c/0/c08a2da8-3ce7-4e0d-bdb0-81b6cdf3126a.jpg?1783904533",
+  "local_art_crop": "cards/art_crop/b73ba2be-e28d-4ba5-aada-00dd3322721d.jpg",
+  "local_normal": "cards/normal/b73ba2be-e28d-4ba5-aada-00dd3322721d.jpg",
+  "local_large": "cards/large/b73ba2be-e28d-4ba5-aada-00dd3322721d.jpg",
+  "art": {
+   "brightness": 0.3573,
+   "contrast": 0.186,
+   "saturation": 0.1193,
+   "warmth": -0.1672,
+   "variety": 0.8828,
+   "detail": 0.0504,
+   "dark_ratio": 0.2345,
+   "bright_ratio": 0.0132
+  }
+ },
+ {
+  "cmdr_en": "Omo, Queen of Vesuva",
+  "cmdr_zh": "维苏瓦女皇欧茉",
+  "cmdr_rank": 164,
+  "cmdr_colors": "GU",
+  "form_hint": "扭曲异形",
+  "art_id": "1a2d095f-3d50-4651-b49a-34ead920c7c6",
+  "face": 0,
+  "face_name": "Omo, Queen of Vesuva",
+  "artist": "Chun Lo",
+  "set": "m3c",
+  "set_name": "Modern Horizons 3 Commander",
+  "collector_number": "141",
+  "released_at": "2024-06-14",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [
+   "ripplefoil",
+   "portrait",
+   "boosterfun"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Shapeshifter Noble",
+  "types": [
+   "shapeshifter"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/b/f/bf5a3655-cd08-46a3-b099-253708c6539e.jpg?1783911398",
+  "image_normal": "https://cards.scryfall.io/normal/front/b/f/bf5a3655-cd08-46a3-b099-253708c6539e.jpg?1783911398",
+  "image_large": "https://cards.scryfall.io/large/front/b/f/bf5a3655-cd08-46a3-b099-253708c6539e.jpg?1783911398",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/b/f/bf5a3655-cd08-46a3-b099-253708c6539e.jpg?1783911398",
+  "local_art_crop": "cards/art_crop/1a2d095f-3d50-4651-b49a-34ead920c7c6.jpg",
+  "local_normal": "cards/normal/1a2d095f-3d50-4651-b49a-34ead920c7c6.jpg",
+  "local_large": "cards/large/1a2d095f-3d50-4651-b49a-34ead920c7c6.jpg",
+  "art": {
+   "brightness": 0.415,
+   "contrast": 0.2857,
+   "saturation": 0.4277,
+   "warmth": -0.5432,
+   "variety": 0.5829,
+   "detail": 0.0633,
+   "dark_ratio": 0.3539,
+   "bright_ratio": 0.0989
+  }
+ },
+ {
+  "cmdr_en": "Omo, Queen of Vesuva",
+  "cmdr_zh": "维苏瓦女皇欧茉",
+  "cmdr_rank": 164,
+  "cmdr_colors": "GU",
+  "form_hint": "扭曲异形",
+  "art_id": "f2e698de-9ab0-49e2-ba0c-7340f65d326e",
+  "face": 0,
+  "face_name": "Omo, Queen of Vesuva",
+  "artist": "Alex Brock",
+  "set": "m3c",
+  "set_name": "Modern Horizons 3 Commander",
+  "collector_number": "30",
+  "released_at": "2024-06-14",
+  "border_color": "black",
+  "frame_effects": [
+   "legendary",
+   "extendedart"
+  ],
+  "promo": false,
+  "promo_types": [
+   "boosterfun"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Shapeshifter Noble",
+  "types": [
+   "shapeshifter"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/1/0/103f7efd-3421-41aa-8c84-22c97cc8f0ea.jpg?1783911429",
+  "image_normal": "https://cards.scryfall.io/normal/front/1/0/103f7efd-3421-41aa-8c84-22c97cc8f0ea.jpg?1783911429",
+  "image_large": "https://cards.scryfall.io/large/front/1/0/103f7efd-3421-41aa-8c84-22c97cc8f0ea.jpg?1783911429",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/1/0/103f7efd-3421-41aa-8c84-22c97cc8f0ea.jpg?1783911429",
+  "local_art_crop": "cards/art_crop/f2e698de-9ab0-49e2-ba0c-7340f65d326e.jpg",
+  "local_normal": "cards/normal/f2e698de-9ab0-49e2-ba0c-7340f65d326e.jpg",
+  "local_large": "cards/large/f2e698de-9ab0-49e2-ba0c-7340f65d326e.jpg",
+  "art": {
+   "brightness": 0.4499,
+   "contrast": 0.2249,
+   "saturation": 0.1947,
+   "warmth": -0.009,
+   "variety": 0.8501,
+   "detail": 0.0497,
+   "dark_ratio": 0.1542,
+   "bright_ratio": 0.062
+  }
+ },
+ {
+  "cmdr_en": "Wolverine, Best There Is",
+  "cmdr_zh": "全力出战金刚狼",
+  "cmdr_rank": 168,
+  "cmdr_colors": "GR",
+  "form_hint": "扭曲异形",
+  "art_id": "24065475-b73e-4163-ae1e-11f46a3bea5c",
+  "face": 0,
+  "face_name": "Wolverine, Best There Is",
+  "artist": "Tony S. Daniel & Rain Beredo",
+  "set": "mar",
+  "set_name": "Marvel Universe",
+  "collector_number": "97",
+  "released_at": "2026-06-26",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [
+   "sourcematerial",
+   "universesbeyond"
+  ],
+  "full_art": true,
+  "type_line": "Legendary Creature — Mutant Berserker Hero",
+  "types": [
+   "mutant"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/9/9/9976c1a8-ef3d-4911-854d-f53394fd709d.jpg?1783903304",
+  "image_normal": "https://cards.scryfall.io/normal/front/9/9/9976c1a8-ef3d-4911-854d-f53394fd709d.jpg?1783903304",
+  "image_large": "https://cards.scryfall.io/large/front/9/9/9976c1a8-ef3d-4911-854d-f53394fd709d.jpg?1783903304",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/9/9/9976c1a8-ef3d-4911-854d-f53394fd709d.jpg?1783903304",
+  "local_art_crop": "cards/art_crop/24065475-b73e-4163-ae1e-11f46a3bea5c.jpg",
+  "local_normal": "cards/normal/24065475-b73e-4163-ae1e-11f46a3bea5c.jpg",
+  "local_large": "cards/large/24065475-b73e-4163-ae1e-11f46a3bea5c.jpg",
+  "art": {
+   "brightness": 0.2965,
+   "contrast": 0.1425,
+   "saturation": 0.4675,
+   "warmth": 0.6045,
+   "variety": 0.5659,
+   "detail": 0.0367,
+   "dark_ratio": 0.1781,
+   "bright_ratio": 0.0127
+  }
+ },
+ {
+  "cmdr_en": "Wolverine, Best There Is",
+  "cmdr_zh": "全力出战金刚狼",
+  "cmdr_rank": 168,
+  "cmdr_colors": "GR",
+  "form_hint": "扭曲异形",
+  "art_id": "75aa41ff-5865-44d5-bede-2f6cb9a3eaf9",
+  "face": 0,
+  "face_name": "Wolverine, Best There Is",
+  "artist": "Victor Adame Minguez",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "collector_number": "1737",
+  "released_at": "2024-11-04",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [
+   "universesbeyond"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Mutant Berserker Hero",
+  "types": [
+   "mutant"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/e/b/ebe83332-195e-4ac1-878f-f52eef62ce6a.jpg?1783909140",
+  "image_normal": "https://cards.scryfall.io/normal/front/e/b/ebe83332-195e-4ac1-878f-f52eef62ce6a.jpg?1783909140",
+  "image_large": "https://cards.scryfall.io/large/front/e/b/ebe83332-195e-4ac1-878f-f52eef62ce6a.jpg?1783909140",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/e/b/ebe83332-195e-4ac1-878f-f52eef62ce6a.jpg?1783909140",
+  "local_art_crop": "cards/art_crop/75aa41ff-5865-44d5-bede-2f6cb9a3eaf9.jpg",
+  "local_normal": "cards/normal/75aa41ff-5865-44d5-bede-2f6cb9a3eaf9.jpg",
+  "local_large": "cards/large/75aa41ff-5865-44d5-bede-2f6cb9a3eaf9.jpg",
+  "art": {
+   "brightness": 0.2763,
+   "contrast": 0.183,
+   "saturation": 0.4565,
+   "warmth": -0.3117,
+   "variety": 0.7022,
+   "detail": 0.0289,
+   "dark_ratio": 0.3732,
+   "bright_ratio": 0.0093
+  }
+ },
+ {
+  "cmdr_en": "Rendmaw, Creaking Nest",
+  "cmdr_zh": "嘎响草窝裂口",
+  "cmdr_rank": 178,
+  "cmdr_colors": "BG",
+  "form_hint": "机械构装",
+  "art_id": "1b71cc7d-88c4-4004-bac9-598626009f9b",
+  "face": 0,
+  "face_name": "Rendmaw, Creaking Nest",
+  "artist": "Ryan Pancoast",
+  "set": "dsc",
+  "set_name": "Duskmourn: House of Horror Commander",
+  "collector_number": "5",
+  "released_at": "2024-09-27",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [],
+  "full_art": false,
+  "type_line": "Legendary Artifact Creature — Scarecrow",
+  "types": [
+   "scarecrow"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/4/d/4dc2d415-fdf7-4f2d-95d0-a793ffc26491.jpg?1783909662",
+  "image_normal": "https://cards.scryfall.io/normal/front/4/d/4dc2d415-fdf7-4f2d-95d0-a793ffc26491.jpg?1783909662",
+  "image_large": "https://cards.scryfall.io/large/front/4/d/4dc2d415-fdf7-4f2d-95d0-a793ffc26491.jpg?1783909662",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/4/d/4dc2d415-fdf7-4f2d-95d0-a793ffc26491.jpg?1783909662",
+  "local_art_crop": "cards/art_crop/1b71cc7d-88c4-4004-bac9-598626009f9b.jpg",
+  "local_normal": "cards/normal/1b71cc7d-88c4-4004-bac9-598626009f9b.jpg",
+  "local_large": "cards/large/1b71cc7d-88c4-4004-bac9-598626009f9b.jpg",
+  "art": {
+   "brightness": 0.486,
+   "contrast": 0.1924,
+   "saturation": 0.6469,
+   "warmth": -0.7053,
+   "variety": 0.3429,
+   "detail": 0.0428,
+   "dark_ratio": 0.0801,
+   "bright_ratio": 0.0384
+  }
+ },
+ {
+  "cmdr_en": "Light-Paws, Emperor's Voice",
+  "cmdr_zh": "帝皇玉音轻脚",
+  "cmdr_rank": 182,
+  "cmdr_colors": "W",
+  "form_hint": "可爱小兽",
+  "art_id": "016aa4fb-4a8f-4936-afd3-9e4c3191145f",
+  "face": 0,
+  "face_name": "Light-Paws, Emperor's Voice",
+  "artist": "Mitsuhiro Arita",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "collector_number": "1877",
+  "released_at": "2025-02-10",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [],
+  "full_art": false,
+  "type_line": "Legendary Creature — Fox Advisor",
+  "types": [
+   "fox"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/a/0/a02ae105-e643-43a5-a44f-52e077291410.jpg?1783907931",
+  "image_normal": "https://cards.scryfall.io/normal/front/a/0/a02ae105-e643-43a5-a44f-52e077291410.jpg?1783907931",
+  "image_large": "https://cards.scryfall.io/large/front/a/0/a02ae105-e643-43a5-a44f-52e077291410.jpg?1783907931",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/a/0/a02ae105-e643-43a5-a44f-52e077291410.jpg?1783907931",
+  "local_art_crop": "cards/art_crop/016aa4fb-4a8f-4936-afd3-9e4c3191145f.jpg",
+  "local_normal": "cards/normal/016aa4fb-4a8f-4936-afd3-9e4c3191145f.jpg",
+  "local_large": "cards/large/016aa4fb-4a8f-4936-afd3-9e4c3191145f.jpg",
+  "art": {
+   "brightness": 0.3877,
+   "contrast": 0.1796,
+   "saturation": 0.3056,
+   "warmth": 0.8199,
+   "variety": 0.6323,
+   "detail": 0.0301,
+   "dark_ratio": 0.1007,
+   "bright_ratio": 0.0491
+  }
+ },
+ {
+  "cmdr_en": "Light-Paws, Emperor's Voice",
+  "cmdr_zh": "帝皇玉音轻脚",
+  "cmdr_rank": 182,
+  "cmdr_colors": "W",
+  "form_hint": "可爱小兽",
+  "art_id": "40002586-170d-470c-a614-d1eec61f1c80",
+  "face": 0,
+  "face_name": "Light-Paws, Emperor's Voice",
+  "artist": "Randy Vargas",
+  "set": "neo",
+  "set_name": "Kamigawa: Neon Dynasty",
+  "collector_number": "439",
+  "released_at": "2022-02-18",
+  "border_color": "black",
+  "frame_effects": [
+   "legendary",
+   "extendedart"
+  ],
+  "promo": false,
+  "promo_types": [
+   "boosterfun"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Fox Advisor",
+  "types": [
+   "fox"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/e/0/e008fe9b-1913-4358-a411-5d3c175c60ba.jpg?1783923752",
+  "image_normal": "https://cards.scryfall.io/normal/front/e/0/e008fe9b-1913-4358-a411-5d3c175c60ba.jpg?1783923752",
+  "image_large": "https://cards.scryfall.io/large/front/e/0/e008fe9b-1913-4358-a411-5d3c175c60ba.jpg?1783923752",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/e/0/e008fe9b-1913-4358-a411-5d3c175c60ba.jpg?1783923752",
+  "local_art_crop": "cards/art_crop/40002586-170d-470c-a614-d1eec61f1c80.jpg",
+  "local_normal": "cards/normal/40002586-170d-470c-a614-d1eec61f1c80.jpg",
+  "local_large": "cards/large/40002586-170d-470c-a614-d1eec61f1c80.jpg",
+  "art": {
+   "brightness": 0.5054,
+   "contrast": 0.1649,
+   "saturation": 0.187,
+   "warmth": -0.3583,
+   "variety": 0.8018,
+   "detail": 0.0254,
+   "dark_ratio": 0.0326,
+   "bright_ratio": 0.0391
+  }
+ },
+ {
+  "cmdr_en": "Hazel of the Rootbloom",
+  "cmdr_zh": "繁根教的哈珠儿",
+  "cmdr_rank": 185,
+  "cmdr_colors": "BG",
+  "form_hint": "可爱小兽",
+  "art_id": "690229b4-9f6f-48bb-96ad-4c35f98dec81",
+  "face": 0,
+  "face_name": "Hazel of the Rootbloom",
+  "artist": "TAPIOCA",
+  "set": "blc",
+  "set_name": "Bloomburrow Commander",
+  "collector_number": "102",
+  "released_at": "2024-08-02",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [
+   "raisedfoil",
+   "boosterfun"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Squirrel Druid",
+  "types": [
+   "squirrel"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/e/6/e68bb0bf-2907-4413-bfe3-c5f1b40c2b93.jpg?1783910706",
+  "image_normal": "https://cards.scryfall.io/normal/front/e/6/e68bb0bf-2907-4413-bfe3-c5f1b40c2b93.jpg?1783910706",
+  "image_large": "https://cards.scryfall.io/large/front/e/6/e68bb0bf-2907-4413-bfe3-c5f1b40c2b93.jpg?1783910706",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/e/6/e68bb0bf-2907-4413-bfe3-c5f1b40c2b93.jpg?1783910706",
+  "local_art_crop": "cards/art_crop/690229b4-9f6f-48bb-96ad-4c35f98dec81.jpg",
+  "local_normal": "cards/normal/690229b4-9f6f-48bb-96ad-4c35f98dec81.jpg",
+  "local_large": "cards/large/690229b4-9f6f-48bb-96ad-4c35f98dec81.jpg",
+  "art": {
+   "brightness": 0.5597,
+   "contrast": 0.1849,
+   "saturation": 0.591,
+   "warmth": 0.9072,
+   "variety": 0.4778,
+   "detail": 0.0667,
+   "dark_ratio": 0.0224,
+   "bright_ratio": 0.1034
+  }
+ },
+ {
+  "cmdr_en": "Hazel of the Rootbloom",
+  "cmdr_zh": "繁根教的哈珠儿",
+  "cmdr_rank": 185,
+  "cmdr_colors": "BG",
+  "form_hint": "可爱小兽",
+  "art_id": "019a2b87-257e-43bd-ab98-556d421bd96c",
+  "face": 0,
+  "face_name": "Hazel of the Rootbloom",
+  "artist": "Anna Pavleeva",
+  "set": "blc",
+  "set_name": "Bloomburrow Commander",
+  "collector_number": "2",
+  "released_at": "2024-08-02",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [],
+  "full_art": false,
+  "type_line": "Legendary Creature — Squirrel Druid",
+  "types": [
+   "squirrel"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/1/2/1269ca79-907e-4932-9e77-a9a5d2929060.jpg?1783910738",
+  "image_normal": "https://cards.scryfall.io/normal/front/1/2/1269ca79-907e-4932-9e77-a9a5d2929060.jpg?1783910738",
+  "image_large": "https://cards.scryfall.io/large/front/1/2/1269ca79-907e-4932-9e77-a9a5d2929060.jpg?1783910738",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/1/2/1269ca79-907e-4932-9e77-a9a5d2929060.jpg?1783910738",
+  "local_art_crop": "cards/art_crop/019a2b87-257e-43bd-ab98-556d421bd96c.jpg",
+  "local_normal": "cards/normal/019a2b87-257e-43bd-ab98-556d421bd96c.jpg",
+  "local_large": "cards/large/019a2b87-257e-43bd-ab98-556d421bd96c.jpg",
+  "art": {
+   "brightness": 0.3252,
+   "contrast": 0.1811,
+   "saturation": 0.6788,
+   "warmth": 0.9266,
+   "variety": 0.4553,
+   "detail": 0.0388,
+   "dark_ratio": 0.2964,
+   "bright_ratio": 0.0157
+  }
+ },
+ {
+  "cmdr_en": "The Mindskinner",
+  "cmdr_zh": "剥忆惧魇",
+  "cmdr_rank": 188,
+  "cmdr_colors": "U",
+  "form_hint": "扭曲异形",
+  "art_id": "5fe24f60-17ad-4de5-bbac-5cf0a8155135",
+  "face": 0,
+  "face_name": "The Mindskinner",
+  "artist": "Goñi Montes",
+  "set": "dsk",
+  "set_name": "Duskmourn: House of Horror",
+  "collector_number": "357",
+  "released_at": "2024-09-27",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [
+   "doubleexposure",
+   "boosterfun"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Enchantment Creature — Nightmare",
+  "types": [
+   "nightmare"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/3/1/3130a342-3c98-4c69-975b-a958ccddfe37.jpg?1783909397",
+  "image_normal": "https://cards.scryfall.io/normal/front/3/1/3130a342-3c98-4c69-975b-a958ccddfe37.jpg?1783909397",
+  "image_large": "https://cards.scryfall.io/large/front/3/1/3130a342-3c98-4c69-975b-a958ccddfe37.jpg?1783909397",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/3/1/3130a342-3c98-4c69-975b-a958ccddfe37.jpg?1783909397",
+  "local_art_crop": "cards/art_crop/5fe24f60-17ad-4de5-bbac-5cf0a8155135.jpg",
+  "local_normal": "cards/normal/5fe24f60-17ad-4de5-bbac-5cf0a8155135.jpg",
+  "local_large": "cards/large/5fe24f60-17ad-4de5-bbac-5cf0a8155135.jpg",
+  "art": {
+   "brightness": 0.3366,
+   "contrast": 0.1883,
+   "saturation": 0.6403,
+   "warmth": -0.1048,
+   "variety": 0.5293,
+   "detail": 0.0302,
+   "dark_ratio": 0.2901,
+   "bright_ratio": 0.0
+  }
+ },
+ {
+  "cmdr_en": "The Mindskinner",
+  "cmdr_zh": "剥忆惧魇",
+  "cmdr_rank": 188,
+  "cmdr_colors": "U",
+  "form_hint": "扭曲异形",
+  "art_id": "dd737bc0-2129-41a3-9a1e-538bc209ed46",
+  "face": 0,
+  "face_name": "The Mindskinner",
+  "artist": "Abz J Harding",
+  "set": "plst",
+  "set_name": "The List",
+  "collector_number": "DSK-66",
+  "released_at": "2026-11-09",
+  "border_color": "black",
+  "frame_effects": [
+   "legendary",
+   "enchantment"
+  ],
+  "promo": false,
+  "promo_types": [],
+  "full_art": false,
+  "type_line": "Legendary Enchantment Creature — Nightmare",
+  "types": [
+   "nightmare"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/5/e/5eb9c922-d2ae-41d2-b223-2def1ca2aa93.jpg?1787680134",
+  "image_normal": "https://cards.scryfall.io/normal/front/5/e/5eb9c922-d2ae-41d2-b223-2def1ca2aa93.jpg?1787680134",
+  "image_large": "https://cards.scryfall.io/large/front/5/e/5eb9c922-d2ae-41d2-b223-2def1ca2aa93.jpg?1787680134",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/5/e/5eb9c922-d2ae-41d2-b223-2def1ca2aa93.jpg?1787680134",
+  "local_art_crop": "cards/art_crop/dd737bc0-2129-41a3-9a1e-538bc209ed46.jpg",
+  "local_normal": "cards/normal/dd737bc0-2129-41a3-9a1e-538bc209ed46.jpg",
+  "local_large": "cards/large/dd737bc0-2129-41a3-9a1e-538bc209ed46.jpg",
+  "art": {
+   "brightness": 0.3041,
+   "contrast": 0.1979,
+   "saturation": 0.6012,
+   "warmth": -0.7857,
+   "variety": 0.4738,
+   "detail": 0.0642,
+   "dark_ratio": 0.3463,
+   "bright_ratio": 0.018
+  }
+ },
+ {
+  "cmdr_en": "Sheoldred, the Apocalypse",
+  "cmdr_zh": "启示天灾希欧蕊",
+  "cmdr_rank": 191,
+  "cmdr_colors": "B",
+  "form_hint": "扭曲异形",
+  "art_id": "fc4669a9-e426-47da-9c22-9bf6ce527052",
+  "face": 0,
+  "face_name": "Sheoldred, the Apocalypse",
+  "artist": "Nicky Barkla",
+  "set": "sds",
+  "set_name": "Stardates",
+  "collector_number": "11",
+  "released_at": "2026-11-13",
+  "border_color": "borderless",
+  "frame_effects": [
+   "inverted",
+   "legendary"
+  ],
+  "promo": false,
+  "promo_types": [
+   "universesbeyond"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Phyrexian Praetor",
+  "types": [
+   "phyrexian"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/c/6/c68629ff-72b3-40a2-b578-cddb6ddb4ccf.jpg?1787156429",
+  "image_normal": "https://cards.scryfall.io/normal/front/c/6/c68629ff-72b3-40a2-b578-cddb6ddb4ccf.jpg?1787156429",
+  "image_large": "https://cards.scryfall.io/large/front/c/6/c68629ff-72b3-40a2-b578-cddb6ddb4ccf.jpg?1787156429",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/c/6/c68629ff-72b3-40a2-b578-cddb6ddb4ccf.jpg?1787156429",
+  "local_art_crop": "cards/art_crop/fc4669a9-e426-47da-9c22-9bf6ce527052.jpg",
+  "local_normal": "cards/normal/fc4669a9-e426-47da-9c22-9bf6ce527052.jpg",
+  "local_large": "cards/large/fc4669a9-e426-47da-9c22-9bf6ce527052.jpg",
+  "art": {
+   "brightness": 0.365,
+   "contrast": 0.2233,
+   "saturation": 0.4215,
+   "warmth": -0.6815,
+   "variety": 0.6013,
+   "detail": 0.0502,
+   "dark_ratio": 0.3201,
+   "bright_ratio": 0.0306
+  }
+ },
+ {
+  "cmdr_en": "Sheoldred, the Apocalypse",
+  "cmdr_zh": "启示天灾希欧蕊",
+  "cmdr_rank": 191,
+  "cmdr_colors": "B",
+  "form_hint": "扭曲异形",
+  "art_id": "b47b4a29-d674-4644-9a57-ff418b0659d6",
+  "face": 0,
+  "face_name": "Sheoldred, the Apocalypse",
+  "artist": "Richard Whitters",
+  "set": "dmu",
+  "set_name": "Dominaria United",
+  "collector_number": "436",
+  "released_at": "2023-02-03",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [
+   "boosterfun",
+   "setextension",
+   "stepandcompleat",
+   "concept"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Phyrexian Praetor",
+  "types": [
+   "phyrexian"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/5/e/5ee7c1b3-36c3-4f81-a45d-f34331db5b18.jpg?1783918186",
+  "image_normal": "https://cards.scryfall.io/normal/front/5/e/5ee7c1b3-36c3-4f81-a45d-f34331db5b18.jpg?1783918186",
+  "image_large": "https://cards.scryfall.io/large/front/5/e/5ee7c1b3-36c3-4f81-a45d-f34331db5b18.jpg?1783918186",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/5/e/5ee7c1b3-36c3-4f81-a45d-f34331db5b18.jpg?1783918186",
+  "local_art_crop": "cards/art_crop/b47b4a29-d674-4644-9a57-ff418b0659d6.jpg",
+  "local_normal": "cards/normal/b47b4a29-d674-4644-9a57-ff418b0659d6.jpg",
+  "local_large": "cards/large/b47b4a29-d674-4644-9a57-ff418b0659d6.jpg",
+  "art": {
+   "brightness": 0.422,
+   "contrast": 0.3012,
+   "saturation": 0.1637,
+   "warmth": -0.309,
+   "variety": 0.8469,
+   "detail": 0.0393,
+   "dark_ratio": 0.3279,
+   "bright_ratio": 0.2213
+  }
+ },
+ {
+  "cmdr_en": "Arahbo, Roar of the World",
+  "cmdr_zh": "震世吼阿拉博",
+  "cmdr_rank": 196,
+  "cmdr_colors": "GW",
+  "form_hint": "可爱小兽",
+  "art_id": "fd175300-a861-4443-be5e-ea9038f91809",
+  "face": 0,
+  "face_name": "Arahbo, Roar of the World",
+  "artist": "Erica Williams",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "collector_number": "25",
+  "released_at": "2019-12-09",
+  "border_color": "black",
+  "frame_effects": [
+   "legendary"
+  ],
+  "promo": false,
+  "promo_types": [],
+  "full_art": false,
+  "type_line": "Legendary Creature — Cat Avatar",
+  "types": [
+   "cat"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/e/d/eda28572-654e-4d43-b88c-cf8c8b0f5eb5.jpg?1783931619",
+  "image_normal": "https://cards.scryfall.io/normal/front/e/d/eda28572-654e-4d43-b88c-cf8c8b0f5eb5.jpg?1783931619",
+  "image_large": "https://cards.scryfall.io/large/front/e/d/eda28572-654e-4d43-b88c-cf8c8b0f5eb5.jpg?1783931619",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/e/d/eda28572-654e-4d43-b88c-cf8c8b0f5eb5.jpg?1783931619",
+  "local_art_crop": "cards/art_crop/fd175300-a861-4443-be5e-ea9038f91809.jpg",
+  "local_normal": "cards/normal/fd175300-a861-4443-be5e-ea9038f91809.jpg",
+  "local_large": "cards/large/fd175300-a861-4443-be5e-ea9038f91809.jpg",
+  "art": {
+   "brightness": 0.4184,
+   "contrast": 0.2119,
+   "saturation": 0.2037,
+   "warmth": 0.6296,
+   "variety": 0.6021,
+   "detail": 0.0985,
+   "dark_ratio": 0.1756,
+   "bright_ratio": 0.0612
+  }
+ },
+ {
+  "cmdr_en": "Arahbo, Roar of the World",
+  "cmdr_zh": "震世吼阿拉博",
+  "cmdr_rank": 196,
+  "cmdr_colors": "GW",
+  "form_hint": "可爱小兽",
+  "art_id": "2346f3c3-0268-4100-9341-dfe95d22d9c6",
+  "face": 0,
+  "face_name": "Arahbo, Roar of the World",
+  "artist": "Jesper Ejsing",
+  "set": "oc17",
+  "set_name": "Commander 2017 Oversized",
+  "collector_number": "35",
+  "released_at": "2017-08-25",
+  "border_color": "black",
+  "frame_effects": [],
+  "promo": false,
+  "promo_types": [],
+  "full_art": false,
+  "type_line": "Legendary Creature — Cat Avatar",
+  "types": [
+   "cat"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/b/2/b298584e-eab0-41c6-a868-3bf72f41bf2c.jpg?1783935830",
+  "image_normal": "https://cards.scryfall.io/normal/front/b/2/b298584e-eab0-41c6-a868-3bf72f41bf2c.jpg?1783935830",
+  "image_large": "https://cards.scryfall.io/large/front/b/2/b298584e-eab0-41c6-a868-3bf72f41bf2c.jpg?1783935830",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/b/2/b298584e-eab0-41c6-a868-3bf72f41bf2c.jpg?1783935830",
+  "local_art_crop": "cards/art_crop/2346f3c3-0268-4100-9341-dfe95d22d9c6.jpg",
+  "local_normal": "cards/normal/2346f3c3-0268-4100-9341-dfe95d22d9c6.jpg",
+  "local_large": "cards/large/2346f3c3-0268-4100-9341-dfe95d22d9c6.jpg",
+  "art": {
+   "brightness": 0.4581,
+   "contrast": 0.1365,
+   "saturation": 0.3344,
+   "warmth": -0.635,
+   "variety": 0.568,
+   "detail": 0.0666,
+   "dark_ratio": 0.0222,
+   "bright_ratio": 0.0022
+  }
+ },
+ {
+  "cmdr_en": "Thalia and The Gitrog Monster",
+  "cmdr_zh": "莎利雅与噬人蛙怪",
+  "cmdr_rank": 197,
+  "cmdr_colors": "BGW",
+  "form_hint": "可爱小兽/扭曲异形",
+  "art_id": "ab03640d-4b29-4685-b303-06322563d088",
+  "face": 0,
+  "face_name": "Thalia and The Gitrog Monster",
+  "artist": "Sami Makkonen",
+  "set": "mom",
+  "set_name": "March of the Machine",
+  "collector_number": "316",
+  "released_at": "2023-04-21",
+  "border_color": "black",
+  "frame_effects": [
+   "showcase",
+   "legendary"
+  ],
+  "promo": false,
+  "promo_types": [
+   "boosterfun"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Human Frog Horror",
+  "types": [
+   "frog",
+   "horror"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/4/3/43c4eb73-7e50-4c22-8fa6-c770152ebdaf.jpg?1783916910",
+  "image_normal": "https://cards.scryfall.io/normal/front/4/3/43c4eb73-7e50-4c22-8fa6-c770152ebdaf.jpg?1783916910",
+  "image_large": "https://cards.scryfall.io/large/front/4/3/43c4eb73-7e50-4c22-8fa6-c770152ebdaf.jpg?1783916910",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/4/3/43c4eb73-7e50-4c22-8fa6-c770152ebdaf.jpg?1783916910",
+  "local_art_crop": "cards/art_crop/ab03640d-4b29-4685-b303-06322563d088.jpg",
+  "local_normal": "cards/normal/ab03640d-4b29-4685-b303-06322563d088.jpg",
+  "local_large": "cards/large/ab03640d-4b29-4685-b303-06322563d088.jpg",
+  "art": {
+   "brightness": 0.4077,
+   "contrast": 0.2191,
+   "saturation": 0.2085,
+   "warmth": 0.7848,
+   "variety": 0.6481,
+   "detail": 0.0593,
+   "dark_ratio": 0.2068,
+   "bright_ratio": 0.0267
+  }
+ },
+ {
+  "cmdr_en": "Thalia and The Gitrog Monster",
+  "cmdr_zh": "莎利雅与噬人蛙怪",
+  "cmdr_rank": 197,
+  "cmdr_colors": "BGW",
+  "form_hint": "可爱小兽/扭曲异形",
+  "art_id": "003a26de-fb65-408b-8352-f0ecf3523759",
+  "face": 0,
+  "face_name": "Thalia and The Gitrog Monster",
+  "artist": "Howard Lyon",
+  "set": "mom",
+  "set_name": "March of the Machine",
+  "collector_number": "255",
+  "released_at": "2023-04-21",
+  "border_color": "black",
+  "frame_effects": [
+   "legendary"
+  ],
+  "promo": false,
+  "promo_types": [],
+  "full_art": false,
+  "type_line": "Legendary Creature — Human Frog Horror",
+  "types": [
+   "frog",
+   "horror"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/8/d/8d7ff937-de92-445f-976c-726fef5c91cc.jpg?1783916938",
+  "image_normal": "https://cards.scryfall.io/normal/front/8/d/8d7ff937-de92-445f-976c-726fef5c91cc.jpg?1783916938",
+  "image_large": "https://cards.scryfall.io/large/front/8/d/8d7ff937-de92-445f-976c-726fef5c91cc.jpg?1783916938",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/8/d/8d7ff937-de92-445f-976c-726fef5c91cc.jpg?1783916938",
+  "local_art_crop": "cards/art_crop/003a26de-fb65-408b-8352-f0ecf3523759.jpg",
+  "local_normal": "cards/normal/003a26de-fb65-408b-8352-f0ecf3523759.jpg",
+  "local_large": "cards/large/003a26de-fb65-408b-8352-f0ecf3523759.jpg",
+  "art": {
+   "brightness": 0.2375,
+   "contrast": 0.1198,
+   "saturation": 0.3428,
+   "warmth": 0.8026,
+   "variety": 0.5114,
+   "detail": 0.0353,
+   "dark_ratio": 0.4696,
+   "bright_ratio": 0.0001
+  }
+ },
+ {
+  "cmdr_en": "Derevi, Empyrial Tactician",
+  "cmdr_zh": "穹光策士德蕾薇",
+  "cmdr_rank": 198,
+  "cmdr_colors": "GUW",
+  "form_hint": "可爱小兽",
+  "art_id": "b31410ab-32be-47a4-93be-8acfa50e5470",
+  "face": 0,
+  "face_name": "Derevi, Empyrial Tactician",
+  "artist": "Stephen Andrade",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "collector_number": "2787",
+  "released_at": "2026-09-14",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [
+   "universesbeyond"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Bird Wizard",
+  "types": [
+   "bird"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/a/4/a488146b-ae22-4b73-a640-14d2fa50b112.jpg?1787578565",
+  "image_normal": "https://cards.scryfall.io/normal/front/a/4/a488146b-ae22-4b73-a640-14d2fa50b112.jpg?1787578565",
+  "image_large": "https://cards.scryfall.io/large/front/a/4/a488146b-ae22-4b73-a640-14d2fa50b112.jpg?1787578565",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/a/4/a488146b-ae22-4b73-a640-14d2fa50b112.jpg?1787578565",
+  "local_art_crop": "cards/art_crop/b31410ab-32be-47a4-93be-8acfa50e5470.jpg",
+  "local_normal": "cards/normal/b31410ab-32be-47a4-93be-8acfa50e5470.jpg",
+  "local_large": "cards/large/b31410ab-32be-47a4-93be-8acfa50e5470.jpg",
+  "art": {
+   "brightness": 0.4243,
+   "contrast": 0.1387,
+   "saturation": 0.4684,
+   "warmth": 0.3454,
+   "variety": 0.5825,
+   "detail": 0.032,
+   "dark_ratio": 0.0504,
+   "bright_ratio": 0.0074
+  }
+ },
+ {
+  "cmdr_en": "Derevi, Empyrial Tactician",
+  "cmdr_zh": "穹光策士德蕾薇",
+  "cmdr_rank": 198,
+  "cmdr_colors": "GUW",
+  "form_hint": "可爱小兽",
+  "art_id": "7f112a15-97aa-4e07-9f5c-d3ca5bc63af7",
+  "face": 0,
+  "face_name": "Derevi, Empyrial Tactician",
+  "artist": "Nathaniel Himawan",
+  "set": "blc",
+  "set_name": "Bloomburrow Commander",
+  "collector_number": "87",
+  "released_at": "2024-08-02",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [
+   "boosterfun",
+   "imagine"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Bird Wizard",
+  "types": [
+   "bird"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/5/f/5f538b4e-6ad4-4d30-8699-88bcbde8bf69.jpg?1783910711",
+  "image_normal": "https://cards.scryfall.io/normal/front/5/f/5f538b4e-6ad4-4d30-8699-88bcbde8bf69.jpg?1783910711",
+  "image_large": "https://cards.scryfall.io/large/front/5/f/5f538b4e-6ad4-4d30-8699-88bcbde8bf69.jpg?1783910711",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/5/f/5f538b4e-6ad4-4d30-8699-88bcbde8bf69.jpg?1783910711",
+  "local_art_crop": "cards/art_crop/7f112a15-97aa-4e07-9f5c-d3ca5bc63af7.jpg",
+  "local_normal": "cards/normal/7f112a15-97aa-4e07-9f5c-d3ca5bc63af7.jpg",
+  "local_large": "cards/large/7f112a15-97aa-4e07-9f5c-d3ca5bc63af7.jpg",
+  "art": {
+   "brightness": 0.4299,
+   "contrast": 0.2412,
+   "saturation": 0.3257,
+   "warmth": -0.2599,
+   "variety": 0.6617,
+   "detail": 0.0369,
+   "dark_ratio": 0.1976,
+   "bright_ratio": 0.0942
+  }
+ },
+ {
+  "cmdr_en": "Ovika, Enigma Goliath",
+  "cmdr_zh": "谜样巨身兽欧威卡",
+  "cmdr_rank": 201,
+  "cmdr_colors": "RU",
+  "form_hint": "扭曲异形",
+  "art_id": "d722ff79-3a0c-4a50-89ff-7455b479f34f",
+  "face": 0,
+  "face_name": "Ovika, Enigma Goliath",
+  "artist": "Dominik Mayer",
+  "set": "one",
+  "set_name": "Phyrexia: All Will Be One",
+  "collector_number": "474",
+  "released_at": "2023-02-10",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "inverted",
+   "showcase"
+  ],
+  "promo": false,
+  "promo_types": [
+   "stepandcompleat",
+   "boosterfun"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Phyrexian Nightmare",
+  "types": [
+   "nightmare",
+   "phyrexian"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/7/8/780f4293-ea6e-4f10-b9e1-1b06c94af32b.jpg?1783917889",
+  "image_normal": "https://cards.scryfall.io/normal/front/7/8/780f4293-ea6e-4f10-b9e1-1b06c94af32b.jpg?1783917889",
+  "image_large": "https://cards.scryfall.io/large/front/7/8/780f4293-ea6e-4f10-b9e1-1b06c94af32b.jpg?1783917889",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/7/8/780f4293-ea6e-4f10-b9e1-1b06c94af32b.jpg?1783917889",
+  "local_art_crop": "cards/art_crop/d722ff79-3a0c-4a50-89ff-7455b479f34f.jpg",
+  "local_normal": "cards/normal/d722ff79-3a0c-4a50-89ff-7455b479f34f.jpg",
+  "local_large": "cards/large/d722ff79-3a0c-4a50-89ff-7455b479f34f.jpg",
+  "art": {
+   "brightness": 0.5101,
+   "contrast": 0.379,
+   "saturation": 0.144,
+   "warmth": -0.4962,
+   "variety": 0.8235,
+   "detail": 0.0647,
+   "dark_ratio": 0.4206,
+   "bright_ratio": 0.376
+  }
+ },
+ {
+  "cmdr_en": "Ovika, Enigma Goliath",
+  "cmdr_zh": "谜样巨身兽欧威卡",
+  "cmdr_rank": 201,
+  "cmdr_colors": "RU",
+  "form_hint": "扭曲异形",
+  "art_id": "104f9065-c036-4674-a7b6-b97de9e293cd",
+  "face": 0,
+  "face_name": "Ovika, Enigma Goliath",
+  "artist": "Antonio José Manzanedo",
+  "set": "fdn",
+  "set_name": "Foundations",
+  "collector_number": "663",
+  "released_at": "2024-11-15",
+  "border_color": "black",
+  "frame_effects": [
+   "legendary"
+  ],
+  "promo": false,
+  "promo_types": [
+   "startercollection"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Phyrexian Nightmare",
+  "types": [
+   "nightmare",
+   "phyrexian"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/5/4/54819d7a-eec6-49e6-a0bb-d9d07d42b4a6.jpg?1783908910",
+  "image_normal": "https://cards.scryfall.io/normal/front/5/4/54819d7a-eec6-49e6-a0bb-d9d07d42b4a6.jpg?1783908910",
+  "image_large": "https://cards.scryfall.io/large/front/5/4/54819d7a-eec6-49e6-a0bb-d9d07d42b4a6.jpg?1783908910",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/5/4/54819d7a-eec6-49e6-a0bb-d9d07d42b4a6.jpg?1783908910",
+  "local_art_crop": "cards/art_crop/104f9065-c036-4674-a7b6-b97de9e293cd.jpg",
+  "local_normal": "cards/normal/104f9065-c036-4674-a7b6-b97de9e293cd.jpg",
+  "local_large": "cards/large/104f9065-c036-4674-a7b6-b97de9e293cd.jpg",
+  "art": {
+   "brightness": 0.3971,
+   "contrast": 0.1587,
+   "saturation": 0.2574,
+   "warmth": 0.597,
+   "variety": 0.5664,
+   "detail": 0.0241,
+   "dark_ratio": 0.0653,
+   "bright_ratio": 0.0208
+  }
+ },
+ {
+  "cmdr_en": "Reaper King",
+  "cmdr_zh": "夺命王者",
+  "cmdr_rank": 281,
+  "cmdr_colors": "BGRUW",
+  "form_hint": "机械构装",
+  "art_id": "10c829bc-b79a-4a56-851c-3bd3c242f829",
+  "face": 0,
+  "face_name": "Reaper King",
+  "artist": "Alexander Mokhov",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "collector_number": "2170",
+  "released_at": "2025-10-13",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [
+   "universesbeyond"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Artifact Creature — Scarecrow",
+  "types": [
+   "scarecrow"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/e/9/e960ff2c-1863-40cb-9ebf-49e2ea5480dc.jpg?1783905168",
+  "image_normal": "https://cards.scryfall.io/normal/front/e/9/e960ff2c-1863-40cb-9ebf-49e2ea5480dc.jpg?1783905168",
+  "image_large": "https://cards.scryfall.io/large/front/e/9/e960ff2c-1863-40cb-9ebf-49e2ea5480dc.jpg?1783905168",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/e/9/e960ff2c-1863-40cb-9ebf-49e2ea5480dc.jpg?1783905168",
+  "local_art_crop": "cards/art_crop/10c829bc-b79a-4a56-851c-3bd3c242f829.jpg",
+  "local_normal": "cards/normal/10c829bc-b79a-4a56-851c-3bd3c242f829.jpg",
+  "local_large": "cards/large/10c829bc-b79a-4a56-851c-3bd3c242f829.jpg",
+  "art": {
+   "brightness": 0.3171,
+   "contrast": 0.1773,
+   "saturation": 0.321,
+   "warmth": -0.1482,
+   "variety": 0.7374,
+   "detail": 0.0326,
+   "dark_ratio": 0.2593,
+   "bright_ratio": 0.0291
+  }
+ },
+ {
+  "cmdr_en": "Reaper King",
+  "cmdr_zh": "夺命王者",
+  "cmdr_rank": 281,
+  "cmdr_colors": "BGRUW",
+  "form_hint": "机械构装",
+  "art_id": "3f0c5778-56dc-44bd-8dce-f7ef1ee055e5",
+  "face": 0,
+  "face_name": "Reaper King",
+  "artist": "Jim Murray",
+  "set": "plst",
+  "set_name": "The List",
+  "collector_number": "SHM-260",
+  "released_at": "2020-03-13",
+  "border_color": "black",
+  "frame_effects": [],
+  "promo": false,
+  "promo_types": [],
+  "full_art": false,
+  "type_line": "Legendary Artifact Creature — Scarecrow",
+  "types": [
+   "scarecrow"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/9/1/916d607a-4aaa-47ac-bdcd-189bf11f66e1.jpg?1783931248",
+  "image_normal": "https://cards.scryfall.io/normal/front/9/1/916d607a-4aaa-47ac-bdcd-189bf11f66e1.jpg?1783931248",
+  "image_large": "https://cards.scryfall.io/large/front/9/1/916d607a-4aaa-47ac-bdcd-189bf11f66e1.jpg?1783931248",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/9/1/916d607a-4aaa-47ac-bdcd-189bf11f66e1.jpg?1783931248",
+  "local_art_crop": "cards/art_crop/3f0c5778-56dc-44bd-8dce-f7ef1ee055e5.jpg",
+  "local_normal": "cards/normal/3f0c5778-56dc-44bd-8dce-f7ef1ee055e5.jpg",
+  "local_large": "cards/large/3f0c5778-56dc-44bd-8dce-f7ef1ee055e5.jpg",
+  "art": {
+   "brightness": 0.3275,
+   "contrast": 0.2076,
+   "saturation": 0.3823,
+   "warmth": -0.1302,
+   "variety": 0.8228,
+   "detail": 0.0912,
+   "dark_ratio": 0.3538,
+   "bright_ratio": 0.0152
+  }
+ },
+ {
+  "cmdr_en": "Gluntch, the Bestower",
+  "cmdr_zh": "遣施怪古朗奇",
+  "cmdr_rank": 347,
+  "cmdr_colors": "GW",
+  "form_hint": "机械构装",
+  "art_id": "7e8abe9e-2d1b-48e1-91f5-33aec633f981",
+  "face": 0,
+  "face_name": "Gluntch, the Bestower",
+  "artist": "Olivier Bernard",
+  "set": "plst",
+  "set_name": "The List",
+  "collector_number": "CLB-275",
+  "released_at": "2026-11-09",
+  "border_color": "black",
+  "frame_effects": [
+   "legendary"
+  ],
+  "promo": false,
+  "promo_types": [],
+  "full_art": false,
+  "type_line": "Legendary Creature — Jellyfish",
+  "types": [
+   "jellyfish"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/5/c/5c45a5b1-d5d4-41cb-8d86-e3a54cf2808c.jpg?1787678210",
+  "image_normal": "https://cards.scryfall.io/normal/front/5/c/5c45a5b1-d5d4-41cb-8d86-e3a54cf2808c.jpg?1787678210",
+  "image_large": "https://cards.scryfall.io/large/front/5/c/5c45a5b1-d5d4-41cb-8d86-e3a54cf2808c.jpg?1787678210",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/5/c/5c45a5b1-d5d4-41cb-8d86-e3a54cf2808c.jpg?1787678210",
+  "local_art_crop": "cards/art_crop/7e8abe9e-2d1b-48e1-91f5-33aec633f981.jpg",
+  "local_normal": "cards/normal/7e8abe9e-2d1b-48e1-91f5-33aec633f981.jpg",
+  "local_large": "cards/large/7e8abe9e-2d1b-48e1-91f5-33aec633f981.jpg",
+  "art": {
+   "brightness": 0.3345,
+   "contrast": 0.1737,
+   "saturation": 0.2891,
+   "warmth": -0.1427,
+   "variety": 0.7149,
+   "detail": 0.0328,
+   "dark_ratio": 0.2073,
+   "bright_ratio": 0.0168
+  }
+ },
+ {
+  "cmdr_en": "Gluntch, the Bestower",
+  "cmdr_zh": "遣施怪古朗奇",
+  "cmdr_rank": 347,
+  "cmdr_colors": "GW",
+  "form_hint": "机械构装",
+  "art_id": "69d449a4-3042-4e15-9386-aace606469dc",
+  "face": 0,
+  "face_name": "Gluntch, the Bestower",
+  "artist": "Mark A. Nelson",
+  "set": "clb",
+  "set_name": "Commander Legends: Battle for Baldur's Gate",
+  "collector_number": "422",
+  "released_at": "2022-06-10",
+  "border_color": "black",
+  "frame_effects": [
+   "showcase",
+   "legendary"
+  ],
+  "promo": false,
+  "promo_types": [
+   "boosterfun"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Jellyfish",
+  "types": [
+   "jellyfish"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/8/3/836e3cf0-7335-481d-a9df-386cb1371657.jpg?1783922628",
+  "image_normal": "https://cards.scryfall.io/normal/front/8/3/836e3cf0-7335-481d-a9df-386cb1371657.jpg?1783922628",
+  "image_large": "https://cards.scryfall.io/large/front/8/3/836e3cf0-7335-481d-a9df-386cb1371657.jpg?1783922628",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/8/3/836e3cf0-7335-481d-a9df-386cb1371657.jpg?1783922628",
+  "local_art_crop": "cards/art_crop/69d449a4-3042-4e15-9386-aace606469dc.jpg",
+  "local_normal": "cards/normal/69d449a4-3042-4e15-9386-aace606469dc.jpg",
+  "local_large": "cards/large/69d449a4-3042-4e15-9386-aace606469dc.jpg",
+  "art": {
+   "brightness": 0.5584,
+   "contrast": 0.2243,
+   "saturation": 0.5221,
+   "warmth": 0.9804,
+   "variety": 0.2427,
+   "detail": 0.0897,
+   "dark_ratio": 0.1198,
+   "bright_ratio": 0.0038
+  }
+ },
+ {
+  "cmdr_en": "The Gitrog, Ravenous Ride",
+  "cmdr_zh": "血口坐骑噬人蛙怪",
+  "cmdr_rank": 359,
+  "cmdr_colors": "BG",
+  "form_hint": "可爱小兽",
+  "art_id": "45c35b00-910e-4746-9383-2e73a5d04dd5",
+  "face": 0,
+  "face_name": "The Gitrog, Ravenous Ride",
+  "artist": "Ed Repka",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "collector_number": "2791",
+  "released_at": "2026-09-14",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [
+   "universesbeyond"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Frog Horror Mount",
+  "types": [
+   "frog"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/4/f/4fdab1a1-8789-47e5-908a-6668a093116f.jpg?1787578779",
+  "image_normal": "https://cards.scryfall.io/normal/front/4/f/4fdab1a1-8789-47e5-908a-6668a093116f.jpg?1787578779",
+  "image_large": "https://cards.scryfall.io/large/front/4/f/4fdab1a1-8789-47e5-908a-6668a093116f.jpg?1787578779",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/4/f/4fdab1a1-8789-47e5-908a-6668a093116f.jpg?1787578779",
+  "local_art_crop": "cards/art_crop/45c35b00-910e-4746-9383-2e73a5d04dd5.jpg",
+  "local_normal": "cards/normal/45c35b00-910e-4746-9383-2e73a5d04dd5.jpg",
+  "local_large": "cards/large/45c35b00-910e-4746-9383-2e73a5d04dd5.jpg",
+  "art": {
+   "brightness": 0.391,
+   "contrast": 0.2253,
+   "saturation": 0.4587,
+   "warmth": -0.2752,
+   "variety": 0.6933,
+   "detail": 0.0477,
+   "dark_ratio": 0.2343,
+   "bright_ratio": 0.05
+  }
+ },
+ {
+  "cmdr_en": "The Gitrog, Ravenous Ride",
+  "cmdr_zh": "血口坐骑噬人蛙怪",
+  "cmdr_rank": 359,
+  "cmdr_colors": "BG",
+  "form_hint": "可爱小兽",
+  "art_id": "cf024c31-3015-4b85-9f42-e3a2f6b9ee6b",
+  "face": 0,
+  "face_name": "The Gitrog, Ravenous Ride",
+  "artist": "Johan Grenier",
+  "set": "otj",
+  "set_name": "Outlaws of Thunder Junction",
+  "collector_number": "352",
+  "released_at": "2024-04-19",
+  "border_color": "black",
+  "frame_effects": [
+   "extendedart",
+   "legendary"
+  ],
+  "promo": false,
+  "promo_types": [
+   "boosterfun"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Frog Horror Mount",
+  "types": [
+   "frog"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/a/6/a634b934-710b-4c83-b769-d8a034e297b8.jpg?1783911741",
+  "image_normal": "https://cards.scryfall.io/normal/front/a/6/a634b934-710b-4c83-b769-d8a034e297b8.jpg?1783911741",
+  "image_large": "https://cards.scryfall.io/large/front/a/6/a634b934-710b-4c83-b769-d8a034e297b8.jpg?1783911741",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/a/6/a634b934-710b-4c83-b769-d8a034e297b8.jpg?1783911741",
+  "local_art_crop": "cards/art_crop/cf024c31-3015-4b85-9f42-e3a2f6b9ee6b.jpg",
+  "local_normal": "cards/normal/cf024c31-3015-4b85-9f42-e3a2f6b9ee6b.jpg",
+  "local_large": "cards/large/cf024c31-3015-4b85-9f42-e3a2f6b9ee6b.jpg",
+  "art": {
+   "brightness": 0.3189,
+   "contrast": 0.1591,
+   "saturation": 0.3056,
+   "warmth": 0.8585,
+   "variety": 0.6342,
+   "detail": 0.0352,
+   "dark_ratio": 0.2475,
+   "bright_ratio": 0.0017
+  }
+ },
+ {
+  "cmdr_en": "Nethroi, Apex of Death",
+  "cmdr_zh": "夺命霸狮涅司罗",
+  "cmdr_rank": 361,
+  "cmdr_colors": "BGW",
+  "form_hint": "可爱小兽",
+  "art_id": "9f808ff7-92bd-43e9-9afb-27643ca65919",
+  "face": 0,
+  "face_name": "Nethroi, Apex of Death",
+  "artist": "Torstein Nordstrand",
+  "set": "iko",
+  "set_name": "Ikoria: Lair of Behemoths",
+  "collector_number": "380",
+  "released_at": "2020-04-24",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [
+   "boxtopper",
+   "godzillaseries",
+   "boosterfun"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Cat Nightmare Beast",
+  "types": [
+   "cat"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/b/9/b9ebe73b-29d7-4a07-b7dc-a885dad61a88.jpg?1783930951",
+  "image_normal": "https://cards.scryfall.io/normal/front/b/9/b9ebe73b-29d7-4a07-b7dc-a885dad61a88.jpg?1783930951",
+  "image_large": "https://cards.scryfall.io/large/front/b/9/b9ebe73b-29d7-4a07-b7dc-a885dad61a88.jpg?1783930951",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/b/9/b9ebe73b-29d7-4a07-b7dc-a885dad61a88.jpg?1783930951",
+  "local_art_crop": "cards/art_crop/9f808ff7-92bd-43e9-9afb-27643ca65919.jpg",
+  "local_normal": "cards/normal/9f808ff7-92bd-43e9-9afb-27643ca65919.jpg",
+  "local_large": "cards/large/9f808ff7-92bd-43e9-9afb-27643ca65919.jpg",
+  "art": {
+   "brightness": 0.3615,
+   "contrast": 0.1723,
+   "saturation": 0.2406,
+   "warmth": 0.0532,
+   "variety": 0.7841,
+   "detail": 0.0329,
+   "dark_ratio": 0.1698,
+   "bright_ratio": 0.0049
+  }
+ },
+ {
+  "cmdr_en": "Nethroi, Apex of Death",
+  "cmdr_zh": "夺命霸狮涅司罗",
+  "cmdr_rank": 361,
+  "cmdr_colors": "BGW",
+  "form_hint": "可爱小兽",
+  "art_id": "f3c90913-add4-46da-8ee1-3d26598539a0",
+  "face": 0,
+  "face_name": "Nethroi, Apex of Death",
+  "artist": "Tomasz Jedruszek",
+  "set": "iko",
+  "set_name": "Ikoria: Lair of Behemoths",
+  "collector_number": "303",
+  "released_at": "2020-04-24",
+  "border_color": "borderless",
+  "frame_effects": [
+   "showcase",
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [
+   "boosterfun"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Cat Nightmare Beast",
+  "types": [
+   "cat"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/b/a/ba04c102-e4c1-43a8-9c2f-d1f3c9bf5edf.jpg?1783930981",
+  "image_normal": "https://cards.scryfall.io/normal/front/b/a/ba04c102-e4c1-43a8-9c2f-d1f3c9bf5edf.jpg?1783930981",
+  "image_large": "https://cards.scryfall.io/large/front/b/a/ba04c102-e4c1-43a8-9c2f-d1f3c9bf5edf.jpg?1783930981",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/b/a/ba04c102-e4c1-43a8-9c2f-d1f3c9bf5edf.jpg?1783930981",
+  "local_art_crop": "cards/art_crop/f3c90913-add4-46da-8ee1-3d26598539a0.jpg",
+  "local_normal": "cards/normal/f3c90913-add4-46da-8ee1-3d26598539a0.jpg",
+  "local_large": "cards/large/f3c90913-add4-46da-8ee1-3d26598539a0.jpg",
+  "art": {
+   "brightness": 0.382,
+   "contrast": 0.2178,
+   "saturation": 0.4523,
+   "warmth": 0.9536,
+   "variety": 0.4166,
+   "detail": 0.0665,
+   "dark_ratio": 0.2347,
+   "bright_ratio": 0.011
+  }
+ },
+ {
+  "cmdr_en": "Grolnok, the Omnivore",
+  "cmdr_zh": "全能噬蛙葛诺克",
+  "cmdr_rank": 387,
+  "cmdr_colors": "GU",
+  "form_hint": "可爱小兽",
+  "art_id": "6ae2ee5d-160f-40b5-9fd6-4cf58c9b28c9",
+  "face": 0,
+  "face_name": "Grolnok, the Omnivore",
+  "artist": "Simon Dominic",
+  "set": "dbl",
+  "set_name": "Innistrad: Double Feature",
+  "collector_number": "505",
+  "released_at": "2022-01-28",
+  "border_color": "black",
+  "frame_effects": [
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [],
+  "full_art": false,
+  "type_line": "Legendary Creature — Frog",
+  "types": [
+   "frog"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/d/f/df0b444e-6128-4257-b8f9-3567ca9580c0.jpg?1783924157",
+  "image_normal": "https://cards.scryfall.io/normal/front/d/f/df0b444e-6128-4257-b8f9-3567ca9580c0.jpg?1783924157",
+  "image_large": "https://cards.scryfall.io/large/front/d/f/df0b444e-6128-4257-b8f9-3567ca9580c0.jpg?1783924157",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/d/f/df0b444e-6128-4257-b8f9-3567ca9580c0.jpg?1783924157",
+  "local_art_crop": "cards/art_crop/6ae2ee5d-160f-40b5-9fd6-4cf58c9b28c9.jpg",
+  "local_normal": "cards/normal/6ae2ee5d-160f-40b5-9fd6-4cf58c9b28c9.jpg",
+  "local_large": "cards/large/6ae2ee5d-160f-40b5-9fd6-4cf58c9b28c9.jpg",
+  "art": {
+   "brightness": 0.2824,
+   "contrast": 0.1455,
+   "saturation": 0.1114,
+   "warmth": 0.8729,
+   "variety": 0.338,
+   "detail": 0.042,
+   "dark_ratio": 0.4072,
+   "bright_ratio": 0.0005
+  }
+ },
+ {
+  "cmdr_en": "Grolnok, the Omnivore",
+  "cmdr_zh": "全能噬蛙葛诺克",
+  "cmdr_rank": 387,
+  "cmdr_colors": "GU",
+  "form_hint": "可爱小兽",
+  "art_id": "69d9a437-15b6-4569-bde7-695977a27aef",
+  "face": 0,
+  "face_name": "Grolnok, the Omnivore",
+  "artist": "DZO",
+  "set": "vow",
+  "set_name": "Innistrad: Crimson Vow",
+  "collector_number": "324",
+  "released_at": "2021-11-19",
+  "border_color": "black",
+  "frame_effects": [
+   "showcase",
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [
+   "boosterfun"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Frog",
+  "types": [
+   "frog"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/0/b/0b51e8d9-a837-4b53-8943-220c0e1d4c3c.jpg?1783924751",
+  "image_normal": "https://cards.scryfall.io/normal/front/0/b/0b51e8d9-a837-4b53-8943-220c0e1d4c3c.jpg?1783924751",
+  "image_large": "https://cards.scryfall.io/large/front/0/b/0b51e8d9-a837-4b53-8943-220c0e1d4c3c.jpg?1783924751",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/0/b/0b51e8d9-a837-4b53-8943-220c0e1d4c3c.jpg?1783924751",
+  "local_art_crop": "cards/art_crop/69d9a437-15b6-4569-bde7-695977a27aef.jpg",
+  "local_normal": "cards/normal/69d9a437-15b6-4569-bde7-695977a27aef.jpg",
+  "local_large": "cards/large/69d9a437-15b6-4569-bde7-695977a27aef.jpg",
+  "art": {
+   "brightness": 0.4203,
+   "contrast": 0.3404,
+   "saturation": 0.0433,
+   "warmth": -0.8235,
+   "variety": 0.1197,
+   "detail": 0.0976,
+   "dark_ratio": 0.407,
+   "bright_ratio": 0.2287
+  }
+ },
+ {
+  "cmdr_en": "Maha, Its Feathers Night",
+  "cmdr_zh": "蔽夜飞羽玛哈",
+  "cmdr_rank": 449,
+  "cmdr_colors": "B",
+  "form_hint": "可爱小兽",
+  "art_id": "aa2f3db9-0fa4-47a2-b311-ed629ee4df86",
+  "face": 0,
+  "face_name": "Maha, Its Feathers Night",
+  "artist": "Jeff Carpenter",
+  "set": "blb",
+  "set_name": "Bloomburrow",
+  "collector_number": "289",
+  "released_at": "2024-08-02",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [
+   "boosterfun"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Elemental Bird",
+  "types": [
+   "bird"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/b/f/bfd53428-56c3-4c99-828d-665e3c2d15a8.jpg?1783910772",
+  "image_normal": "https://cards.scryfall.io/normal/front/b/f/bfd53428-56c3-4c99-828d-665e3c2d15a8.jpg?1783910772",
+  "image_large": "https://cards.scryfall.io/large/front/b/f/bfd53428-56c3-4c99-828d-665e3c2d15a8.jpg?1783910772",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/b/f/bfd53428-56c3-4c99-828d-665e3c2d15a8.jpg?1783910772",
+  "local_art_crop": "cards/art_crop/aa2f3db9-0fa4-47a2-b311-ed629ee4df86.jpg",
+  "local_normal": "cards/normal/aa2f3db9-0fa4-47a2-b311-ed629ee4df86.jpg",
+  "local_large": "cards/large/aa2f3db9-0fa4-47a2-b311-ed629ee4df86.jpg",
+  "art": {
+   "brightness": 0.5215,
+   "contrast": 0.2609,
+   "saturation": 0.4659,
+   "warmth": -0.7325,
+   "variety": 0.5671,
+   "detail": 0.0474,
+   "dark_ratio": 0.1464,
+   "bright_ratio": 0.2085
+  }
+ },
+ {
+  "cmdr_en": "Maha, Its Feathers Night",
+  "cmdr_zh": "蔽夜飞羽玛哈",
+  "cmdr_rank": 449,
+  "cmdr_colors": "B",
+  "form_hint": "可爱小兽",
+  "art_id": "448ee062-41ff-4804-9477-8de911cdafc7",
+  "face": 0,
+  "face_name": "Maha, Its Feathers Night",
+  "artist": "Alessandra Pisano",
+  "set": "blb",
+  "set_name": "Bloomburrow",
+  "collector_number": "100",
+  "released_at": "2024-08-02",
+  "border_color": "black",
+  "frame_effects": [
+   "legendary"
+  ],
+  "promo": false,
+  "promo_types": [],
+  "full_art": false,
+  "type_line": "Legendary Creature — Elemental Bird",
+  "types": [
+   "bird"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/c/f/cf3320ec-c4e8-405a-982d-e009c58c9e21.jpg?1783910833",
+  "image_normal": "https://cards.scryfall.io/normal/front/c/f/cf3320ec-c4e8-405a-982d-e009c58c9e21.jpg?1783910833",
+  "image_large": "https://cards.scryfall.io/large/front/c/f/cf3320ec-c4e8-405a-982d-e009c58c9e21.jpg?1783910833",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/c/f/cf3320ec-c4e8-405a-982d-e009c58c9e21.jpg?1783910833",
+  "local_art_crop": "cards/art_crop/448ee062-41ff-4804-9477-8de911cdafc7.jpg",
+  "local_normal": "cards/normal/448ee062-41ff-4804-9477-8de911cdafc7.jpg",
+  "local_large": "cards/large/448ee062-41ff-4804-9477-8de911cdafc7.jpg",
+  "art": {
+   "brightness": 0.3457,
+   "contrast": 0.1924,
+   "saturation": 0.3008,
+   "warmth": -0.1962,
+   "variety": 0.759,
+   "detail": 0.0437,
+   "dark_ratio": 0.3167,
+   "bright_ratio": 0.0056
+  }
+ },
+ {
+  "cmdr_en": "Karn, Legacy Reforged",
+  "cmdr_zh": "神兵重铸卡恩",
+  "cmdr_rank": 456,
+  "cmdr_colors": "",
+  "form_hint": "机械构装",
+  "art_id": "4a78b833-6938-48c9-b907-9af23a7f0aee",
+  "face": 0,
+  "face_name": "Karn, Legacy Reforged",
+  "artist": "Grzegorz Rutkowski",
+  "set": "mat",
+  "set_name": "March of the Machine: The Aftermath",
+  "collector_number": "184",
+  "released_at": "2023-05-12",
+  "border_color": "black",
+  "frame_effects": [
+   "legendary",
+   "extendedart"
+  ],
+  "promo": false,
+  "promo_types": [
+   "boosterfun"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Artifact Creature — Golem",
+  "types": [
+   "golem"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/b/0/b04e6527-06f8-4783-93fc-8738673116c1.jpg?1783916436",
+  "image_normal": "https://cards.scryfall.io/normal/front/b/0/b04e6527-06f8-4783-93fc-8738673116c1.jpg?1783916436",
+  "image_large": "https://cards.scryfall.io/large/front/b/0/b04e6527-06f8-4783-93fc-8738673116c1.jpg?1783916436",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/b/0/b04e6527-06f8-4783-93fc-8738673116c1.jpg?1783916436",
+  "local_art_crop": "cards/art_crop/4a78b833-6938-48c9-b907-9af23a7f0aee.jpg",
+  "local_normal": "cards/normal/4a78b833-6938-48c9-b907-9af23a7f0aee.jpg",
+  "local_large": "cards/large/4a78b833-6938-48c9-b907-9af23a7f0aee.jpg",
+  "art": {
+   "brightness": 0.535,
+   "contrast": 0.2646,
+   "saturation": 0.2224,
+   "warmth": 0.3753,
+   "variety": 0.6466,
+   "detail": 0.0423,
+   "dark_ratio": 0.1572,
+   "bright_ratio": 0.2214
+  }
+ },
+ {
+  "cmdr_en": "Karn, Legacy Reforged",
+  "cmdr_zh": "神兵重铸卡恩",
+  "cmdr_rank": 456,
+  "cmdr_colors": "",
+  "form_hint": "机械构装",
+  "art_id": "9583de30-d085-4c7c-807e-0cddb14fd27a",
+  "face": 0,
+  "face_name": "Karn, Legacy Reforged",
+  "artist": "Anthony S. Waters",
+  "set": "mb2",
+  "set_name": "Mystery Booster 2",
+  "collector_number": "255",
+  "released_at": "2024-08-02",
+  "border_color": "black",
+  "frame_effects": [
+   "legendary"
+  ],
+  "promo": false,
+  "promo_types": [],
+  "full_art": false,
+  "type_line": "Legendary Artifact Creature — Golem",
+  "types": [
+   "golem"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/0/3/038b1b24-e823-40c2-8fa4-7193854037d3.jpg?1787727958",
+  "image_normal": "https://cards.scryfall.io/normal/front/0/3/038b1b24-e823-40c2-8fa4-7193854037d3.jpg?1787727958",
+  "image_large": "https://cards.scryfall.io/large/front/0/3/038b1b24-e823-40c2-8fa4-7193854037d3.jpg?1787727958",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/0/3/038b1b24-e823-40c2-8fa4-7193854037d3.jpg?1787727958",
+  "local_art_crop": "cards/art_crop/9583de30-d085-4c7c-807e-0cddb14fd27a.jpg",
+  "local_normal": "cards/normal/9583de30-d085-4c7c-807e-0cddb14fd27a.jpg",
+  "local_large": "cards/large/9583de30-d085-4c7c-807e-0cddb14fd27a.jpg",
+  "art": {
+   "brightness": 0.5818,
+   "contrast": 0.2988,
+   "saturation": 0.5387,
+   "warmth": 0.1415,
+   "variety": 0.5188,
+   "detail": 0.039,
+   "dark_ratio": 0.1329,
+   "bright_ratio": 0.3591
+  }
+ },
+ {
+  "cmdr_en": "The Reaper, King No More",
+  "cmdr_zh": "夺命枉者",
+  "cmdr_rank": 470,
+  "cmdr_colors": "BGR",
+  "form_hint": "机械构装",
+  "art_id": "65db3032-2fd1-4308-92ce-634201960a74",
+  "face": 0,
+  "face_name": "The Reaper, King No More",
+  "artist": "Zack Stella",
+  "set": "ecc",
+  "set_name": "Lorwyn Eclipsed Commander",
+  "collector_number": "4",
+  "released_at": "2026-01-23",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [],
+  "full_art": false,
+  "type_line": "Legendary Artifact Creature — Scarecrow",
+  "types": [
+   "scarecrow"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/d/2/d2119f3f-27d2-4d43-a5ef-35c1b73d182a.jpg?1783904605",
+  "image_normal": "https://cards.scryfall.io/normal/front/d/2/d2119f3f-27d2-4d43-a5ef-35c1b73d182a.jpg?1783904605",
+  "image_large": "https://cards.scryfall.io/large/front/d/2/d2119f3f-27d2-4d43-a5ef-35c1b73d182a.jpg?1783904605",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/d/2/d2119f3f-27d2-4d43-a5ef-35c1b73d182a.jpg?1783904605",
+  "local_art_crop": "cards/art_crop/65db3032-2fd1-4308-92ce-634201960a74.jpg",
+  "local_normal": "cards/normal/65db3032-2fd1-4308-92ce-634201960a74.jpg",
+  "local_large": "cards/large/65db3032-2fd1-4308-92ce-634201960a74.jpg",
+  "art": {
+   "brightness": 0.412,
+   "contrast": 0.1609,
+   "saturation": 0.2822,
+   "warmth": 0.1976,
+   "variety": 0.8022,
+   "detail": 0.0507,
+   "dark_ratio": 0.1233,
+   "bright_ratio": 0.0023
+  }
+ },
+ {
+  "cmdr_en": "Slicer, Hired Muscle // Slicer, High-Speed Antagonist",
+  "cmdr_zh": "受雇狂徒切片",
+  "cmdr_rank": 569,
+  "cmdr_colors": "R",
+  "form_hint": "机械构装",
+  "art_id": "06eddf06-df23-4668-9cc5-69546aa7ef2c",
+  "face": 0,
+  "face_name": "Slicer, Hired Muscle",
+  "artist": "Volta Creation",
+  "set": "bot",
+  "set_name": "Transformers",
+  "collector_number": "21",
+  "released_at": "2022-11-18",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "shatteredglass",
+   "inverted",
+   "convertdfc"
+  ],
+  "promo": false,
+  "promo_types": [
+   "universesbeyond"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle",
+  "types": [
+   "robot",
+   "vehicle"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/a/3/a35108d8-f6c5-4474-9049-64fd7e3b1310.jpg?1783919892",
+  "image_normal": "https://cards.scryfall.io/normal/front/a/3/a35108d8-f6c5-4474-9049-64fd7e3b1310.jpg?1783919892",
+  "image_large": "https://cards.scryfall.io/large/front/a/3/a35108d8-f6c5-4474-9049-64fd7e3b1310.jpg?1783919892",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/a/3/a35108d8-f6c5-4474-9049-64fd7e3b1310.jpg?1783919892",
+  "local_art_crop": "cards/art_crop/06eddf06-df23-4668-9cc5-69546aa7ef2c.jpg",
+  "local_normal": "cards/normal/06eddf06-df23-4668-9cc5-69546aa7ef2c.jpg",
+  "local_large": "cards/large/06eddf06-df23-4668-9cc5-69546aa7ef2c.jpg",
+  "art": {
+   "brightness": 0.2665,
+   "contrast": 0.1237,
+   "saturation": 0.3803,
+   "warmth": -0.1892,
+   "variety": 0.619,
+   "detail": 0.0265,
+   "dark_ratio": 0.377,
+   "bright_ratio": 0.0013
+  }
+ },
+ {
+  "cmdr_en": "Slicer, Hired Muscle // Slicer, High-Speed Antagonist",
+  "cmdr_zh": "受雇狂徒切片",
+  "cmdr_rank": 569,
+  "cmdr_colors": "R",
+  "form_hint": "机械构装",
+  "art_id": "b28cfa8d-421d-4ee6-b644-d91369b973ed",
+  "face": 1,
+  "face_name": "Slicer, High-Speed Antagonist",
+  "artist": "Volta Creation",
+  "set": "bot",
+  "set_name": "Transformers",
+  "collector_number": "21",
+  "released_at": "2022-11-18",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "shatteredglass",
+   "inverted",
+   "convertdfc"
+  ],
+  "promo": false,
+  "promo_types": [
+   "universesbeyond"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle",
+  "types": [
+   "robot",
+   "vehicle"
+  ],
+  "image_small": "https://cards.scryfall.io/small/back/a/3/a35108d8-f6c5-4474-9049-64fd7e3b1310.jpg?1783919892",
+  "image_normal": "https://cards.scryfall.io/normal/back/a/3/a35108d8-f6c5-4474-9049-64fd7e3b1310.jpg?1783919892",
+  "image_large": "https://cards.scryfall.io/large/back/a/3/a35108d8-f6c5-4474-9049-64fd7e3b1310.jpg?1783919892",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/back/a/3/a35108d8-f6c5-4474-9049-64fd7e3b1310.jpg?1783919892",
+  "local_art_crop": "cards/art_crop/b28cfa8d-421d-4ee6-b644-d91369b973ed.jpg",
+  "local_normal": "cards/normal/b28cfa8d-421d-4ee6-b644-d91369b973ed.jpg",
+  "local_large": "cards/large/b28cfa8d-421d-4ee6-b644-d91369b973ed.jpg",
+  "art": {
+   "brightness": 0.3354,
+   "contrast": 0.2044,
+   "saturation": 0.4571,
+   "warmth": -0.708,
+   "variety": 0.5181,
+   "detail": 0.0294,
+   "dark_ratio": 0.3237,
+   "bright_ratio": 0.0425
+  }
+ },
+ {
+  "cmdr_en": "Ultron, Artificial Malevolence",
+  "cmdr_zh": "人工恶意奥创",
+  "cmdr_rank": 574,
+  "cmdr_colors": "",
+  "form_hint": "机械构装",
+  "art_id": "fed79c89-4d77-4f6d-884c-59157ceaddf6",
+  "face": 0,
+  "face_name": "Ultron, Artificial Malevolence",
+  "artist": "Sal Buscema & Sam Grainger",
+  "set": "msh",
+  "set_name": "Marvel Super Heroes",
+  "collector_number": "401",
+  "released_at": "2026-06-26",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary"
+  ],
+  "promo": false,
+  "promo_types": [
+   "universesbeyond"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Artifact Creature — Robot Villain",
+  "types": [
+   "robot"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/d/f/df9302a8-e918-429c-8853-133c489223f1.jpg?1783902834",
+  "image_normal": "https://cards.scryfall.io/normal/front/d/f/df9302a8-e918-429c-8853-133c489223f1.jpg?1783902834",
+  "image_large": "https://cards.scryfall.io/large/front/d/f/df9302a8-e918-429c-8853-133c489223f1.jpg?1783902834",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/d/f/df9302a8-e918-429c-8853-133c489223f1.jpg?1783902834",
+  "local_art_crop": "cards/art_crop/fed79c89-4d77-4f6d-884c-59157ceaddf6.jpg",
+  "local_normal": "cards/normal/fed79c89-4d77-4f6d-884c-59157ceaddf6.jpg",
+  "local_large": "cards/large/fed79c89-4d77-4f6d-884c-59157ceaddf6.jpg",
+  "art": {
+   "brightness": 0.4971,
+   "contrast": 0.3357,
+   "saturation": 0.5276,
+   "warmth": 0.2091,
+   "variety": 0.7323,
+   "detail": 0.1045,
+   "dark_ratio": 0.2735,
+   "bright_ratio": 0.2998
+  }
+ },
+ {
+  "cmdr_en": "Ultron, Artificial Malevolence",
+  "cmdr_zh": "人工恶意奥创",
+  "cmdr_rank": 574,
+  "cmdr_colors": "",
+  "form_hint": "机械构装",
+  "art_id": "2e8a1335-b283-4ce4-82c8-db425299a374",
+  "face": 0,
+  "face_name": "Ultron, Artificial Malevolence",
+  "artist": "Johan Grenier",
+  "set": "msh",
+  "set_name": "Marvel Super Heroes",
+  "collector_number": "344",
+  "released_at": "2026-06-26",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [
+   "universesbeyond"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Artifact Creature — Robot Villain",
+  "types": [
+   "robot"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/8/a/8a65f1b1-56b5-4a4c-acc7-d1b8933244a4.jpg?1783902858",
+  "image_normal": "https://cards.scryfall.io/normal/front/8/a/8a65f1b1-56b5-4a4c-acc7-d1b8933244a4.jpg?1783902858",
+  "image_large": "https://cards.scryfall.io/large/front/8/a/8a65f1b1-56b5-4a4c-acc7-d1b8933244a4.jpg?1783902858",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/8/a/8a65f1b1-56b5-4a4c-acc7-d1b8933244a4.jpg?1783902858",
+  "local_art_crop": "cards/art_crop/2e8a1335-b283-4ce4-82c8-db425299a374.jpg",
+  "local_normal": "cards/normal/2e8a1335-b283-4ce4-82c8-db425299a374.jpg",
+  "local_large": "cards/large/2e8a1335-b283-4ce4-82c8-db425299a374.jpg",
+  "art": {
+   "brightness": 0.2533,
+   "contrast": 0.1795,
+   "saturation": 0.4636,
+   "warmth": 0.3609,
+   "variety": 0.6472,
+   "detail": 0.0576,
+   "dark_ratio": 0.4542,
+   "bright_ratio": 0.0182
+  }
+ },
+ {
+  "cmdr_en": "Liberty Prime, Recharged",
+  "cmdr_zh": "满电自由至尊",
+  "cmdr_rank": 575,
+  "cmdr_colors": "RUW",
+  "form_hint": "机械构装",
+  "art_id": "a50d7668-2fae-4b91-ade1-ac8950ad2a93",
+  "face": 0,
+  "face_name": "Liberty Prime, Recharged",
+  "artist": "Pascal Quidault",
+  "set": "pip",
+  "set_name": "Fallout",
+  "collector_number": "944",
+  "released_at": "2024-03-08",
+  "border_color": "black",
+  "frame_effects": [
+   "legendary",
+   "extendedart"
+  ],
+  "promo": false,
+  "promo_types": [
+   "surgefoil",
+   "universesbeyond"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Artifact Creature — Robot",
+  "types": [
+   "robot"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/b/c/bca7aa89-f7c0-471b-ab16-c0664f535942.jpg?1783912089",
+  "image_normal": "https://cards.scryfall.io/normal/front/b/c/bca7aa89-f7c0-471b-ab16-c0664f535942.jpg?1783912089",
+  "image_large": "https://cards.scryfall.io/large/front/b/c/bca7aa89-f7c0-471b-ab16-c0664f535942.jpg?1783912089",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/b/c/bca7aa89-f7c0-471b-ab16-c0664f535942.jpg?1783912089",
+  "local_art_crop": "cards/art_crop/a50d7668-2fae-4b91-ade1-ac8950ad2a93.jpg",
+  "local_normal": "cards/normal/a50d7668-2fae-4b91-ade1-ac8950ad2a93.jpg",
+  "local_large": "cards/large/a50d7668-2fae-4b91-ade1-ac8950ad2a93.jpg",
+  "art": {
+   "brightness": 0.3403,
+   "contrast": 0.2009,
+   "saturation": 0.2926,
+   "warmth": -0.7939,
+   "variety": 0.421,
+   "detail": 0.0343,
+   "dark_ratio": 0.2384,
+   "bright_ratio": 0.0531
+  }
+ },
+ {
+  "cmdr_en": "Yargle and Multani",
+  "cmdr_zh": "雅骨尔与穆塔尼",
+  "cmdr_rank": 616,
+  "cmdr_colors": "BG",
+  "form_hint": "可爱小兽",
+  "art_id": "b800878e-2182-44fa-97ab-2e8f97bd6c0f",
+  "face": 0,
+  "face_name": "Yargle and Multani",
+  "artist": "Warren Mahy",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "collector_number": "872",
+  "released_at": "2024-09-30",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [
+   "sldbonus",
+   "universesbeyond"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Frog Spirit Elemental",
+  "types": [
+   "frog"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/2/8/28f519bd-b396-4e45-881e-707f6822c402.jpg?1783909228",
+  "image_normal": "https://cards.scryfall.io/normal/front/2/8/28f519bd-b396-4e45-881e-707f6822c402.jpg?1783909228",
+  "image_large": "https://cards.scryfall.io/large/front/2/8/28f519bd-b396-4e45-881e-707f6822c402.jpg?1783909228",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/2/8/28f519bd-b396-4e45-881e-707f6822c402.jpg?1783909228",
+  "local_art_crop": "cards/art_crop/b800878e-2182-44fa-97ab-2e8f97bd6c0f.jpg",
+  "local_normal": "cards/normal/b800878e-2182-44fa-97ab-2e8f97bd6c0f.jpg",
+  "local_large": "cards/large/b800878e-2182-44fa-97ab-2e8f97bd6c0f.jpg",
+  "art": {
+   "brightness": 0.3752,
+   "contrast": 0.2187,
+   "saturation": 0.339,
+   "warmth": 0.3503,
+   "variety": 0.787,
+   "detail": 0.0383,
+   "dark_ratio": 0.2925,
+   "bright_ratio": 0.0422
+  }
+ },
+ {
+  "cmdr_en": "Yargle and Multani",
+  "cmdr_zh": "雅骨尔与穆塔尼",
+  "cmdr_rank": 616,
+  "cmdr_colors": "BG",
+  "form_hint": "可爱小兽",
+  "art_id": "e2b1d875-a557-497a-8419-eb67125d2c37",
+  "face": 0,
+  "face_name": "Yargle and Multani",
+  "artist": "Lisa Heidhoff",
+  "set": "mom",
+  "set_name": "March of the Machine",
+  "collector_number": "317",
+  "released_at": "2023-04-21",
+  "border_color": "black",
+  "frame_effects": [
+   "showcase",
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [
+   "boosterfun"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Frog Spirit Elemental",
+  "types": [
+   "frog"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/4/6/46df4f25-3705-4d63-aadb-eb89c3476cf4.jpg?1783916909",
+  "image_normal": "https://cards.scryfall.io/normal/front/4/6/46df4f25-3705-4d63-aadb-eb89c3476cf4.jpg?1783916909",
+  "image_large": "https://cards.scryfall.io/large/front/4/6/46df4f25-3705-4d63-aadb-eb89c3476cf4.jpg?1783916909",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/4/6/46df4f25-3705-4d63-aadb-eb89c3476cf4.jpg?1783916909",
+  "local_art_crop": "cards/art_crop/e2b1d875-a557-497a-8419-eb67125d2c37.jpg",
+  "local_normal": "cards/normal/e2b1d875-a557-497a-8419-eb67125d2c37.jpg",
+  "local_large": "cards/large/e2b1d875-a557-497a-8419-eb67125d2c37.jpg",
+  "art": {
+   "brightness": 0.3392,
+   "contrast": 0.2037,
+   "saturation": 0.4131,
+   "warmth": 0.4689,
+   "variety": 0.7931,
+   "detail": 0.0855,
+   "dark_ratio": 0.2627,
+   "bright_ratio": 0.0466
+  }
+ },
+ {
+  "cmdr_en": "Falco Spara, Pactweaver",
+  "cmdr_zh": "",
+  "cmdr_rank": 650,
+  "cmdr_colors": "GUW",
+  "form_hint": "可爱小兽",
+  "art_id": "cb3a2de3-67b0-4575-8d35-9b3a8b6c6432",
+  "face": 0,
+  "face_name": "Falco Spara, Pactweaver",
+  "artist": "Jack Hughes",
+  "set": "snc",
+  "set_name": "Streets of New Capenna",
+  "collector_number": "372",
+  "released_at": "2022-04-29",
+  "border_color": "black",
+  "frame_effects": [
+   "showcase",
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [
+   "gilded",
+   "boosterfun"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Bird Demon",
+  "types": [
+   "bird"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/6/5/6518c19e-c8f4-4598-849c-c073c8c33923.jpg?1783923005",
+  "image_normal": "https://cards.scryfall.io/normal/front/6/5/6518c19e-c8f4-4598-849c-c073c8c33923.jpg?1783923005",
+  "image_large": "https://cards.scryfall.io/large/front/6/5/6518c19e-c8f4-4598-849c-c073c8c33923.jpg?1783923005",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/6/5/6518c19e-c8f4-4598-849c-c073c8c33923.jpg?1783923005",
+  "local_art_crop": "cards/art_crop/cb3a2de3-67b0-4575-8d35-9b3a8b6c6432.jpg",
+  "local_normal": "cards/normal/cb3a2de3-67b0-4575-8d35-9b3a8b6c6432.jpg",
+  "local_large": "cards/large/cb3a2de3-67b0-4575-8d35-9b3a8b6c6432.jpg",
+  "art": {
+   "brightness": 0.4332,
+   "contrast": 0.3043,
+   "saturation": 0.2213,
+   "warmth": -0.4854,
+   "variety": 0.7753,
+   "detail": 0.0506,
+   "dark_ratio": 0.3299,
+   "bright_ratio": 0.2228
+  }
+ },
+ {
+  "cmdr_en": "Falco Spara, Pactweaver",
+  "cmdr_zh": "",
+  "cmdr_rank": 650,
+  "cmdr_colors": "GUW",
+  "form_hint": "可爱小兽",
+  "art_id": "80de2a00-5a7b-4823-bb41-c7df85377bbd",
+  "face": 0,
+  "face_name": "Falco Spara, Pactweaver",
+  "artist": "Kieran Yanner",
+  "set": "snc",
+  "set_name": "Streets of New Capenna",
+  "collector_number": "186",
+  "released_at": "2022-04-29",
+  "border_color": "black",
+  "frame_effects": [
+   "legendary"
+  ],
+  "promo": false,
+  "promo_types": [],
+  "full_art": false,
+  "type_line": "Legendary Creature — Bird Demon",
+  "types": [
+   "bird"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/a/e/ae25db8c-3d10-4196-b002-9d2aabd5f4de.jpg?1783923087",
+  "image_normal": "https://cards.scryfall.io/normal/front/a/e/ae25db8c-3d10-4196-b002-9d2aabd5f4de.jpg?1783923087",
+  "image_large": "https://cards.scryfall.io/large/front/a/e/ae25db8c-3d10-4196-b002-9d2aabd5f4de.jpg?1783923087",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/a/e/ae25db8c-3d10-4196-b002-9d2aabd5f4de.jpg?1783923087",
+  "local_art_crop": "cards/art_crop/80de2a00-5a7b-4823-bb41-c7df85377bbd.jpg",
+  "local_normal": "cards/normal/80de2a00-5a7b-4823-bb41-c7df85377bbd.jpg",
+  "local_large": "cards/large/80de2a00-5a7b-4823-bb41-c7df85377bbd.jpg",
+  "art": {
+   "brightness": 0.5106,
+   "contrast": 0.2571,
+   "saturation": 0.2456,
+   "warmth": 0.5895,
+   "variety": 0.6814,
+   "detail": 0.0394,
+   "dark_ratio": 0.1461,
+   "bright_ratio": 0.1698
+  }
+ },
+ {
+  "cmdr_en": "Phelia, Exuberant Shepherd",
+  "cmdr_zh": "亢奋牧犬费利亚",
+  "cmdr_rank": 681,
+  "cmdr_colors": "W",
+  "form_hint": "可爱小兽",
+  "art_id": "872aeb86-0c74-4264-92d9-06cf97bebe86",
+  "face": 0,
+  "face_name": "Phelia, Exuberant Shepherd",
+  "artist": "Allison Carl",
+  "set": "mh3",
+  "set_name": "Modern Horizons 3",
+  "collector_number": "364",
+  "released_at": "2024-06-14",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [
+   "portrait",
+   "boosterfun"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Dog",
+  "types": [
+   "dog"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/9/5/95505d46-fc4f-4e2d-8e08-380d392b74a4.jpg?1783911187",
+  "image_normal": "https://cards.scryfall.io/normal/front/9/5/95505d46-fc4f-4e2d-8e08-380d392b74a4.jpg?1783911187",
+  "image_large": "https://cards.scryfall.io/large/front/9/5/95505d46-fc4f-4e2d-8e08-380d392b74a4.jpg?1783911187",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/9/5/95505d46-fc4f-4e2d-8e08-380d392b74a4.jpg?1783911187",
+  "local_art_crop": "cards/art_crop/872aeb86-0c74-4264-92d9-06cf97bebe86.jpg",
+  "local_normal": "cards/normal/872aeb86-0c74-4264-92d9-06cf97bebe86.jpg",
+  "local_large": "cards/large/872aeb86-0c74-4264-92d9-06cf97bebe86.jpg",
+  "art": {
+   "brightness": 0.3918,
+   "contrast": 0.2124,
+   "saturation": 0.5823,
+   "warmth": 0.0012,
+   "variety": 0.5669,
+   "detail": 0.0322,
+   "dark_ratio": 0.0865,
+   "bright_ratio": 0.0614
+  }
+ },
+ {
+  "cmdr_en": "Phelia, Exuberant Shepherd",
+  "cmdr_zh": "亢奋牧犬费利亚",
+  "cmdr_rank": 681,
+  "cmdr_colors": "W",
+  "form_hint": "可爱小兽",
+  "art_id": "fec56c1b-e339-4232-8e2d-cf0bd692a5d5",
+  "face": 0,
+  "face_name": "Phelia, Exuberant Shepherd",
+  "artist": "Rudy Siswanto",
+  "set": "plst",
+  "set_name": "The List",
+  "collector_number": "MH3-40",
+  "released_at": "2026-11-09",
+  "border_color": "black",
+  "frame_effects": [
+   "legendary"
+  ],
+  "promo": false,
+  "promo_types": [],
+  "full_art": false,
+  "type_line": "Legendary Creature — Dog",
+  "types": [
+   "dog"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/b/f/bf28a1dc-99d6-457e-bbc9-e77819480f79.jpg?1787682041",
+  "image_normal": "https://cards.scryfall.io/normal/front/b/f/bf28a1dc-99d6-457e-bbc9-e77819480f79.jpg?1787682041",
+  "image_large": "https://cards.scryfall.io/large/front/b/f/bf28a1dc-99d6-457e-bbc9-e77819480f79.jpg?1787682041",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/b/f/bf28a1dc-99d6-457e-bbc9-e77819480f79.jpg?1787682041",
+  "local_art_crop": "cards/art_crop/fec56c1b-e339-4232-8e2d-cf0bd692a5d5.jpg",
+  "local_normal": "cards/normal/fec56c1b-e339-4232-8e2d-cf0bd692a5d5.jpg",
+  "local_large": "cards/large/fec56c1b-e339-4232-8e2d-cf0bd692a5d5.jpg",
+  "art": {
+   "brightness": 0.4286,
+   "contrast": 0.1846,
+   "saturation": 0.4313,
+   "warmth": 0.8901,
+   "variety": 0.3365,
+   "detail": 0.0322,
+   "dark_ratio": 0.1009,
+   "bright_ratio": 0.0356
+  }
+ },
+ {
+  "cmdr_en": "Mm'menon, the Right Hand",
+  "cmdr_zh": "",
+  "cmdr_rank": 727,
+  "cmdr_colors": "U",
+  "form_hint": "机械构装",
+  "art_id": "6316a243-b20d-4d1b-9199-bd8d04a4ce1e",
+  "face": 0,
+  "face_name": "Mm'menon, the Right Hand",
+  "artist": "Dominik Mayer",
+  "set": "eoe",
+  "set_name": "Edge of Eternities",
+  "collector_number": "290",
+  "released_at": "2025-08-01",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [
+   "boosterfun"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Jellyfish Advisor",
+  "types": [
+   "jellyfish"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/5/3/53bd9149-e157-4f0b-becf-0b64f47dbad3.jpg?1783905901",
+  "image_normal": "https://cards.scryfall.io/normal/front/5/3/53bd9149-e157-4f0b-becf-0b64f47dbad3.jpg?1783905901",
+  "image_large": "https://cards.scryfall.io/large/front/5/3/53bd9149-e157-4f0b-becf-0b64f47dbad3.jpg?1783905901",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/5/3/53bd9149-e157-4f0b-becf-0b64f47dbad3.jpg?1783905901",
+  "local_art_crop": "cards/art_crop/6316a243-b20d-4d1b-9199-bd8d04a4ce1e.jpg",
+  "local_normal": "cards/normal/6316a243-b20d-4d1b-9199-bd8d04a4ce1e.jpg",
+  "local_large": "cards/large/6316a243-b20d-4d1b-9199-bd8d04a4ce1e.jpg",
+  "art": {
+   "brightness": 0.537,
+   "contrast": 0.2308,
+   "saturation": 0.6109,
+   "warmth": -0.9254,
+   "variety": 0.2595,
+   "detail": 0.0463,
+   "dark_ratio": 0.0858,
+   "bright_ratio": 0.2412
+  }
+ },
+ {
+  "cmdr_en": "Mm'menon, the Right Hand",
+  "cmdr_zh": "",
+  "cmdr_rank": 727,
+  "cmdr_colors": "U",
+  "form_hint": "机械构装",
+  "art_id": "7682f495-e616-44d7-b21d-57eb71125f7d",
+  "face": 0,
+  "face_name": "Mm'menon, the Right Hand",
+  "artist": "Joshua Raphael",
+  "set": "eoe",
+  "set_name": "Edge of Eternities",
+  "collector_number": "68",
+  "released_at": "2025-08-01",
+  "border_color": "black",
+  "frame_effects": [
+   "legendary"
+  ],
+  "promo": false,
+  "promo_types": [],
+  "full_art": false,
+  "type_line": "Legendary Creature — Jellyfish Advisor",
+  "types": [
+   "jellyfish"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/8/2/82add0a0-e402-4b31-b101-81c0bf332015.jpg?1783905978",
+  "image_normal": "https://cards.scryfall.io/normal/front/8/2/82add0a0-e402-4b31-b101-81c0bf332015.jpg?1783905978",
+  "image_large": "https://cards.scryfall.io/large/front/8/2/82add0a0-e402-4b31-b101-81c0bf332015.jpg?1783905978",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/8/2/82add0a0-e402-4b31-b101-81c0bf332015.jpg?1783905978",
+  "local_art_crop": "cards/art_crop/7682f495-e616-44d7-b21d-57eb71125f7d.jpg",
+  "local_normal": "cards/normal/7682f495-e616-44d7-b21d-57eb71125f7d.jpg",
+  "local_large": "cards/large/7682f495-e616-44d7-b21d-57eb71125f7d.jpg",
+  "art": {
+   "brightness": 0.4097,
+   "contrast": 0.1962,
+   "saturation": 0.4163,
+   "warmth": -0.9653,
+   "variety": 0.2938,
+   "detail": 0.0245,
+   "dark_ratio": 0.1664,
+   "bright_ratio": 0.0452
+  }
+ },
+ {
+  "cmdr_en": "Arahbo, the First Fang",
+  "cmdr_zh": "始牙阿拉博",
+  "cmdr_rank": 773,
+  "cmdr_colors": "W",
+  "form_hint": "可爱小兽",
+  "art_id": "c3685bbd-d6b1-4daa-809b-a5e579daa8b2",
+  "face": 0,
+  "face_name": "Arahbo, the First Fang",
+  "artist": "Simon Dominic",
+  "set": "fdn",
+  "set_name": "Foundations",
+  "collector_number": "442",
+  "released_at": "2024-11-15",
+  "border_color": "black",
+  "frame_effects": [
+   "legendary",
+   "extendedart"
+  ],
+  "promo": false,
+  "promo_types": [
+   "boosterfun"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Cat Avatar",
+  "types": [
+   "cat"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/5/2/52605015-ba08-4427-8c06-b47ecd603b27.jpg?1783908989",
+  "image_normal": "https://cards.scryfall.io/normal/front/5/2/52605015-ba08-4427-8c06-b47ecd603b27.jpg?1783908989",
+  "image_large": "https://cards.scryfall.io/large/front/5/2/52605015-ba08-4427-8c06-b47ecd603b27.jpg?1783908989",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/5/2/52605015-ba08-4427-8c06-b47ecd603b27.jpg?1783908989",
+  "local_art_crop": "cards/art_crop/c3685bbd-d6b1-4daa-809b-a5e579daa8b2.jpg",
+  "local_normal": "cards/normal/c3685bbd-d6b1-4daa-809b-a5e579daa8b2.jpg",
+  "local_large": "cards/large/c3685bbd-d6b1-4daa-809b-a5e579daa8b2.jpg",
+  "art": {
+   "brightness": 0.4065,
+   "contrast": 0.2278,
+   "saturation": 0.3296,
+   "warmth": 0.7492,
+   "variety": 0.4438,
+   "detail": 0.037,
+   "dark_ratio": 0.2015,
+   "bright_ratio": 0.0969
+  }
+ },
+ {
+  "cmdr_en": "Arahbo, the First Fang",
+  "cmdr_zh": "始牙阿拉博",
+  "cmdr_rank": 773,
+  "cmdr_colors": "W",
+  "form_hint": "可爱小兽",
+  "art_id": "32561756-7e95-496c-a68d-c819d81d794b",
+  "face": 0,
+  "face_name": "Arahbo, the First Fang",
+  "artist": "Chris Rahn",
+  "set": "fdn",
+  "set_name": "Foundations",
+  "collector_number": "363",
+  "released_at": "2024-11-15",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [
+   "manafoil",
+   "boosterfun"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Cat Avatar",
+  "types": [
+   "cat"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/2/5/2507fddd-2dc0-45f0-ac47-1ddd8690be46.jpg?1783909014",
+  "image_normal": "https://cards.scryfall.io/normal/front/2/5/2507fddd-2dc0-45f0-ac47-1ddd8690be46.jpg?1783909014",
+  "image_large": "https://cards.scryfall.io/large/front/2/5/2507fddd-2dc0-45f0-ac47-1ddd8690be46.jpg?1783909014",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/2/5/2507fddd-2dc0-45f0-ac47-1ddd8690be46.jpg?1783909014",
+  "local_art_crop": "cards/art_crop/32561756-7e95-496c-a68d-c819d81d794b.jpg",
+  "local_normal": "cards/normal/32561756-7e95-496c-a68d-c819d81d794b.jpg",
+  "local_large": "cards/large/32561756-7e95-496c-a68d-c819d81d794b.jpg",
+  "art": {
+   "brightness": 0.4174,
+   "contrast": 0.1101,
+   "saturation": 0.5238,
+   "warmth": 0.7635,
+   "variety": 0.4102,
+   "detail": 0.0377,
+   "dark_ratio": 0.0115,
+   "bright_ratio": 0.0009
+  }
+ },
+ {
+  "cmdr_en": "Abigale, Eloquent First-Year",
+  "cmdr_zh": "",
+  "cmdr_rank": 810,
+  "cmdr_colors": "BW",
+  "form_hint": "可爱小兽",
+  "art_id": "25791cc8-0fe0-45ba-83b6-38ef478f4ce6",
+  "face": 0,
+  "face_name": "Abigale, Eloquent First-Year",
+  "artist": "Mark Zug",
+  "set": "ecl",
+  "set_name": "Lorwyn Eclipsed",
+  "collector_number": "368",
+  "released_at": "2026-01-23",
+  "border_color": "black",
+  "frame_effects": [
+   "legendary",
+   "extendedart"
+  ],
+  "promo": false,
+  "promo_types": [],
+  "full_art": false,
+  "type_line": "Legendary Creature — Bird Bard",
+  "types": [
+   "bird"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/c/8/c8d85a84-42a2-47d1-8fc2-1a081fd6bd2a.jpg?1783904358",
+  "image_normal": "https://cards.scryfall.io/normal/front/c/8/c8d85a84-42a2-47d1-8fc2-1a081fd6bd2a.jpg?1783904358",
+  "image_large": "https://cards.scryfall.io/large/front/c/8/c8d85a84-42a2-47d1-8fc2-1a081fd6bd2a.jpg?1783904358",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/c/8/c8d85a84-42a2-47d1-8fc2-1a081fd6bd2a.jpg?1783904358",
+  "local_art_crop": "cards/art_crop/25791cc8-0fe0-45ba-83b6-38ef478f4ce6.jpg",
+  "local_normal": "cards/normal/25791cc8-0fe0-45ba-83b6-38ef478f4ce6.jpg",
+  "local_large": "cards/large/25791cc8-0fe0-45ba-83b6-38ef478f4ce6.jpg",
+  "art": {
+   "brightness": 0.3673,
+   "contrast": 0.1644,
+   "saturation": 0.3955,
+   "warmth": 0.7736,
+   "variety": 0.6543,
+   "detail": 0.0373,
+   "dark_ratio": 0.1993,
+   "bright_ratio": 0.0024
+  }
+ },
+ {
+  "cmdr_en": "The Pride of Hull Clade",
+  "cmdr_zh": "壳进化组所傲",
+  "cmdr_rank": 834,
+  "cmdr_colors": "GU",
+  "form_hint": "可爱小兽",
+  "art_id": "4844c2c0-3ca7-4f94-be55-8c58d9616330",
+  "face": 0,
+  "face_name": "The Pride of Hull Clade",
+  "artist": "Ivan Shavrin",
+  "set": "mkm",
+  "set_name": "Murders at Karlov Manor",
+  "collector_number": "382",
+  "released_at": "2024-02-09",
+  "border_color": "black",
+  "frame_effects": [
+   "showcase",
+   "legendary"
+  ],
+  "promo": false,
+  "promo_types": [
+   "dossier",
+   "boosterfun",
+   "invisibleink"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Crocodile Elk Turtle",
+  "types": [
+   "turtle"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/9/9/99027565-f009-48d6-a7d0-fec1afff0611.jpg?1783912780",
+  "image_normal": "https://cards.scryfall.io/normal/front/9/9/99027565-f009-48d6-a7d0-fec1afff0611.jpg?1783912780",
+  "image_large": "https://cards.scryfall.io/large/front/9/9/99027565-f009-48d6-a7d0-fec1afff0611.jpg?1783912780",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/9/9/99027565-f009-48d6-a7d0-fec1afff0611.jpg?1783912780",
+  "local_art_crop": "cards/art_crop/4844c2c0-3ca7-4f94-be55-8c58d9616330.jpg",
+  "local_normal": "cards/normal/4844c2c0-3ca7-4f94-be55-8c58d9616330.jpg",
+  "local_large": "cards/large/4844c2c0-3ca7-4f94-be55-8c58d9616330.jpg",
+  "art": {
+   "brightness": 0.393,
+   "contrast": 0.2299,
+   "saturation": 0.4678,
+   "warmth": 0.244,
+   "variety": 0.7908,
+   "detail": 0.0418,
+   "dark_ratio": 0.2921,
+   "bright_ratio": 0.0594
+  }
+ },
+ {
+  "cmdr_en": "The Pride of Hull Clade",
+  "cmdr_zh": "壳进化组所傲",
+  "cmdr_rank": 834,
+  "cmdr_colors": "GU",
+  "form_hint": "可爱小兽",
+  "art_id": "da89d6eb-41d0-4b6d-9509-e16197d251d4",
+  "face": 0,
+  "face_name": "The Pride of Hull Clade",
+  "artist": "Brent Hollowell",
+  "set": "mkm",
+  "set_name": "Murders at Karlov Manor",
+  "collector_number": "172",
+  "released_at": "2024-02-09",
+  "border_color": "black",
+  "frame_effects": [
+   "legendary"
+  ],
+  "promo": false,
+  "promo_types": [],
+  "full_art": false,
+  "type_line": "Legendary Creature — Crocodile Elk Turtle",
+  "types": [
+   "turtle"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/e/d/edb40ab9-e552-4eb5-9c35-09094136dd4f.jpg?1783912862",
+  "image_normal": "https://cards.scryfall.io/normal/front/e/d/edb40ab9-e552-4eb5-9c35-09094136dd4f.jpg?1783912862",
+  "image_large": "https://cards.scryfall.io/large/front/e/d/edb40ab9-e552-4eb5-9c35-09094136dd4f.jpg?1783912862",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/e/d/edb40ab9-e552-4eb5-9c35-09094136dd4f.jpg?1783912862",
+  "local_art_crop": "cards/art_crop/da89d6eb-41d0-4b6d-9509-e16197d251d4.jpg",
+  "local_normal": "cards/normal/da89d6eb-41d0-4b6d-9509-e16197d251d4.jpg",
+  "local_large": "cards/large/da89d6eb-41d0-4b6d-9509-e16197d251d4.jpg",
+  "art": {
+   "brightness": 0.242,
+   "contrast": 0.1417,
+   "saturation": 0.4934,
+   "warmth": -0.2988,
+   "variety": 0.6976,
+   "detail": 0.0363,
+   "dark_ratio": 0.458,
+   "bright_ratio": 0.0042
+  }
+ },
+ {
+  "cmdr_en": "Lurrus of the Dream-Den",
+  "cmdr_zh": "",
+  "cmdr_rank": 904,
+  "cmdr_colors": "BW",
+  "form_hint": "可爱小兽",
+  "art_id": "3ae62020-51a3-4244-ab41-4fe857282387",
+  "face": 0,
+  "face_name": "Lurrus of the Dream-Den",
+  "artist": "Steve Ellis",
+  "set": "mul",
+  "set_name": "Multiverse Legends",
+  "collector_number": "181z",
+  "released_at": "2023-04-21",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "showcase",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [
+   "serialized",
+   "doublerainbow"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Cat Nightmare",
+  "types": [
+   "cat"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/c/2/c2c9065c-54e5-473b-b2cd-f2826d92bc17.jpg?1783916788",
+  "image_normal": "https://cards.scryfall.io/normal/front/c/2/c2c9065c-54e5-473b-b2cd-f2826d92bc17.jpg?1783916788",
+  "image_large": "https://cards.scryfall.io/large/front/c/2/c2c9065c-54e5-473b-b2cd-f2826d92bc17.jpg?1783916788",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/c/2/c2c9065c-54e5-473b-b2cd-f2826d92bc17.jpg?1783916788",
+  "local_art_crop": "cards/art_crop/3ae62020-51a3-4244-ab41-4fe857282387.jpg",
+  "local_normal": "cards/normal/3ae62020-51a3-4244-ab41-4fe857282387.jpg",
+  "local_large": "cards/large/3ae62020-51a3-4244-ab41-4fe857282387.jpg",
+  "art": {
+   "brightness": 0.2703,
+   "contrast": 0.1525,
+   "saturation": 0.3085,
+   "warmth": -0.2842,
+   "variety": 0.892,
+   "detail": 0.05,
+   "dark_ratio": 0.4387,
+   "bright_ratio": 0.0075
+  }
+ },
+ {
+  "cmdr_en": "Lurrus of the Dream-Den",
+  "cmdr_zh": "",
+  "cmdr_rank": 904,
+  "cmdr_colors": "BW",
+  "form_hint": "可爱小兽",
+  "art_id": "f715763e-13f5-4f16-87b6-466bf5dbffba",
+  "face": 0,
+  "face_name": "Lurrus of the Dream-Den",
+  "artist": "Slawomir Maniak",
+  "set": "iko",
+  "set_name": "Ikoria: Lair of Behemoths",
+  "collector_number": "355",
+  "released_at": "2020-04-24",
+  "border_color": "black",
+  "frame_effects": [
+   "companion",
+   "legendary",
+   "extendedart"
+  ],
+  "promo": false,
+  "promo_types": [
+   "boosterfun"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Cat Nightmare",
+  "types": [
+   "cat"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/2/c/2c89beb2-3467-4be0-a066-919f54331942.jpg?1783930961",
+  "image_normal": "https://cards.scryfall.io/normal/front/2/c/2c89beb2-3467-4be0-a066-919f54331942.jpg?1783930961",
+  "image_large": "https://cards.scryfall.io/large/front/2/c/2c89beb2-3467-4be0-a066-919f54331942.jpg?1783930961",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/2/c/2c89beb2-3467-4be0-a066-919f54331942.jpg?1783930961",
+  "local_art_crop": "cards/art_crop/f715763e-13f5-4f16-87b6-466bf5dbffba.jpg",
+  "local_normal": "cards/normal/f715763e-13f5-4f16-87b6-466bf5dbffba.jpg",
+  "local_large": "cards/large/f715763e-13f5-4f16-87b6-466bf5dbffba.jpg",
+  "art": {
+   "brightness": 0.3514,
+   "contrast": 0.2359,
+   "saturation": 0.3464,
+   "warmth": -0.5182,
+   "variety": 0.8494,
+   "detail": 0.0386,
+   "dark_ratio": 0.3589,
+   "bright_ratio": 0.0596
+  }
+ },
+ {
+  "cmdr_en": "Ajani, Nacatl Pariah // Ajani, Nacatl Avenger",
+  "cmdr_zh": "",
+  "cmdr_rank": 940,
+  "cmdr_colors": "RW",
+  "form_hint": "可爱小兽",
+  "art_id": "9ce5ae66-c538-489b-8b37-f8e72a3403b6",
+  "face": 0,
+  "face_name": "Ajani, Nacatl Pariah",
+  "artist": "Ilse Gort",
+  "set": "mh3",
+  "set_name": "Modern Horizons 3",
+  "collector_number": "468",
+  "released_at": "2024-06-14",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [
+   "textured",
+   "boosterfun"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Cat Warrior // Legendary Planeswalker — Ajani",
+  "types": [
+   "cat"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/f/8/f897d650-f1a2-4366-a025-f12c10310d96.jpg?1783911158",
+  "image_normal": "https://cards.scryfall.io/normal/front/f/8/f897d650-f1a2-4366-a025-f12c10310d96.jpg?1783911158",
+  "image_large": "https://cards.scryfall.io/large/front/f/8/f897d650-f1a2-4366-a025-f12c10310d96.jpg?1783911158",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/f/8/f897d650-f1a2-4366-a025-f12c10310d96.jpg?1783911158",
+  "local_art_crop": "cards/art_crop/9ce5ae66-c538-489b-8b37-f8e72a3403b6.jpg",
+  "local_normal": "cards/normal/9ce5ae66-c538-489b-8b37-f8e72a3403b6.jpg",
+  "local_large": "cards/large/9ce5ae66-c538-489b-8b37-f8e72a3403b6.jpg",
+  "art": {
+   "brightness": 0.5541,
+   "contrast": 0.1926,
+   "saturation": 0.2339,
+   "warmth": 0.4267,
+   "variety": 0.811,
+   "detail": 0.0401,
+   "dark_ratio": 0.0075,
+   "bright_ratio": 0.1308
+  }
+ },
+ {
+  "cmdr_en": "Ajani, Nacatl Pariah // Ajani, Nacatl Avenger",
+  "cmdr_zh": "",
+  "cmdr_rank": 940,
+  "cmdr_colors": "RW",
+  "form_hint": "可爱小兽",
+  "art_id": "fc5b0b67-f458-49b2-9dea-812183228031",
+  "face": 1,
+  "face_name": "Ajani, Nacatl Avenger",
+  "artist": "Ilse Gort",
+  "set": "mh3",
+  "set_name": "Modern Horizons 3",
+  "collector_number": "468",
+  "released_at": "2024-06-14",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [
+   "textured",
+   "boosterfun"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Cat Warrior // Legendary Planeswalker — Ajani",
+  "types": [
+   "cat"
+  ],
+  "image_small": "https://cards.scryfall.io/small/back/f/8/f897d650-f1a2-4366-a025-f12c10310d96.jpg?1783911158",
+  "image_normal": "https://cards.scryfall.io/normal/back/f/8/f897d650-f1a2-4366-a025-f12c10310d96.jpg?1783911158",
+  "image_large": "https://cards.scryfall.io/large/back/f/8/f897d650-f1a2-4366-a025-f12c10310d96.jpg?1783911158",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/back/f/8/f897d650-f1a2-4366-a025-f12c10310d96.jpg?1783911158",
+  "local_art_crop": "cards/art_crop/fc5b0b67-f458-49b2-9dea-812183228031.jpg",
+  "local_normal": "cards/normal/fc5b0b67-f458-49b2-9dea-812183228031.jpg",
+  "local_large": "cards/large/fc5b0b67-f458-49b2-9dea-812183228031.jpg",
+  "art": {
+   "brightness": 0.57,
+   "contrast": 0.1624,
+   "saturation": 0.2728,
+   "warmth": 0.6643,
+   "variety": 0.617,
+   "detail": 0.0393,
+   "dark_ratio": 0.0176,
+   "bright_ratio": 0.0617
+  }
+ },
+ {
+  "cmdr_en": "Dragonhawk, Fate's Tempest",
+  "cmdr_zh": "",
+  "cmdr_rank": 949,
+  "cmdr_colors": "R",
+  "form_hint": "可爱小兽",
+  "art_id": "77039fe6-1675-4906-ad6d-8d4cdf10caf5",
+  "face": 0,
+  "face_name": "Dragonhawk, Fate's Tempest",
+  "artist": "Antonio José Manzanedo",
+  "set": "blb",
+  "set_name": "Bloomburrow",
+  "collector_number": "291",
+  "released_at": "2024-08-02",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [
+   "boosterfun"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Bird Dragon",
+  "types": [
+   "bird"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/d/e/de4ef78d-ba5e-415e-9684-816464c5611a.jpg?1783910771",
+  "image_normal": "https://cards.scryfall.io/normal/front/d/e/de4ef78d-ba5e-415e-9684-816464c5611a.jpg?1783910771",
+  "image_large": "https://cards.scryfall.io/large/front/d/e/de4ef78d-ba5e-415e-9684-816464c5611a.jpg?1783910771",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/d/e/de4ef78d-ba5e-415e-9684-816464c5611a.jpg?1783910771",
+  "local_art_crop": "cards/art_crop/77039fe6-1675-4906-ad6d-8d4cdf10caf5.jpg",
+  "local_normal": "cards/normal/77039fe6-1675-4906-ad6d-8d4cdf10caf5.jpg",
+  "local_large": "cards/large/77039fe6-1675-4906-ad6d-8d4cdf10caf5.jpg",
+  "art": {
+   "brightness": 0.5055,
+   "contrast": 0.2154,
+   "saturation": 0.3532,
+   "warmth": 0.9064,
+   "variety": 0.2482,
+   "detail": 0.0462,
+   "dark_ratio": 0.0862,
+   "bright_ratio": 0.037
+  }
+ },
+ {
+  "cmdr_en": "Dragonhawk, Fate's Tempest",
+  "cmdr_zh": "",
+  "cmdr_rank": 949,
+  "cmdr_colors": "R",
+  "form_hint": "可爱小兽",
+  "art_id": "d2a11f8b-5b9c-4a68-9acd-04add6106659",
+  "face": 0,
+  "face_name": "Dragonhawk, Fate's Tempest",
+  "artist": "Victor Adame Minguez",
+  "set": "plst",
+  "set_name": "The List",
+  "collector_number": "BLB-132",
+  "released_at": "2026-11-09",
+  "border_color": "black",
+  "frame_effects": [
+   "legendary"
+  ],
+  "promo": false,
+  "promo_types": [],
+  "full_art": false,
+  "type_line": "Legendary Creature — Bird Dragon",
+  "types": [
+   "bird"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/2/7/27334b29-83c2-4414-9dcd-b0c7127ebada.jpg?1787677111",
+  "image_normal": "https://cards.scryfall.io/normal/front/2/7/27334b29-83c2-4414-9dcd-b0c7127ebada.jpg?1787677111",
+  "image_large": "https://cards.scryfall.io/large/front/2/7/27334b29-83c2-4414-9dcd-b0c7127ebada.jpg?1787677111",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/2/7/27334b29-83c2-4414-9dcd-b0c7127ebada.jpg?1787677111",
+  "local_art_crop": "cards/art_crop/d2a11f8b-5b9c-4a68-9acd-04add6106659.jpg",
+  "local_normal": "cards/normal/d2a11f8b-5b9c-4a68-9acd-04add6106659.jpg",
+  "local_large": "cards/large/d2a11f8b-5b9c-4a68-9acd-04add6106659.jpg",
+  "art": {
+   "brightness": 0.2442,
+   "contrast": 0.116,
+   "saturation": 0.2519,
+   "warmth": 0.165,
+   "variety": 0.5698,
+   "detail": 0.0214,
+   "dark_ratio": 0.4332,
+   "bright_ratio": 0.0036
+  }
+ },
+ {
+  "cmdr_en": "Liberator, Urza's Battlethopter",
+  "cmdr_zh": "",
+  "cmdr_rank": 950,
+  "cmdr_colors": "",
+  "form_hint": "机械构装",
+  "art_id": "52c248bb-4db4-43f0-acbf-ce8898dc9219",
+  "face": 0,
+  "face_name": "Liberator, Urza's Battlethopter",
+  "artist": "Ryan Roadkill",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "collector_number": "2286",
+  "released_at": "2025-10-13",
+  "border_color": "borderless",
+  "frame_effects": [
+   "inverted",
+   "legendary"
+  ],
+  "promo": false,
+  "promo_types": [],
+  "full_art": false,
+  "type_line": "Legendary Artifact Creature — Thopter",
+  "types": [
+   "thopter"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/a/6/a636d2ae-f823-47c5-9ef6-c80d8b14f87a.jpg?1783905159",
+  "image_normal": "https://cards.scryfall.io/normal/front/a/6/a636d2ae-f823-47c5-9ef6-c80d8b14f87a.jpg?1783905159",
+  "image_large": "https://cards.scryfall.io/large/front/a/6/a636d2ae-f823-47c5-9ef6-c80d8b14f87a.jpg?1783905159",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/a/6/a636d2ae-f823-47c5-9ef6-c80d8b14f87a.jpg?1783905159",
+  "local_art_crop": "cards/art_crop/52c248bb-4db4-43f0-acbf-ce8898dc9219.jpg",
+  "local_normal": "cards/normal/52c248bb-4db4-43f0-acbf-ce8898dc9219.jpg",
+  "local_large": "cards/large/52c248bb-4db4-43f0-acbf-ce8898dc9219.jpg",
+  "art": {
+   "brightness": 0.4178,
+   "contrast": 0.2566,
+   "saturation": 0.4599,
+   "warmth": 0.7396,
+   "variety": 0.7062,
+   "detail": 0.0844,
+   "dark_ratio": 0.2134,
+   "bright_ratio": 0.0902
+  }
+ },
+ {
+  "cmdr_en": "Liberator, Urza's Battlethopter",
+  "cmdr_zh": "",
+  "cmdr_rank": 950,
+  "cmdr_colors": "",
+  "form_hint": "机械构装",
+  "art_id": "8842738e-8a47-40fe-9d0c-8e8321e6ef8a",
+  "face": 0,
+  "face_name": "Liberator, Urza's Battlethopter",
+  "artist": "Ekaterina Burmak",
+  "set": "bro",
+  "set_name": "The Brothers' War",
+  "collector_number": "364",
+  "released_at": "2022-11-18",
+  "border_color": "black",
+  "frame_effects": [
+   "extendedart",
+   "legendary"
+  ],
+  "promo": false,
+  "promo_types": [
+   "boosterfun"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Artifact Creature — Thopter",
+  "types": [
+   "thopter"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/0/4/04acd5af-bd55-4c16-9b6d-10822d564c14.jpg?1783919963",
+  "image_normal": "https://cards.scryfall.io/normal/front/0/4/04acd5af-bd55-4c16-9b6d-10822d564c14.jpg?1783919963",
+  "image_large": "https://cards.scryfall.io/large/front/0/4/04acd5af-bd55-4c16-9b6d-10822d564c14.jpg?1783919963",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/0/4/04acd5af-bd55-4c16-9b6d-10822d564c14.jpg?1783919963",
+  "local_art_crop": "cards/art_crop/8842738e-8a47-40fe-9d0c-8e8321e6ef8a.jpg",
+  "local_normal": "cards/normal/8842738e-8a47-40fe-9d0c-8e8321e6ef8a.jpg",
+  "local_large": "cards/large/8842738e-8a47-40fe-9d0c-8e8321e6ef8a.jpg",
+  "art": {
+   "brightness": 0.4072,
+   "contrast": 0.1631,
+   "saturation": 0.5638,
+   "warmth": 0.9094,
+   "variety": 0.4313,
+   "detail": 0.0407,
+   "dark_ratio": 0.1047,
+   "bright_ratio": 0.0209
+  }
+ },
+ {
+  "cmdr_en": "Zirda, the Dawnwaker",
+  "cmdr_zh": "熠晓灵狐泽尔达",
+  "cmdr_rank": 952,
+  "cmdr_colors": "RW",
+  "form_hint": "可爱小兽",
+  "art_id": "f32a9b24-c5c0-4f1b-ba94-7e3fe0e4afcf",
+  "face": 0,
+  "face_name": "Zirda, the Dawnwaker",
+  "artist": "Justine Mara Andersen",
+  "set": "mul",
+  "set_name": "Multiverse Legends",
+  "collector_number": "195z",
+  "released_at": "2023-04-21",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "showcase",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [
+   "serialized",
+   "doublerainbow"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Elemental Fox",
+  "types": [
+   "fox"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/5/a/5a8df264-e89e-43a6-a4a1-9cf4f038172a.jpg?1783916776",
+  "image_normal": "https://cards.scryfall.io/normal/front/5/a/5a8df264-e89e-43a6-a4a1-9cf4f038172a.jpg?1783916776",
+  "image_large": "https://cards.scryfall.io/large/front/5/a/5a8df264-e89e-43a6-a4a1-9cf4f038172a.jpg?1783916776",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/5/a/5a8df264-e89e-43a6-a4a1-9cf4f038172a.jpg?1783916776",
+  "local_art_crop": "cards/art_crop/f32a9b24-c5c0-4f1b-ba94-7e3fe0e4afcf.jpg",
+  "local_normal": "cards/normal/f32a9b24-c5c0-4f1b-ba94-7e3fe0e4afcf.jpg",
+  "local_large": "cards/large/f32a9b24-c5c0-4f1b-ba94-7e3fe0e4afcf.jpg",
+  "art": {
+   "brightness": 0.4504,
+   "contrast": 0.1952,
+   "saturation": 0.4799,
+   "warmth": 0.9104,
+   "variety": 0.5128,
+   "detail": 0.091,
+   "dark_ratio": 0.105,
+   "bright_ratio": 0.0472
+  }
+ },
+ {
+  "cmdr_en": "Zirda, the Dawnwaker",
+  "cmdr_zh": "熠晓灵狐泽尔达",
+  "cmdr_rank": 952,
+  "cmdr_colors": "RW",
+  "form_hint": "可爱小兽",
+  "art_id": "0261c04a-8c21-4b5c-a33d-7b158da20cc9",
+  "face": 0,
+  "face_name": "Zirda, the Dawnwaker",
+  "artist": "Jesper Ejsing",
+  "set": "iko",
+  "set_name": "Ikoria: Lair of Behemoths",
+  "collector_number": "360",
+  "released_at": "2020-04-24",
+  "border_color": "black",
+  "frame_effects": [
+   "companion",
+   "legendary",
+   "extendedart"
+  ],
+  "promo": false,
+  "promo_types": [
+   "boosterfun"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Elemental Fox",
+  "types": [
+   "fox"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/f/f/ff7301bd-05db-436b-8a49-5840c4cb9995.jpg?1783930959",
+  "image_normal": "https://cards.scryfall.io/normal/front/f/f/ff7301bd-05db-436b-8a49-5840c4cb9995.jpg?1783930959",
+  "image_large": "https://cards.scryfall.io/large/front/f/f/ff7301bd-05db-436b-8a49-5840c4cb9995.jpg?1783930959",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/f/f/ff7301bd-05db-436b-8a49-5840c4cb9995.jpg?1783930959",
+  "local_art_crop": "cards/art_crop/0261c04a-8c21-4b5c-a33d-7b158da20cc9.jpg",
+  "local_normal": "cards/normal/0261c04a-8c21-4b5c-a33d-7b158da20cc9.jpg",
+  "local_large": "cards/large/0261c04a-8c21-4b5c-a33d-7b158da20cc9.jpg",
+  "art": {
+   "brightness": 0.4671,
+   "contrast": 0.1788,
+   "saturation": 0.4572,
+   "warmth": 0.8733,
+   "variety": 0.4628,
+   "detail": 0.0355,
+   "dark_ratio": 0.0426,
+   "bright_ratio": 0.0374
+  }
+ },
+ {
+  "cmdr_en": "Yorion, Sky Nomad",
+  "cmdr_zh": "",
+  "cmdr_rank": 960,
+  "cmdr_colors": "UW",
+  "form_hint": "可爱小兽",
+  "art_id": "17fe8cbf-09b2-44dc-84e8-c5cd01de06a8",
+  "face": 0,
+  "face_name": "Yorion, Sky Nomad",
+  "artist": "Justine Mara Andersen",
+  "set": "mul",
+  "set_name": "Multiverse Legends",
+  "collector_number": "194z",
+  "released_at": "2023-04-21",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "showcase",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [
+   "serialized",
+   "doublerainbow"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Bird Serpent",
+  "types": [
+   "bird"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/d/7/d754022f-9921-4701-9b41-d40f265cb311.jpg?1783916775",
+  "image_normal": "https://cards.scryfall.io/normal/front/d/7/d754022f-9921-4701-9b41-d40f265cb311.jpg?1783916775",
+  "image_large": "https://cards.scryfall.io/large/front/d/7/d754022f-9921-4701-9b41-d40f265cb311.jpg?1783916775",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/d/7/d754022f-9921-4701-9b41-d40f265cb311.jpg?1783916775",
+  "local_art_crop": "cards/art_crop/17fe8cbf-09b2-44dc-84e8-c5cd01de06a8.jpg",
+  "local_normal": "cards/normal/17fe8cbf-09b2-44dc-84e8-c5cd01de06a8.jpg",
+  "local_large": "cards/large/17fe8cbf-09b2-44dc-84e8-c5cd01de06a8.jpg",
+  "art": {
+   "brightness": 0.5315,
+   "contrast": 0.2103,
+   "saturation": 0.3017,
+   "warmth": 0.3481,
+   "variety": 0.6498,
+   "detail": 0.1063,
+   "dark_ratio": 0.0677,
+   "bright_ratio": 0.1101
+  }
+ },
+ {
+  "cmdr_en": "Yorion, Sky Nomad",
+  "cmdr_zh": "",
+  "cmdr_rank": 960,
+  "cmdr_colors": "UW",
+  "form_hint": "可爱小兽",
+  "art_id": "b91fb435-3541-44fa-99a8-eabf59376ee5",
+  "face": 0,
+  "face_name": "Yorion, Sky Nomad",
+  "artist": "Steven Belledin",
+  "set": "iko",
+  "set_name": "Ikoria: Lair of Behemoths",
+  "collector_number": "359",
+  "released_at": "2020-04-24",
+  "border_color": "black",
+  "frame_effects": [
+   "companion",
+   "legendary",
+   "extendedart"
+  ],
+  "promo": false,
+  "promo_types": [
+   "boosterfun"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Bird Serpent",
+  "types": [
+   "bird"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/7/7/77b05368-1661-42de-9319-bbe987d27327.jpg?1783930961",
+  "image_normal": "https://cards.scryfall.io/normal/front/7/7/77b05368-1661-42de-9319-bbe987d27327.jpg?1783930961",
+  "image_large": "https://cards.scryfall.io/large/front/7/7/77b05368-1661-42de-9319-bbe987d27327.jpg?1783930961",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/7/7/77b05368-1661-42de-9319-bbe987d27327.jpg?1783930961",
+  "local_art_crop": "cards/art_crop/b91fb435-3541-44fa-99a8-eabf59376ee5.jpg",
+  "local_normal": "cards/normal/b91fb435-3541-44fa-99a8-eabf59376ee5.jpg",
+  "local_large": "cards/large/b91fb435-3541-44fa-99a8-eabf59376ee5.jpg",
+  "art": {
+   "brightness": 0.6529,
+   "contrast": 0.1348,
+   "saturation": 0.3593,
+   "warmth": -0.9359,
+   "variety": 0.1959,
+   "detail": 0.0284,
+   "dark_ratio": 0.0013,
+   "bright_ratio": 0.1529
+  }
+ },
+ {
+  "cmdr_en": "Alibou, Ancient Witness",
+  "cmdr_zh": "",
+  "cmdr_rank": 984,
+  "cmdr_colors": "RW",
+  "form_hint": "机械构装",
+  "art_id": "78ec39b0-e641-42b7-bfc8-082029dbe777",
+  "face": 0,
+  "face_name": "Alibou, Ancient Witness",
+  "artist": "Michael Turner & Mark Roslan",
+  "set": "mar",
+  "set_name": "Marvel Universe",
+  "collector_number": "39",
+  "released_at": "2025-09-26",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [
+   "sourcematerial",
+   "universesbeyond",
+   "boosterfun"
+  ],
+  "full_art": true,
+  "type_line": "Legendary Artifact Creature — Golem",
+  "types": [
+   "golem"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/5/a/5a2f6ccf-af93-4922-973d-6abfeb4d7cfc.jpg?1783905379",
+  "image_normal": "https://cards.scryfall.io/normal/front/5/a/5a2f6ccf-af93-4922-973d-6abfeb4d7cfc.jpg?1783905379",
+  "image_large": "https://cards.scryfall.io/large/front/5/a/5a2f6ccf-af93-4922-973d-6abfeb4d7cfc.jpg?1783905379",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/5/a/5a2f6ccf-af93-4922-973d-6abfeb4d7cfc.jpg?1783905379",
+  "local_art_crop": "cards/art_crop/78ec39b0-e641-42b7-bfc8-082029dbe777.jpg",
+  "local_normal": "cards/normal/78ec39b0-e641-42b7-bfc8-082029dbe777.jpg",
+  "local_large": "cards/large/78ec39b0-e641-42b7-bfc8-082029dbe777.jpg",
+  "art": {
+   "brightness": 0.3206,
+   "contrast": 0.2656,
+   "saturation": 0.4687,
+   "warmth": 0.9007,
+   "variety": 0.4792,
+   "detail": 0.0836,
+   "dark_ratio": 0.4631,
+   "bright_ratio": 0.0901
+  }
+ },
+ {
+  "cmdr_en": "Alibou, Ancient Witness",
+  "cmdr_zh": "",
+  "cmdr_rank": 984,
+  "cmdr_colors": "RW",
+  "form_hint": "机械构装",
+  "art_id": "c8096d5e-187a-4498-8a2f-c22531185805",
+  "face": 0,
+  "face_name": "Alibou, Ancient Witness",
+  "artist": "Matt Stewart",
+  "set": "c21",
+  "set_name": "Commander 2021",
+  "collector_number": "334",
+  "released_at": "2021-04-23",
+  "border_color": "black",
+  "frame_effects": [
+   "legendary",
+   "extendedart"
+  ],
+  "promo": false,
+  "promo_types": [
+   "boosterfun"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Artifact Creature — Golem",
+  "types": [
+   "golem"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/0/c/0c9257ba-f729-4a5a-bf04-f27bbb71a12d.jpg?1783927476",
+  "image_normal": "https://cards.scryfall.io/normal/front/0/c/0c9257ba-f729-4a5a-bf04-f27bbb71a12d.jpg?1783927476",
+  "image_large": "https://cards.scryfall.io/large/front/0/c/0c9257ba-f729-4a5a-bf04-f27bbb71a12d.jpg?1783927476",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/0/c/0c9257ba-f729-4a5a-bf04-f27bbb71a12d.jpg?1783927476",
+  "local_art_crop": "cards/art_crop/c8096d5e-187a-4498-8a2f-c22531185805.jpg",
+  "local_normal": "cards/normal/c8096d5e-187a-4498-8a2f-c22531185805.jpg",
+  "local_large": "cards/large/c8096d5e-187a-4498-8a2f-c22531185805.jpg",
+  "art": {
+   "brightness": 0.2362,
+   "contrast": 0.1291,
+   "saturation": 0.4888,
+   "warmth": 0.7068,
+   "variety": 0.5612,
+   "detail": 0.0332,
+   "dark_ratio": 0.4082,
+   "bright_ratio": 0.001
+  }
+ },
+ {
+  "cmdr_en": "Soul of Windgrace",
+  "cmdr_zh": "",
+  "cmdr_rank": 1006,
+  "cmdr_colors": "BGR",
+  "form_hint": "可爱小兽",
+  "art_id": "56be0ea6-2a80-4453-8c0f-9cd2a2c9082e",
+  "face": 0,
+  "face_name": "Soul of Windgrace",
+  "artist": "Liiga Smilshkalne",
+  "set": "eoc",
+  "set_name": "Edge of Eternities Commander",
+  "collector_number": "126",
+  "released_at": "2025-08-01",
+  "border_color": "black",
+  "frame_effects": [
+   "legendary"
+  ],
+  "promo": false,
+  "promo_types": [],
+  "full_art": false,
+  "type_line": "Legendary Creature — Cat Avatar",
+  "types": [
+   "cat"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/5/a/5a80f7e1-1d79-4302-a603-73eb060b97a6.jpg?1783906025",
+  "image_normal": "https://cards.scryfall.io/normal/front/5/a/5a80f7e1-1d79-4302-a603-73eb060b97a6.jpg?1783906025",
+  "image_large": "https://cards.scryfall.io/large/front/5/a/5a80f7e1-1d79-4302-a603-73eb060b97a6.jpg?1783906025",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/5/a/5a80f7e1-1d79-4302-a603-73eb060b97a6.jpg?1783906025",
+  "local_art_crop": "cards/art_crop/56be0ea6-2a80-4453-8c0f-9cd2a2c9082e.jpg",
+  "local_normal": "cards/normal/56be0ea6-2a80-4453-8c0f-9cd2a2c9082e.jpg",
+  "local_large": "cards/large/56be0ea6-2a80-4453-8c0f-9cd2a2c9082e.jpg",
+  "art": {
+   "brightness": 0.5372,
+   "contrast": 0.1916,
+   "saturation": 0.5949,
+   "warmth": -0.7322,
+   "variety": 0.4458,
+   "detail": 0.0162,
+   "dark_ratio": 0.055,
+   "bright_ratio": 0.0627
+  }
+ },
+ {
+  "cmdr_en": "Soul of Windgrace",
+  "cmdr_zh": "",
+  "cmdr_rank": 1006,
+  "cmdr_colors": "BGR",
+  "form_hint": "可爱小兽",
+  "art_id": "3164f8e0-1322-407d-8ed5-5484f4747d4f",
+  "face": 0,
+  "face_name": "Soul of Windgrace",
+  "artist": "Ivan Shavrin",
+  "set": "dmu",
+  "set_name": "Dominaria United",
+  "collector_number": "360",
+  "released_at": "2022-09-09",
+  "border_color": "black",
+  "frame_effects": [
+   "showcase",
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [
+   "textured",
+   "boosterfun"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Cat Avatar",
+  "types": [
+   "cat"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/4/a/4a9ce534-4bd4-4ba1-b875-7f74dd5f712c.jpg?1783921209",
+  "image_normal": "https://cards.scryfall.io/normal/front/4/a/4a9ce534-4bd4-4ba1-b875-7f74dd5f712c.jpg?1783921209",
+  "image_large": "https://cards.scryfall.io/large/front/4/a/4a9ce534-4bd4-4ba1-b875-7f74dd5f712c.jpg?1783921209",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/4/a/4a9ce534-4bd4-4ba1-b875-7f74dd5f712c.jpg?1783921209",
+  "local_art_crop": "cards/art_crop/3164f8e0-1322-407d-8ed5-5484f4747d4f.jpg",
+  "local_normal": "cards/normal/3164f8e0-1322-407d-8ed5-5484f4747d4f.jpg",
+  "local_large": "cards/large/3164f8e0-1322-407d-8ed5-5484f4747d4f.jpg",
+  "art": {
+   "brightness": 0.3178,
+   "contrast": 0.2188,
+   "saturation": 0.6101,
+   "warmth": -0.2921,
+   "variety": 0.778,
+   "detail": 0.0772,
+   "dark_ratio": 0.4234,
+   "bright_ratio": 0.0048
+  }
+ },
+ {
+  "cmdr_en": "The Goose Mother",
+  "cmdr_zh": "",
+  "cmdr_rank": 1012,
+  "cmdr_colors": "GU",
+  "form_hint": "可爱小兽",
+  "art_id": "b112ca57-73cd-4bf7-a789-cf94ca3f56cd",
+  "face": 0,
+  "face_name": "The Goose Mother",
+  "artist": "Jesper Ejsing",
+  "set": "woe",
+  "set_name": "Wilds of Eldraine",
+  "collector_number": "362",
+  "released_at": "2023-09-08",
+  "border_color": "black",
+  "frame_effects": [
+   "legendary",
+   "extendedart"
+  ],
+  "promo": false,
+  "promo_types": [
+   "boosterfun"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Bird Hydra",
+  "types": [
+   "bird"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/1/0/1024d5f1-69f4-4a09-ba83-6fcc249217fa.jpg?1783915027",
+  "image_normal": "https://cards.scryfall.io/normal/front/1/0/1024d5f1-69f4-4a09-ba83-6fcc249217fa.jpg?1783915027",
+  "image_large": "https://cards.scryfall.io/large/front/1/0/1024d5f1-69f4-4a09-ba83-6fcc249217fa.jpg?1783915027",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/1/0/1024d5f1-69f4-4a09-ba83-6fcc249217fa.jpg?1783915027",
+  "local_art_crop": "cards/art_crop/b112ca57-73cd-4bf7-a789-cf94ca3f56cd.jpg",
+  "local_normal": "cards/normal/b112ca57-73cd-4bf7-a789-cf94ca3f56cd.jpg",
+  "local_large": "cards/large/b112ca57-73cd-4bf7-a789-cf94ca3f56cd.jpg",
+  "art": {
+   "brightness": 0.556,
+   "contrast": 0.1911,
+   "saturation": 0.2096,
+   "warmth": -0.1045,
+   "variety": 0.5857,
+   "detail": 0.0434,
+   "dark_ratio": 0.014,
+   "bright_ratio": 0.1111
+  }
+ },
+ {
+  "cmdr_en": "Toski, Bearer of Secrets",
+  "cmdr_zh": "密讯信使托斯奇",
+  "cmdr_rank": 1016,
+  "cmdr_colors": "G",
+  "form_hint": "可爱小兽",
+  "art_id": "75b6210f-1ba6-4648-9186-26ccfd5a5a14",
+  "face": 0,
+  "face_name": "Toski, Bearer of Secrets",
+  "artist": "Caleb Meurer",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "collector_number": "1930",
+  "released_at": "2025-03-24",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [
+   "universesbeyond"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Squirrel",
+  "types": [
+   "squirrel"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/6/3/63e08eb1-de6e-4f31-a523-86b1e013b1ca.jpg?1783907464",
+  "image_normal": "https://cards.scryfall.io/normal/front/6/3/63e08eb1-de6e-4f31-a523-86b1e013b1ca.jpg?1783907464",
+  "image_large": "https://cards.scryfall.io/large/front/6/3/63e08eb1-de6e-4f31-a523-86b1e013b1ca.jpg?1783907464",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/6/3/63e08eb1-de6e-4f31-a523-86b1e013b1ca.jpg?1783907464",
+  "local_art_crop": "cards/art_crop/75b6210f-1ba6-4648-9186-26ccfd5a5a14.jpg",
+  "local_normal": "cards/normal/75b6210f-1ba6-4648-9186-26ccfd5a5a14.jpg",
+  "local_large": "cards/large/75b6210f-1ba6-4648-9186-26ccfd5a5a14.jpg",
+  "art": {
+   "brightness": 0.5504,
+   "contrast": 0.1978,
+   "saturation": 0.5003,
+   "warmth": -0.6995,
+   "variety": 0.5299,
+   "detail": 0.0507,
+   "dark_ratio": 0.0476,
+   "bright_ratio": 0.1148
+  }
+ },
+ {
+  "cmdr_en": "Toski, Bearer of Secrets",
+  "cmdr_zh": "密讯信使托斯奇",
+  "cmdr_rank": 1016,
+  "cmdr_colors": "G",
+  "form_hint": "可爱小兽",
+  "art_id": "3ee75cca-9bc5-4100-abcc-9c1cafa066e7",
+  "face": 0,
+  "face_name": "Toski, Bearer of Secrets",
+  "artist": "Lucas Graciano",
+  "set": "spg",
+  "set_name": "Special Guests",
+  "collector_number": "60",
+  "released_at": "2024-08-02",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [
+   "boosterfun"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Squirrel",
+  "types": [
+   "squirrel"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/0/1/0153d1ad-c8ee-42ff-a059-b763c2cfb7be.jpg?1783909912",
+  "image_normal": "https://cards.scryfall.io/normal/front/0/1/0153d1ad-c8ee-42ff-a059-b763c2cfb7be.jpg?1783909912",
+  "image_large": "https://cards.scryfall.io/large/front/0/1/0153d1ad-c8ee-42ff-a059-b763c2cfb7be.jpg?1783909912",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/0/1/0153d1ad-c8ee-42ff-a059-b763c2cfb7be.jpg?1783909912",
+  "local_art_crop": "cards/art_crop/3ee75cca-9bc5-4100-abcc-9c1cafa066e7.jpg",
+  "local_normal": "cards/normal/3ee75cca-9bc5-4100-abcc-9c1cafa066e7.jpg",
+  "local_large": "cards/large/3ee75cca-9bc5-4100-abcc-9c1cafa066e7.jpg",
+  "art": {
+   "brightness": 0.4373,
+   "contrast": 0.2027,
+   "saturation": 0.2368,
+   "warmth": 0.311,
+   "variety": 0.6712,
+   "detail": 0.0357,
+   "dark_ratio": 0.1144,
+   "bright_ratio": 0.0812
+  }
+ },
+ {
+  "cmdr_en": "Traxos, Scourge of Kroog",
+  "cmdr_zh": "萼城劫运刹索斯",
+  "cmdr_rank": 1044,
+  "cmdr_colors": "",
+  "form_hint": "机械构装",
+  "art_id": "b3bfb762-e034-4759-ae37-a55536b32059",
+  "face": 0,
+  "face_name": "Traxos, Scourge of Kroog",
+  "artist": "Yoshitaka Amano",
+  "set": "fca",
+  "set_name": "Final Fantasy: Through the Ages",
+  "collector_number": "20",
+  "released_at": "2025-06-13",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [
+   "ffiv",
+   "sourcematerial",
+   "universesbeyond",
+   "boosterfun"
+  ],
+  "full_art": true,
+  "type_line": "Legendary Artifact Creature — Dragon Construct",
+  "types": [
+   "construct"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/3/f/3f0cbff1-4b4e-4d60-b114-20bd3e977b25.jpg?1783906388",
+  "image_normal": "https://cards.scryfall.io/normal/front/3/f/3f0cbff1-4b4e-4d60-b114-20bd3e977b25.jpg?1783906388",
+  "image_large": "https://cards.scryfall.io/large/front/3/f/3f0cbff1-4b4e-4d60-b114-20bd3e977b25.jpg?1783906388",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/3/f/3f0cbff1-4b4e-4d60-b114-20bd3e977b25.jpg?1783906388",
+  "local_art_crop": "cards/art_crop/b3bfb762-e034-4759-ae37-a55536b32059.jpg",
+  "local_normal": "cards/normal/b3bfb762-e034-4759-ae37-a55536b32059.jpg",
+  "local_large": "cards/large/b3bfb762-e034-4759-ae37-a55536b32059.jpg",
+  "art": {
+   "brightness": 0.5179,
+   "contrast": 0.3279,
+   "saturation": 0.2447,
+   "warmth": 0.4473,
+   "variety": 0.813,
+   "detail": 0.1106,
+   "dark_ratio": 0.2218,
+   "bright_ratio": 0.2842
+  }
+ },
+ {
+  "cmdr_en": "Traxos, Scourge of Kroog",
+  "cmdr_zh": "萼城劫运刹索斯",
+  "cmdr_rank": 1044,
+  "cmdr_colors": "",
+  "form_hint": "机械构装",
+  "art_id": "917f647e-b444-408d-9388-adf08a590f9d",
+  "face": 0,
+  "face_name": "Traxos, Scourge of Kroog",
+  "artist": "Aldo Domínguez",
+  "set": "brc",
+  "set_name": "The Brothers' War Commander",
+  "collector_number": "170",
+  "released_at": "2022-11-18",
+  "border_color": "black",
+  "frame_effects": [],
+  "promo": false,
+  "promo_types": [],
+  "full_art": false,
+  "type_line": "Legendary Artifact Creature — Dragon Construct",
+  "types": [
+   "construct"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/5/1/513fd010-db79-4aa4-8186-776fc3e27750.jpg?1783919655",
+  "image_normal": "https://cards.scryfall.io/normal/front/5/1/513fd010-db79-4aa4-8186-776fc3e27750.jpg?1783919655",
+  "image_large": "https://cards.scryfall.io/large/front/5/1/513fd010-db79-4aa4-8186-776fc3e27750.jpg?1783919655",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/5/1/513fd010-db79-4aa4-8186-776fc3e27750.jpg?1783919655",
+  "local_art_crop": "cards/art_crop/917f647e-b444-408d-9388-adf08a590f9d.jpg",
+  "local_normal": "cards/normal/917f647e-b444-408d-9388-adf08a590f9d.jpg",
+  "local_large": "cards/large/917f647e-b444-408d-9388-adf08a590f9d.jpg",
+  "art": {
+   "brightness": 0.577,
+   "contrast": 0.2273,
+   "saturation": 0.1825,
+   "warmth": -0.0877,
+   "variety": 0.7659,
+   "detail": 0.048,
+   "dark_ratio": 0.0669,
+   "bright_ratio": 0.1957
+  }
+ },
+ {
+  "cmdr_en": "Gorma, the Gullet",
+  "cmdr_zh": "",
+  "cmdr_rank": 1087,
+  "cmdr_colors": "BG",
+  "form_hint": "可爱小兽",
+  "art_id": "5735d398-f72e-40b2-9d22-1f906c4a74b2",
+  "face": 0,
+  "face_name": "Gorma, the Gullet",
+  "artist": "Brian Valeza",
+  "set": "soc",
+  "set_name": "Secrets of Strixhaven Commander",
+  "collector_number": "3",
+  "released_at": "2026-04-24",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [],
+  "full_art": false,
+  "type_line": "Legendary Creature — Pest Frog",
+  "types": [
+   "frog"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/8/6/86f97dd8-8647-4938-aee0-690bb715f88b.jpg?1783903868",
+  "image_normal": "https://cards.scryfall.io/normal/front/8/6/86f97dd8-8647-4938-aee0-690bb715f88b.jpg?1783903868",
+  "image_large": "https://cards.scryfall.io/large/front/8/6/86f97dd8-8647-4938-aee0-690bb715f88b.jpg?1783903868",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/8/6/86f97dd8-8647-4938-aee0-690bb715f88b.jpg?1783903868",
+  "local_art_crop": "cards/art_crop/5735d398-f72e-40b2-9d22-1f906c4a74b2.jpg",
+  "local_normal": "cards/normal/5735d398-f72e-40b2-9d22-1f906c4a74b2.jpg",
+  "local_large": "cards/large/5735d398-f72e-40b2-9d22-1f906c4a74b2.jpg",
+  "art": {
+   "brightness": 0.2437,
+   "contrast": 0.1972,
+   "saturation": 0.3726,
+   "warmth": 0.3741,
+   "variety": 0.8662,
+   "detail": 0.0472,
+   "dark_ratio": 0.5583,
+   "bright_ratio": 0.0273
+  }
+ },
+ {
+  "cmdr_en": "Scriv, the Obligator",
+  "cmdr_zh": "",
+  "cmdr_rank": 1095,
+  "cmdr_colors": "BW",
+  "form_hint": "可爱小兽",
+  "art_id": "1164ada0-758a-4fdd-8fd0-fbc5d86a950b",
+  "face": 0,
+  "face_name": "Scriv, the Obligator",
+  "artist": "Brian Valeza",
+  "set": "soc",
+  "set_name": "Secrets of Strixhaven Commander",
+  "collector_number": "9",
+  "released_at": "2026-04-24",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [],
+  "full_art": false,
+  "type_line": "Legendary Creature — Inkling Bird",
+  "types": [
+   "bird"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/c/1/c133a860-7b8d-485d-b9a2-bf8ae3a68f47.jpg?1783903867",
+  "image_normal": "https://cards.scryfall.io/normal/front/c/1/c133a860-7b8d-485d-b9a2-bf8ae3a68f47.jpg?1783903867",
+  "image_large": "https://cards.scryfall.io/large/front/c/1/c133a860-7b8d-485d-b9a2-bf8ae3a68f47.jpg?1783903867",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/c/1/c133a860-7b8d-485d-b9a2-bf8ae3a68f47.jpg?1783903867",
+  "local_art_crop": "cards/art_crop/1164ada0-758a-4fdd-8fd0-fbc5d86a950b.jpg",
+  "local_normal": "cards/normal/1164ada0-758a-4fdd-8fd0-fbc5d86a950b.jpg",
+  "local_large": "cards/large/1164ada0-758a-4fdd-8fd0-fbc5d86a950b.jpg",
+  "art": {
+   "brightness": 0.4059,
+   "contrast": 0.2051,
+   "saturation": 0.2593,
+   "warmth": -0.2188,
+   "variety": 0.545,
+   "detail": 0.0472,
+   "dark_ratio": 0.1382,
+   "bright_ratio": 0.0587
+  }
+ },
+ {
+  "cmdr_en": "Wan Shi Tong, Librarian",
+  "cmdr_zh": "",
+  "cmdr_rank": 1160,
+  "cmdr_colors": "U",
+  "form_hint": "可爱小兽",
+  "art_id": "b6c70385-a00d-48cb-bd2a-2ca509f65cd6",
+  "face": 0,
+  "face_name": "Wan Shi Tong, Librarian",
+  "artist": "Andrea Piparo",
+  "set": "tla",
+  "set_name": "Avatar: The Last Airbender",
+  "collector_number": "320",
+  "released_at": "2025-11-21",
+  "border_color": "borderless",
+  "frame_effects": [
+   "inverted",
+   "legendary"
+  ],
+  "promo": false,
+  "promo_types": [
+   "universesbeyond",
+   "boosterfun"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Bird Spirit",
+  "types": [
+   "bird"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/d/4/d4bf05c4-a924-4006-835e-42f8468ba869.jpg?1783904892",
+  "image_normal": "https://cards.scryfall.io/normal/front/d/4/d4bf05c4-a924-4006-835e-42f8468ba869.jpg?1783904892",
+  "image_large": "https://cards.scryfall.io/large/front/d/4/d4bf05c4-a924-4006-835e-42f8468ba869.jpg?1783904892",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/d/4/d4bf05c4-a924-4006-835e-42f8468ba869.jpg?1783904892",
+  "local_art_crop": "cards/art_crop/b6c70385-a00d-48cb-bd2a-2ca509f65cd6.jpg",
+  "local_normal": "cards/normal/b6c70385-a00d-48cb-bd2a-2ca509f65cd6.jpg",
+  "local_large": "cards/large/b6c70385-a00d-48cb-bd2a-2ca509f65cd6.jpg",
+  "art": {
+   "brightness": 0.5375,
+   "contrast": 0.2581,
+   "saturation": 0.3254,
+   "warmth": 0.0172,
+   "variety": 0.5804,
+   "detail": 0.0581,
+   "dark_ratio": 0.1286,
+   "bright_ratio": 0.2402
+  }
+ },
+ {
+  "cmdr_en": "Wan Shi Tong, Librarian",
+  "cmdr_zh": "",
+  "cmdr_rank": 1160,
+  "cmdr_colors": "U",
+  "form_hint": "可爱小兽",
+  "art_id": "4607dca0-451c-4cfc-bdf0-b02e93e7aaa8",
+  "face": 0,
+  "face_name": "Wan Shi Tong, Librarian",
+  "artist": "Ryota Murayama",
+  "set": "tla",
+  "set_name": "Avatar: The Last Airbender",
+  "collector_number": "78",
+  "released_at": "2025-11-21",
+  "border_color": "black",
+  "frame_effects": [
+   "legendary"
+  ],
+  "promo": false,
+  "promo_types": [
+   "universesbeyond"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Creature — Bird Spirit",
+  "types": [
+   "bird"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/e/2/e20da6b5-1057-4a28-9e85-07de714e262f.jpg?1783904979",
+  "image_normal": "https://cards.scryfall.io/normal/front/e/2/e20da6b5-1057-4a28-9e85-07de714e262f.jpg?1783904979",
+  "image_large": "https://cards.scryfall.io/large/front/e/2/e20da6b5-1057-4a28-9e85-07de714e262f.jpg?1783904979",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/e/2/e20da6b5-1057-4a28-9e85-07de714e262f.jpg?1783904979",
+  "local_art_crop": "cards/art_crop/4607dca0-451c-4cfc-bdf0-b02e93e7aaa8.jpg",
+  "local_normal": "cards/normal/4607dca0-451c-4cfc-bdf0-b02e93e7aaa8.jpg",
+  "local_large": "cards/large/4607dca0-451c-4cfc-bdf0-b02e93e7aaa8.jpg",
+  "art": {
+   "brightness": 0.3339,
+   "contrast": 0.2453,
+   "saturation": 0.3462,
+   "warmth": -0.1825,
+   "variety": 0.7988,
+   "detail": 0.0311,
+   "dark_ratio": 0.387,
+   "bright_ratio": 0.0756
+  }
+ },
+ {
+  "cmdr_en": "Starscream, Power Hungry // Starscream, Seeker Leader",
+  "cmdr_zh": "",
+  "cmdr_rank": 1258,
+  "cmdr_colors": "B",
+  "form_hint": "机械构装",
+  "art_id": "d10b9ba7-9d34-43ca-ad11-6e8ec3a07de9",
+  "face": 0,
+  "face_name": "Starscream, Power Hungry",
+  "artist": "Volta Creation",
+  "set": "bot",
+  "set_name": "Transformers",
+  "collector_number": "20",
+  "released_at": "2022-11-18",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "shatteredglass",
+   "inverted",
+   "convertdfc"
+  ],
+  "promo": false,
+  "promo_types": [
+   "universesbeyond"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle",
+  "types": [
+   "robot",
+   "vehicle"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/9/0/90fa398b-f2f7-474f-a840-244238a67c31.jpg?1783919893",
+  "image_normal": "https://cards.scryfall.io/normal/front/9/0/90fa398b-f2f7-474f-a840-244238a67c31.jpg?1783919893",
+  "image_large": "https://cards.scryfall.io/large/front/9/0/90fa398b-f2f7-474f-a840-244238a67c31.jpg?1783919893",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/9/0/90fa398b-f2f7-474f-a840-244238a67c31.jpg?1783919893",
+  "local_art_crop": "cards/art_crop/d10b9ba7-9d34-43ca-ad11-6e8ec3a07de9.jpg",
+  "local_normal": "cards/normal/d10b9ba7-9d34-43ca-ad11-6e8ec3a07de9.jpg",
+  "local_large": "cards/large/d10b9ba7-9d34-43ca-ad11-6e8ec3a07de9.jpg",
+  "art": {
+   "brightness": 0.4376,
+   "contrast": 0.2222,
+   "saturation": 0.3076,
+   "warmth": 0.6865,
+   "variety": 0.659,
+   "detail": 0.0356,
+   "dark_ratio": 0.1358,
+   "bright_ratio": 0.0792
+  }
+ },
+ {
+  "cmdr_en": "Starscream, Power Hungry // Starscream, Seeker Leader",
+  "cmdr_zh": "",
+  "cmdr_rank": 1258,
+  "cmdr_colors": "B",
+  "form_hint": "机械构装",
+  "art_id": "8e76f625-4eed-491a-a151-a8d14fbf7984",
+  "face": 1,
+  "face_name": "Starscream, Seeker Leader",
+  "artist": "Volta Creation",
+  "set": "bot",
+  "set_name": "Transformers",
+  "collector_number": "20",
+  "released_at": "2022-11-18",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "shatteredglass",
+   "inverted",
+   "convertdfc"
+  ],
+  "promo": false,
+  "promo_types": [
+   "universesbeyond"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle",
+  "types": [
+   "robot",
+   "vehicle"
+  ],
+  "image_small": "https://cards.scryfall.io/small/back/9/0/90fa398b-f2f7-474f-a840-244238a67c31.jpg?1783919893",
+  "image_normal": "https://cards.scryfall.io/normal/back/9/0/90fa398b-f2f7-474f-a840-244238a67c31.jpg?1783919893",
+  "image_large": "https://cards.scryfall.io/large/back/9/0/90fa398b-f2f7-474f-a840-244238a67c31.jpg?1783919893",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/back/9/0/90fa398b-f2f7-474f-a840-244238a67c31.jpg?1783919893",
+  "local_art_crop": "cards/art_crop/8e76f625-4eed-491a-a151-a8d14fbf7984.jpg",
+  "local_normal": "cards/normal/8e76f625-4eed-491a-a151-a8d14fbf7984.jpg",
+  "local_large": "cards/large/8e76f625-4eed-491a-a151-a8d14fbf7984.jpg",
+  "art": {
+   "brightness": 0.3802,
+   "contrast": 0.1962,
+   "saturation": 0.2738,
+   "warmth": 0.005,
+   "variety": 0.7538,
+   "detail": 0.0323,
+   "dark_ratio": 0.2101,
+   "bright_ratio": 0.012
+  }
+ },
+ {
+  "cmdr_en": "The Reality Chip",
+  "cmdr_zh": "实界晶片",
+  "cmdr_rank": 1269,
+  "cmdr_colors": "U",
+  "form_hint": "机械构装",
+  "art_id": "667dd16e-ecd6-4301-8663-3c13a615e5b8",
+  "face": 0,
+  "face_name": "The Reality Chip",
+  "artist": "Campbell White",
+  "set": "neo",
+  "set_name": "Kamigawa: Neon Dynasty",
+  "collector_number": "449",
+  "released_at": "2022-02-18",
+  "border_color": "black",
+  "frame_effects": [
+   "legendary",
+   "extendedart"
+  ],
+  "promo": false,
+  "promo_types": [
+   "boosterfun"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Artifact Creature — Equipment Jellyfish",
+  "types": [
+   "jellyfish"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/9/7/9797bb82-24f6-4dd5-8f5d-b3ea45bb65b8.jpg?1783923747",
+  "image_normal": "https://cards.scryfall.io/normal/front/9/7/9797bb82-24f6-4dd5-8f5d-b3ea45bb65b8.jpg?1783923747",
+  "image_large": "https://cards.scryfall.io/large/front/9/7/9797bb82-24f6-4dd5-8f5d-b3ea45bb65b8.jpg?1783923747",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/9/7/9797bb82-24f6-4dd5-8f5d-b3ea45bb65b8.jpg?1783923747",
+  "local_art_crop": "cards/art_crop/667dd16e-ecd6-4301-8663-3c13a615e5b8.jpg",
+  "local_normal": "cards/normal/667dd16e-ecd6-4301-8663-3c13a615e5b8.jpg",
+  "local_large": "cards/large/667dd16e-ecd6-4301-8663-3c13a615e5b8.jpg",
+  "art": {
+   "brightness": 0.1668,
+   "contrast": 0.0808,
+   "saturation": 0.5183,
+   "warmth": -0.9773,
+   "variety": 0.1976,
+   "detail": 0.0222,
+   "dark_ratio": 0.84,
+   "bright_ratio": 0.0006
+  }
+ },
+ {
+  "cmdr_en": "The Reality Chip",
+  "cmdr_zh": "实界晶片",
+  "cmdr_rank": 1269,
+  "cmdr_colors": "U",
+  "form_hint": "机械构装",
+  "art_id": "e2252fd1-1a4b-4876-8720-812545cae4fc",
+  "face": 0,
+  "face_name": "The Reality Chip",
+  "artist": "Tubaki Halsame",
+  "set": "neo",
+  "set_name": "Kamigawa: Neon Dynasty",
+  "collector_number": "374",
+  "released_at": "2022-02-18",
+  "border_color": "black",
+  "frame_effects": [
+   "showcase",
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [
+   "boosterfun"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Artifact Creature — Equipment Jellyfish",
+  "types": [
+   "jellyfish"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/b/8/b8fb5ee3-97af-40c1-a8de-a2a62afd418d.jpg?1783923776",
+  "image_normal": "https://cards.scryfall.io/normal/front/b/8/b8fb5ee3-97af-40c1-a8de-a2a62afd418d.jpg?1783923776",
+  "image_large": "https://cards.scryfall.io/large/front/b/8/b8fb5ee3-97af-40c1-a8de-a2a62afd418d.jpg?1783923776",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/b/8/b8fb5ee3-97af-40c1-a8de-a2a62afd418d.jpg?1783923776",
+  "local_art_crop": "cards/art_crop/e2252fd1-1a4b-4876-8720-812545cae4fc.jpg",
+  "local_normal": "cards/normal/e2252fd1-1a4b-4876-8720-812545cae4fc.jpg",
+  "local_large": "cards/large/e2252fd1-1a4b-4876-8720-812545cae4fc.jpg",
+  "art": {
+   "brightness": 0.397,
+   "contrast": 0.2925,
+   "saturation": 0.3996,
+   "warmth": -0.6148,
+   "variety": 0.6906,
+   "detail": 0.0579,
+   "dark_ratio": 0.3596,
+   "bright_ratio": 0.1523
+  }
+ },
+ {
+  "cmdr_en": "The Swarmweaver",
+  "cmdr_zh": "",
+  "cmdr_rank": 1359,
+  "cmdr_colors": "BG",
+  "form_hint": "机械构装",
+  "art_id": "d011d1bd-5a5d-4238-9008-1df5a4b40826",
+  "face": 0,
+  "face_name": "The Swarmweaver",
+  "artist": "Sam Wolfe Connelly",
+  "set": "dsk",
+  "set_name": "Duskmourn: House of Horror",
+  "collector_number": "363",
+  "released_at": "2024-09-27",
+  "border_color": "borderless",
+  "frame_effects": [
+   "legendary",
+   "inverted"
+  ],
+  "promo": false,
+  "promo_types": [
+   "doubleexposure",
+   "boosterfun"
+  ],
+  "full_art": false,
+  "type_line": "Legendary Artifact Creature — Scarecrow",
+  "types": [
+   "scarecrow"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/f/4/f4542e4f-2fb7-4036-aefc-291f5c010ca8.jpg?1783909396",
+  "image_normal": "https://cards.scryfall.io/normal/front/f/4/f4542e4f-2fb7-4036-aefc-291f5c010ca8.jpg?1783909396",
+  "image_large": "https://cards.scryfall.io/large/front/f/4/f4542e4f-2fb7-4036-aefc-291f5c010ca8.jpg?1783909396",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/f/4/f4542e4f-2fb7-4036-aefc-291f5c010ca8.jpg?1783909396",
+  "local_art_crop": "cards/art_crop/d011d1bd-5a5d-4238-9008-1df5a4b40826.jpg",
+  "local_normal": "cards/normal/d011d1bd-5a5d-4238-9008-1df5a4b40826.jpg",
+  "local_large": "cards/large/d011d1bd-5a5d-4238-9008-1df5a4b40826.jpg",
+  "art": {
+   "brightness": 0.2236,
+   "contrast": 0.1714,
+   "saturation": 0.3921,
+   "warmth": 0.5699,
+   "variety": 0.6981,
+   "detail": 0.0497,
+   "dark_ratio": 0.5107,
+   "bright_ratio": 0.0038
+  }
+ },
+ {
+  "cmdr_en": "The Swarmweaver",
+  "cmdr_zh": "",
+  "cmdr_rank": 1359,
+  "cmdr_colors": "BG",
+  "form_hint": "机械构装",
+  "art_id": "8a2102cf-ff84-480a-a92d-679a6348ebc7",
+  "face": 0,
+  "face_name": "The Swarmweaver",
+  "artist": "Helge C. Balzer",
+  "set": "dsk",
+  "set_name": "Duskmourn: House of Horror",
+  "collector_number": "301",
+  "released_at": "2024-09-27",
+  "border_color": "black",
+  "frame_effects": [
+   "legendary"
+  ],
+  "promo": false,
+  "promo_types": [],
+  "full_art": false,
+  "type_line": "Legendary Artifact Creature — Scarecrow",
+  "types": [
+   "scarecrow"
+  ],
+  "image_small": "https://cards.scryfall.io/small/front/9/b/9b8fbdac-e3bb-4b6b-b210-febb23846c23.jpg?1783909416",
+  "image_normal": "https://cards.scryfall.io/normal/front/9/b/9b8fbdac-e3bb-4b6b-b210-febb23846c23.jpg?1783909416",
+  "image_large": "https://cards.scryfall.io/large/front/9/b/9b8fbdac-e3bb-4b6b-b210-febb23846c23.jpg?1783909416",
+  "image_art_crop": "https://cards.scryfall.io/art_crop/front/9/b/9b8fbdac-e3bb-4b6b-b210-febb23846c23.jpg?1783909416",
+  "local_art_crop": "cards/art_crop/8a2102cf-ff84-480a-a92d-679a6348ebc7.jpg",
+  "local_normal": "cards/normal/8a2102cf-ff84-480a-a92d-679a6348ebc7.jpg",
+  "local_large": "cards/large/8a2102cf-ff84-480a-a92d-679a6348ebc7.jpg",
+  "art": {
+   "brightness": 0.4218,
+   "contrast": 0.1876,
+   "saturation": 0.3844,
+   "warmth": 0.7032,
+   "variety": 0.4688,
+   "detail": 0.0719,
+   "dark_ratio": 0.1092,
+   "bright_ratio": 0.0286
+  }
+ }
+]

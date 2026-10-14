@@ -1,0 +1,5 @@
+{
+  "_comment": "校验口径的唯一来源。Python（audit_questions.py / rewrite_bank_manual.py）与 Node（verify_questions.mjs / smoke_test.mjs）都从这里读，禁止在别处再写死数字。",
+  "option_max_han": 12,
+  "_option_max_han_note": "单个选项的【汉字数】上限（只数 [\\u4e00-\\u9fff]，标点/字母/数字不计）。2026-10-13 统一：此前 audit_questions.py 与 verify_questions.mjs 用 12 汉字，rewrite_bank_manual.py 用 len(文本) > 16（含标点），三处口径不一致。统一取 12 汉字 —— 更严、也是交付面两道自检本来就在执行的那条。"
+}

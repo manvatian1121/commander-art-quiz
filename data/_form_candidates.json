@@ -1,0 +1,2920 @@
+[
+ {
+  "name": "Atraxa, Grand Unifier",
+  "cmdr_zh": "大一统飞将亚崔夏",
+  "slug": "atraxa-grand-unifier",
+  "group": "扭曲异形",
+  "types": [
+   "phyrexian"
+  ],
+  "profile_rank": 104,
+  "edhrec_rank": 3557,
+  "num_decks": 17587,
+  "type_line": "Legendary Creature — Phyrexian Angel",
+  "color_identity": [
+   "G",
+   "W",
+   "U",
+   "B"
+  ],
+  "cmc": 7.0
+ },
+ {
+  "name": "Deadpool, Trading Card",
+  "cmdr_zh": "集换卡牌死侍",
+  "slug": "deadpool-trading-card",
+  "group": "扭曲异形",
+  "types": [
+   "mutant"
+  ],
+  "profile_rank": 105,
+  "edhrec_rank": 2704,
+  "num_decks": 17452,
+  "type_line": "Legendary Creature — Mutant Mercenary Hero",
+  "color_identity": [
+   "B",
+   "R"
+  ],
+  "cmc": 4.0
+ },
+ {
+  "name": "Etali, Primal Conqueror // Etali, Primal Sickness",
+  "cmdr_zh": "始霸埃泰力",
+  "slug": "etali-primal-conqueror",
+  "group": "扭曲异形",
+  "types": [
+   "phyrexian"
+  ],
+  "profile_rank": 107,
+  "edhrec_rank": 811,
+  "num_decks": 17290,
+  "type_line": "Legendary Creature — Elder Dinosaur // Legendary Creature — Phyrexian Elder Dinosaur",
+  "color_identity": [
+   "R",
+   "G"
+  ],
+  "cmc": 7.0
+ },
+ {
+  "name": "Mendicant Core, Guidelight",
+  "cmdr_zh": "循光械济缘核心",
+  "slug": "mendicant-core-guidelight",
+  "group": "机械构装",
+  "types": [
+   "robot"
+  ],
+  "profile_rank": 109,
+  "edhrec_rank": 3288,
+  "num_decks": 17158,
+  "type_line": "Legendary Artifact Creature — Robot",
+  "color_identity": [
+   "W",
+   "U"
+  ],
+  "cmc": 2.0
+ },
+ {
+  "name": "Storm, Force of Nature",
+  "cmdr_zh": "自然之力暴风女",
+  "slug": "storm-force-of-nature",
+  "group": "扭曲异形",
+  "types": [
+   "mutant"
+  ],
+  "profile_rank": 114,
+  "edhrec_rank": 7173,
+  "num_decks": 16671,
+  "type_line": "Legendary Creature — Mutant Hero",
+  "color_identity": [
+   "G",
+   "U",
+   "R"
+  ],
+  "cmc": 4.0
+ },
+ {
+  "name": "Morophon, the Boundless",
+  "cmdr_zh": "无形莫洛丰",
+  "slug": "morophon-the-boundless",
+  "group": "扭曲异形",
+  "types": [
+   "shapeshifter"
+  ],
+  "profile_rank": 115,
+  "edhrec_rank": 1588,
+  "num_decks": 16381,
+  "type_line": "Legendary Creature — Shapeshifter",
+  "color_identity": [
+   "W",
+   "U",
+   "B",
+   "R",
+   "G"
+  ],
+  "cmc": 7.0
+ },
+ {
+  "name": "Omnath, Locus of All",
+  "cmdr_zh": "万物核欧那斯",
+  "slug": "omnath-locus-of-all",
+  "group": "扭曲异形",
+  "types": [
+   "phyrexian"
+  ],
+  "profile_rank": 137,
+  "edhrec_rank": 5465,
+  "num_decks": 14428,
+  "type_line": "Legendary Creature — Phyrexian Elemental",
+  "color_identity": [
+   "W",
+   "U",
+   "B",
+   "R",
+   "G"
+  ],
+  "cmc": 5.0
+ },
+ {
+  "name": "Kykar, Wind's Fury",
+  "cmdr_zh": "狂风怒火凯卡",
+  "slug": "kykar-winds-fury",
+  "group": "可爱小兽",
+  "types": [
+   "bird"
+  ],
+  "profile_rank": 139,
+  "edhrec_rank": 2961,
+  "num_decks": 14403,
+  "type_line": "Legendary Creature — Bird Wizard",
+  "color_identity": [
+   "U",
+   "R",
+   "W"
+  ],
+  "cmc": 4.0
+ },
+ {
+  "name": "Azlask, the Swelling Scourge",
+  "cmdr_zh": "翻涌灾祸兹拉克",
+  "slug": "azlask-the-swelling-scourge",
+  "group": "扭曲异形",
+  "types": [
+   "eldrazi"
+  ],
+  "profile_rank": 153,
+  "edhrec_rank": 6606,
+  "num_decks": 13815,
+  "type_line": "Legendary Creature — Eldrazi",
+  "color_identity": [
+   "W",
+   "U",
+   "B",
+   "R",
+   "G"
+  ],
+  "cmc": 3.0
+ },
+ {
+  "name": "Yarok, the Desecrated",
+  "cmdr_zh": "秽灵雅若克",
+  "slug": "yarok-the-desecrated",
+  "group": "扭曲异形",
+  "types": [
+   "horror"
+  ],
+  "profile_rank": 163,
+  "edhrec_rank": 2448,
+  "num_decks": 13295,
+  "type_line": "Legendary Creature — Elemental Horror",
+  "color_identity": [
+   "B",
+   "G",
+   "U"
+  ],
+  "cmc": 5.0
+ },
+ {
+  "name": "Omo, Queen of Vesuva",
+  "cmdr_zh": "维苏瓦女皇欧茉",
+  "slug": "omo-queen-of-vesuva",
+  "group": "扭曲异形",
+  "types": [
+   "shapeshifter"
+  ],
+  "profile_rank": 164,
+  "edhrec_rank": 5134,
+  "num_decks": 13282,
+  "type_line": "Legendary Creature — Shapeshifter Noble",
+  "color_identity": [
+   "G",
+   "U"
+  ],
+  "cmc": 3.0
+ },
+ {
+  "name": "Wolverine, Best There Is",
+  "cmdr_zh": "全力出战金刚狼",
+  "slug": "wolverine-best-there-is",
+  "group": "扭曲异形",
+  "types": [
+   "mutant"
+  ],
+  "profile_rank": 168,
+  "edhrec_rank": 6747,
+  "num_decks": 13074,
+  "type_line": "Legendary Creature — Mutant Berserker Hero",
+  "color_identity": [
+   "R",
+   "G"
+  ],
+  "cmc": 3.0
+ },
+ {
+  "name": "Rendmaw, Creaking Nest",
+  "cmdr_zh": "嘎响草窝裂口",
+  "slug": "rendmaw-creaking-nest",
+  "group": "机械构装",
+  "types": [
+   "scarecrow"
+  ],
+  "profile_rank": 178,
+  "edhrec_rank": 6601,
+  "num_decks": 12645,
+  "type_line": "Legendary Artifact Creature — Scarecrow",
+  "color_identity": [
+   "B",
+   "G"
+  ],
+  "cmc": 5.0
+ },
+ {
+  "name": "Light-Paws, Emperor's Voice",
+  "cmdr_zh": "帝皇玉音轻脚",
+  "slug": "light-paws-emperors-voice",
+  "group": "可爱小兽",
+  "types": [
+   "fox"
+  ],
+  "profile_rank": 182,
+  "edhrec_rank": 3132,
+  "num_decks": 12449,
+  "type_line": "Legendary Creature — Fox Advisor",
+  "color_identity": [
+   "W"
+  ],
+  "cmc": 2.0
+ },
+ {
+  "name": "Hazel of the Rootbloom",
+  "cmdr_zh": "繁根教的哈珠儿",
+  "slug": "hazel-of-the-rootbloom",
+  "group": "可爱小兽",
+  "types": [
+   "squirrel"
+  ],
+  "profile_rank": 185,
+  "edhrec_rank": 3168,
+  "num_decks": 12334,
+  "type_line": "Legendary Creature — Squirrel Druid",
+  "color_identity": [
+   "B",
+   "G"
+  ],
+  "cmc": 4.0
+ },
+ {
+  "name": "The Mindskinner",
+  "cmdr_zh": "剥忆惧魇",
+  "slug": "the-mindskinner",
+  "group": "扭曲异形",
+  "types": [
+   "nightmare"
+  ],
+  "profile_rank": 188,
+  "edhrec_rank": 2146,
+  "num_decks": 12245,
+  "type_line": "Legendary Enchantment Creature — Nightmare",
+  "color_identity": [
+   "U"
+  ],
+  "cmc": 3.0
+ },
+ {
+  "name": "Sheoldred, the Apocalypse",
+  "cmdr_zh": "启示天灾希欧蕊",
+  "slug": "sheoldred-the-apocalypse",
+  "group": "扭曲异形",
+  "types": [
+   "phyrexian"
+  ],
+  "profile_rank": 191,
+  "edhrec_rank": 461,
+  "num_decks": 12161,
+  "type_line": "Legendary Creature — Phyrexian Praetor",
+  "color_identity": [
+   "B"
+  ],
+  "cmc": 4.0
+ },
+ {
+  "name": "Arahbo, Roar of the World",
+  "cmdr_zh": "震世吼阿拉博",
+  "slug": "arahbo-roar-of-the-world",
+  "group": "可爱小兽",
+  "types": [
+   "cat"
+  ],
+  "profile_rank": 196,
+  "edhrec_rank": 7833,
+  "num_decks": 11925,
+  "type_line": "Legendary Creature — Cat Avatar",
+  "color_identity": [
+   "G",
+   "W"
+  ],
+  "cmc": 5.0
+ },
+ {
+  "name": "Thalia and The Gitrog Monster",
+  "cmdr_zh": "莎利雅与噬人蛙怪",
+  "slug": "thalia-and-the-gitrog-monster",
+  "group": "可爱小兽/扭曲异形",
+  "types": [
+   "frog",
+   "horror"
+  ],
+  "profile_rank": 197,
+  "edhrec_rank": 3961,
+  "num_decks": 11877,
+  "type_line": "Legendary Creature — Human Frog Horror",
+  "color_identity": [
+   "W",
+   "B",
+   "G"
+  ],
+  "cmc": 4.0
+ },
+ {
+  "name": "Derevi, Empyrial Tactician",
+  "cmdr_zh": "穹光策士德蕾薇",
+  "slug": "derevi-empyrial-tactician",
+  "group": "可爱小兽",
+  "types": [
+   "bird"
+  ],
+  "profile_rank": 198,
+  "edhrec_rank": 2970,
+  "num_decks": 11823,
+  "type_line": "Legendary Creature — Bird Wizard",
+  "color_identity": [
+   "G",
+   "W",
+   "U"
+  ],
+  "cmc": 3.0
+ },
+ {
+  "name": "Ovika, Enigma Goliath",
+  "cmdr_zh": "谜样巨身兽欧威卡",
+  "slug": "ovika-enigma-goliath",
+  "group": "扭曲异形",
+  "types": [
+   "nightmare",
+   "phyrexian"
+  ],
+  "profile_rank": 201,
+  "edhrec_rank": 3370,
+  "num_decks": 11674,
+  "type_line": "Legendary Creature — Phyrexian Nightmare",
+  "color_identity": [
+   "U",
+   "R"
+  ],
+  "cmc": 7.0
+ },
+ {
+  "name": "Umbris, Fear Manifest",
+  "cmdr_zh": "恐惧身影乌蔽袭",
+  "slug": "umbris-fear-manifest",
+  "group": "扭曲异形",
+  "types": [
+   "horror",
+   "nightmare"
+  ],
+  "profile_rank": 204,
+  "edhrec_rank": 7533,
+  "num_decks": 11560,
+  "type_line": "Legendary Creature — Nightmare Horror",
+  "color_identity": [
+   "U",
+   "B"
+  ],
+  "cmc": 5.0
+ },
+ {
+  "name": "Orvar, the All-Form",
+  "cmdr_zh": "万形归一欧瓦尔",
+  "slug": "orvar-the-all-form",
+  "group": "扭曲异形",
+  "types": [
+   "shapeshifter"
+  ],
+  "profile_rank": 207,
+  "edhrec_rank": 5424,
+  "num_decks": 11497,
+  "type_line": "Legendary Creature — Shapeshifter",
+  "color_identity": [
+   "U"
+  ],
+  "cmc": 4.0
+ },
+ {
+  "name": "Alania, Divergent Storm",
+  "cmdr_zh": "发散风暴艾岚妮",
+  "slug": "alania-divergent-storm",
+  "group": "可爱小兽",
+  "types": [
+   "otter"
+  ],
+  "profile_rank": 209,
+  "edhrec_rank": 4051,
+  "num_decks": 11436,
+  "type_line": "Legendary Creature — Otter Wizard",
+  "color_identity": [
+   "U",
+   "R"
+  ],
+  "cmc": 5.0
+ },
+ {
+  "name": "Sliver Overlord",
+  "cmdr_zh": "裂片妖大王",
+  "slug": "sliver-overlord",
+  "group": "扭曲异形",
+  "types": [
+   "mutant"
+  ],
+  "profile_rank": 217,
+  "edhrec_rank": 5117,
+  "num_decks": 11063,
+  "type_line": "Legendary Creature — Sliver Mutant",
+  "color_identity": [
+   "W",
+   "U",
+   "B",
+   "R",
+   "G"
+  ],
+  "cmc": 5.0
+ },
+ {
+  "name": "Kastral, the Windcrested",
+  "cmdr_zh": "风冠卡丝翠",
+  "slug": "kastral-the-windcrested",
+  "group": "可爱小兽",
+  "types": [
+   "bird"
+  ],
+  "profile_rank": 234,
+  "edhrec_rank": 4453,
+  "num_decks": 10378,
+  "type_line": "Legendary Creature — Bird Scout",
+  "color_identity": [
+   "W",
+   "U"
+  ],
+  "cmc": 5.0
+ },
+ {
+  "name": "The Gitrog Monster",
+  "cmdr_zh": "噬人蛙怪",
+  "slug": "the-gitrog-monster",
+  "group": "可爱小兽/扭曲异形",
+  "types": [
+   "frog",
+   "horror"
+  ],
+  "profile_rank": 243,
+  "edhrec_rank": 908,
+  "num_decks": 10127,
+  "type_line": "Legendary Creature — Frog Horror",
+  "color_identity": [
+   "B",
+   "G"
+  ],
+  "cmc": 5.0
+ },
+ {
+  "name": "Bria, Riptide Rogue",
+  "cmdr_zh": "激流浪客布里亚",
+  "slug": "bria-riptide-rogue",
+  "group": "可爱小兽",
+  "types": [
+   "otter"
+  ],
+  "profile_rank": 251,
+  "edhrec_rank": 3095,
+  "num_decks": 9939,
+  "type_line": "Legendary Creature — Otter Rogue",
+  "color_identity": [
+   "U",
+   "R"
+  ],
+  "cmc": 4.0
+ },
+ {
+  "name": "Jetmir, Nexus of Revels",
+  "cmdr_zh": "欢宴魔杰米尔",
+  "slug": "jetmir-nexus-of-revels",
+  "group": "可爱小兽",
+  "types": [
+   "cat"
+  ],
+  "profile_rank": 252,
+  "edhrec_rank": 2251,
+  "num_decks": 9901,
+  "type_line": "Legendary Creature — Cat Demon",
+  "color_identity": [
+   "R",
+   "G",
+   "W"
+  ],
+  "cmc": 4.0
+ },
+ {
+  "name": "Roxanne, Starfall Savant",
+  "cmdr_zh": "落星学者罗珊妮",
+  "slug": "roxanne-starfall-savant",
+  "group": "可爱小兽",
+  "types": [
+   "cat"
+  ],
+  "profile_rank": 259,
+  "edhrec_rank": 3312,
+  "num_decks": 9631,
+  "type_line": "Legendary Creature — Cat Druid",
+  "color_identity": [
+   "R",
+   "G"
+  ],
+  "cmc": 5.0
+ },
+ {
+  "name": "Reaper King",
+  "cmdr_zh": "夺命王者",
+  "slug": "reaper-king",
+  "group": "机械构装",
+  "types": [
+   "scarecrow"
+  ],
+  "profile_rank": 281,
+  "edhrec_rank": 8761,
+  "num_decks": 9231,
+  "type_line": "Legendary Artifact Creature — Scarecrow",
+  "color_identity": [
+   "W",
+   "U",
+   "B",
+   "R",
+   "G"
+  ],
+  "cmc": 10.0
+ },
+ {
+  "name": "Finneas, Ace Archer",
+  "cmdr_zh": "王牌弓手芬纳斯",
+  "slug": "finneas-ace-archer",
+  "group": "可爱小兽",
+  "types": [
+   "rabbit"
+  ],
+  "profile_rank": 285,
+  "edhrec_rank": 4588,
+  "num_decks": 9133,
+  "type_line": "Legendary Creature — Rabbit Archer",
+  "color_identity": [
+   "G",
+   "W"
+  ],
+  "cmc": 2.0
+ },
+ {
+  "name": "Toxrill, the Corrosive",
+  "cmdr_zh": "腐蚀蝓怪陀袭力",
+  "slug": "toxrill-the-corrosive",
+  "group": "扭曲异形",
+  "types": [
+   "horror"
+  ],
+  "profile_rank": 288,
+  "edhrec_rank": 2335,
+  "num_decks": 9074,
+  "type_line": "Legendary Creature — Slug Horror",
+  "color_identity": [
+   "U",
+   "B"
+  ],
+  "cmc": 7.0
+ },
+ {
+  "name": "Elas il-Kor, Sadistic Pilgrim",
+  "cmdr_zh": "虐之华寇族黜人依拉丝",
+  "slug": "elas-il-kor-sadistic-pilgrim",
+  "group": "扭曲异形",
+  "types": [
+   "phyrexian"
+  ],
+  "profile_rank": 304,
+  "edhrec_rank": 615,
+  "num_decks": 8788,
+  "type_line": "Legendary Creature — Phyrexian Kor Cleric",
+  "color_identity": [
+   "W",
+   "B"
+  ],
+  "cmc": 2.0
+ },
+ {
+  "name": "Brimaz, Blight of Oreskos",
+  "cmdr_zh": "俄瑞恣荒王布黎玛",
+  "slug": "brimaz-blight-of-oreskos",
+  "group": "可爱小兽/扭曲异形",
+  "types": [
+   "cat",
+   "phyrexian"
+  ],
+  "profile_rank": 309,
+  "edhrec_rank": 7579,
+  "num_decks": 8686,
+  "type_line": "Legendary Creature — Phyrexian Cat",
+  "color_identity": [
+   "W",
+   "B"
+  ],
+  "cmc": 4.0
+ },
+ {
+  "name": "Braids, Arisen Nightmare",
+  "cmdr_zh": "觉醒梦魇布蕾德",
+  "slug": "braids-arisen-nightmare",
+  "group": "扭曲异形",
+  "types": [
+   "nightmare"
+  ],
+  "profile_rank": 315,
+  "edhrec_rank": 299,
+  "num_decks": 8448,
+  "type_line": "Legendary Creature — Nightmare",
+  "color_identity": [
+   "B"
+  ],
+  "cmc": 3.0
+ },
+ {
+  "name": "The Master of Keys",
+  "cmdr_zh": "通钥惧怪",
+  "slug": "the-master-of-keys",
+  "group": "扭曲异形",
+  "types": [
+   "horror"
+  ],
+  "profile_rank": 319,
+  "edhrec_rank": 5328,
+  "num_decks": 8353,
+  "type_line": "Legendary Enchantment Creature — Horror",
+  "color_identity": [
+   "W",
+   "U",
+   "B"
+  ],
+  "cmc": 3.0
+ },
+ {
+  "name": "Clement, the Worrywort",
+  "cmdr_zh": "忧天草克莱门特",
+  "slug": "clement-the-worrywort",
+  "group": "可爱小兽",
+  "types": [
+   "frog"
+  ],
+  "profile_rank": 320,
+  "edhrec_rank": 6708,
+  "num_decks": 8347,
+  "type_line": "Legendary Creature — Frog Druid",
+  "color_identity": [
+   "G",
+   "U"
+  ],
+  "cmc": 3.0
+ },
+ {
+  "name": "The Unbeatable Squirrel Girl",
+  "cmdr_zh": "无敌松鼠妹",
+  "slug": "the-unbeatable-squirrel-girl",
+  "group": "可爱小兽",
+  "types": [
+   "squirrel"
+  ],
+  "profile_rank": 326,
+  "edhrec_rank": 6228,
+  "num_decks": 8145,
+  "type_line": "Legendary Creature — Squirrel Human Hero",
+  "color_identity": [
+   "G"
+  ],
+  "cmc": 4.0
+ },
+ {
+  "name": "Elesh Norn, Mother of Machines",
+  "cmdr_zh": "机械之母艾蕾侬",
+  "slug": "elesh-norn-mother-of-machines",
+  "group": "扭曲异形",
+  "types": [
+   "phyrexian"
+  ],
+  "profile_rank": 331,
+  "edhrec_rank": 1043,
+  "num_decks": 8097,
+  "type_line": "Legendary Creature — Phyrexian Praetor",
+  "color_identity": [
+   "W"
+  ],
+  "cmc": 5.0
+ },
+ {
+  "name": "Gluntch, the Bestower",
+  "cmdr_zh": "遣施怪古朗奇",
+  "slug": "gluntch-the-bestower",
+  "group": "机械构装",
+  "types": [
+   "jellyfish"
+  ],
+  "profile_rank": 347,
+  "edhrec_rank": 3097,
+  "num_decks": 7889,
+  "type_line": "Legendary Creature — Jellyfish",
+  "color_identity": [
+   "G",
+   "W"
+  ],
+  "cmc": 3.0
+ },
+ {
+  "name": "Breena, the Demagogue",
+  "cmdr_zh": "煽动师布莉娜",
+  "slug": "breena-the-demagogue",
+  "group": "可爱小兽",
+  "types": [
+   "bird"
+  ],
+  "profile_rank": 348,
+  "edhrec_rank": 1878,
+  "num_decks": 7868,
+  "type_line": "Legendary Creature — Bird Warlock",
+  "color_identity": [
+   "W",
+   "B"
+  ],
+  "cmc": 3.0
+ },
+ {
+  "name": "Sméagol, Helpful Guide",
+  "cmdr_zh": "有用向导斯密戈",
+  "slug": "smeagol-helpful-guide",
+  "group": "扭曲异形",
+  "types": [
+   "horror"
+  ],
+  "profile_rank": 357,
+  "edhrec_rank": 6255,
+  "num_decks": 7764,
+  "type_line": "Legendary Creature — Halfling Horror",
+  "color_identity": [
+   "B",
+   "G"
+  ],
+  "cmc": 3.0
+ },
+ {
+  "name": "The Gitrog, Ravenous Ride",
+  "cmdr_zh": "血口坐骑噬人蛙怪",
+  "slug": "the-gitrog-ravenous-ride",
+  "group": "可爱小兽/扭曲异形",
+  "types": [
+   "frog",
+   "horror"
+  ],
+  "profile_rank": 359,
+  "edhrec_rank": 4276,
+  "num_decks": 7706,
+  "type_line": "Legendary Creature — Frog Horror Mount",
+  "color_identity": [
+   "B",
+   "G"
+  ],
+  "cmc": 5.0
+ },
+ {
+  "name": "Nethroi, Apex of Death",
+  "cmdr_zh": "夺命霸狮涅司罗",
+  "slug": "nethroi-apex-of-death",
+  "group": "可爱小兽/扭曲异形",
+  "types": [
+   "cat",
+   "nightmare"
+  ],
+  "profile_rank": 361,
+  "edhrec_rank": 5558,
+  "num_decks": 7690,
+  "type_line": "Legendary Creature — Cat Nightmare Beast",
+  "color_identity": [
+   "W",
+   "B",
+   "G"
+  ],
+  "cmc": 5.0
+ },
+ {
+  "name": "Raph & Mikey, Troublemakers",
+  "cmdr_zh": "经常捣乱的拉夫与麦奇",
+  "slug": "raph-mikey-troublemakers",
+  "group": "可爱小兽/扭曲异形",
+  "types": [
+   "mutant",
+   "turtle"
+  ],
+  "profile_rank": 364,
+  "edhrec_rank": 6355,
+  "num_decks": 7635,
+  "type_line": "Legendary Creature — Mutant Ninja Turtle",
+  "color_identity": [
+   "R",
+   "G"
+  ],
+  "cmc": 7.0
+ },
+ {
+  "name": "Ezuri, Claw of Progress",
+  "cmdr_zh": "进展之爪伊祖黎",
+  "slug": "ezuri-claw-of-progress",
+  "group": "扭曲异形",
+  "types": [
+   "phyrexian"
+  ],
+  "profile_rank": 377,
+  "edhrec_rank": 5661,
+  "num_decks": 7419,
+  "type_line": "Legendary Creature — Phyrexian Elf Warrior",
+  "color_identity": [
+   "G",
+   "U"
+  ],
+  "cmc": 4.0
+ },
+ {
+  "name": "Grolnok, the Omnivore",
+  "cmdr_zh": "全能噬蛙葛诺克",
+  "slug": "grolnok-the-omnivore",
+  "group": "可爱小兽",
+  "types": [
+   "frog"
+  ],
+  "profile_rank": 387,
+  "edhrec_rank": 6893,
+  "num_decks": 7268,
+  "type_line": "Legendary Creature — Frog",
+  "color_identity": [
+   "G",
+   "U"
+  ],
+  "cmc": 4.0
+ },
+ {
+  "name": "Kwain, Itinerant Meddler",
+  "cmdr_zh": "漫游捣乱者快隐",
+  "slug": "kwain-itinerant-meddler",
+  "group": "可爱小兽",
+  "types": [
+   "rabbit"
+  ],
+  "profile_rank": 395,
+  "edhrec_rank": 2149,
+  "num_decks": 7148,
+  "type_line": "Legendary Creature — Rabbit Wizard",
+  "color_identity": [
+   "W",
+   "U"
+  ],
+  "cmc": 2.0
+ },
+ {
+  "name": "Marisi, Breaker of the Coil",
+  "cmdr_zh": "破围马力希",
+  "slug": "marisi-breaker-of-the-coil",
+  "group": "可爱小兽",
+  "types": [
+   "cat"
+  ],
+  "profile_rank": 399,
+  "edhrec_rank": 4680,
+  "num_decks": 7097,
+  "type_line": "Legendary Creature — Cat Warrior",
+  "color_identity": [
+   "R",
+   "G",
+   "W"
+  ],
+  "cmc": 4.0
+ },
+ {
+  "name": "The Mimeoplasm",
+  "cmdr_zh": "拟生原浆",
+  "slug": "the-mimeoplasm",
+  "group": "扭曲异形",
+  "types": [
+   "ooze"
+  ],
+  "profile_rank": 409,
+  "edhrec_rank": 7442,
+  "num_decks": 6998,
+  "type_line": "Legendary Creature — Ooze",
+  "color_identity": [
+   "B",
+   "G",
+   "U"
+  ],
+  "cmc": 5.0
+ },
+ {
+  "name": "Ixhel, Scion of Atraxa",
+  "cmdr_zh": "亚崔夏赋使伊歇儿",
+  "slug": "ixhel-scion-of-atraxa",
+  "group": "扭曲异形",
+  "types": [
+   "phyrexian"
+  ],
+  "profile_rank": 413,
+  "edhrec_rank": 5856,
+  "num_decks": 6955,
+  "type_line": "Legendary Creature — Phyrexian Angel",
+  "color_identity": [
+   "W",
+   "B",
+   "G"
+  ],
+  "cmc": 4.0
+ },
+ {
+  "name": "Karumonix, the Rat King",
+  "cmdr_zh": "鼠王卡鲁蒙",
+  "slug": "karumonix-the-rat-king",
+  "group": "扭曲异形",
+  "types": [
+   "phyrexian"
+  ],
+  "profile_rank": 414,
+  "edhrec_rank": 3533,
+  "num_decks": 6937,
+  "type_line": "Legendary Creature — Phyrexian Rat",
+  "color_identity": [
+   "B"
+  ],
+  "cmc": 3.0
+ },
+ {
+  "name": "Brudiclad, Telchor Engineer",
+  "cmdr_zh": "钛可工程师布迪凯",
+  "slug": "brudiclad-telchor-engineer",
+  "group": "扭曲异形",
+  "types": [
+   "phyrexian"
+  ],
+  "profile_rank": 422,
+  "edhrec_rank": 2159,
+  "num_decks": 6821,
+  "type_line": "Legendary Artifact Creature — Phyrexian Artificer",
+  "color_identity": [
+   "U",
+   "R"
+  ],
+  "cmc": 6.0
+ },
+ {
+  "name": "Heliod, the Radiant Dawn // Heliod, the Warped Eclipse",
+  "cmdr_zh": "曙光耀辉赫利欧德",
+  "slug": "heliod-the-radiant-dawn",
+  "group": "扭曲异形",
+  "types": [
+   "phyrexian"
+  ],
+  "profile_rank": 447,
+  "edhrec_rank": 3391,
+  "num_decks": 6545,
+  "type_line": "Legendary Enchantment Creature — God // Legendary Enchantment Creature — Phyrexian God",
+  "color_identity": [
+   "W",
+   "U"
+  ],
+  "cmc": 4.0
+ },
+ {
+  "name": "Maha, Its Feathers Night",
+  "cmdr_zh": "蔽夜飞羽玛哈",
+  "slug": "maha-its-feathers-night",
+  "group": "可爱小兽",
+  "types": [
+   "bird"
+  ],
+  "profile_rank": 449,
+  "edhrec_rank": 1962,
+  "num_decks": 6521,
+  "type_line": "Legendary Creature — Elemental Bird",
+  "color_identity": [
+   "B"
+  ],
+  "cmc": 5.0
+ },
+ {
+  "name": "Mr. Foxglove",
+  "cmdr_zh": "狐袜先生",
+  "slug": "mr-foxglove",
+  "group": "可爱小兽",
+  "types": [
+   "fox"
+  ],
+  "profile_rank": 454,
+  "edhrec_rank": 7241,
+  "num_decks": 6451,
+  "type_line": "Legendary Creature — Fox Rogue",
+  "color_identity": [
+   "G",
+   "W",
+   "U"
+  ],
+  "cmc": 5.0
+ },
+ {
+  "name": "Karn, Legacy Reforged",
+  "cmdr_zh": "神兵重铸卡恩",
+  "slug": "karn-legacy-reforged",
+  "group": "机械构装",
+  "types": [
+   "golem"
+  ],
+  "profile_rank": 456,
+  "edhrec_rank": 2529,
+  "num_decks": 6438,
+  "type_line": "Legendary Artifact Creature — Golem",
+  "color_identity": [],
+  "cmc": 5.0
+ },
+ {
+  "name": "Beorn the Fierce",
+  "cmdr_zh": "凶猛的贝奥恩",
+  "slug": "beorn-the-fierce",
+  "group": "扭曲异形",
+  "types": [
+   "shapeshifter"
+  ],
+  "profile_rank": 458,
+  "edhrec_rank": 8335,
+  "num_decks": 6383,
+  "type_line": "Legendary Creature — Bear Shapeshifter Warrior",
+  "color_identity": [
+   "G"
+  ],
+  "cmc": 5.0
+ },
+ {
+  "name": "Aeve, Progenitor Ooze",
+  "cmdr_zh": "流浆先祖艾夫",
+  "slug": "aeve-progenitor-ooze",
+  "group": "扭曲异形",
+  "types": [
+   "ooze"
+  ],
+  "profile_rank": 465,
+  "edhrec_rank": 7475,
+  "num_decks": 6257,
+  "type_line": "Legendary Creature — Ooze",
+  "color_identity": [
+   "G"
+  ],
+  "cmc": 5.0
+ },
+ {
+  "name": "The Reaper, King No More",
+  "cmdr_zh": "夺命枉者",
+  "slug": "the-reaper-king-no-more",
+  "group": "机械构装",
+  "types": [
+   "scarecrow"
+  ],
+  "profile_rank": 470,
+  "edhrec_rank": 5827,
+  "num_decks": 6195,
+  "type_line": "Legendary Artifact Creature — Scarecrow",
+  "color_identity": [
+   "B",
+   "R",
+   "G"
+  ],
+  "cmc": 6.0
+ },
+ {
+  "name": "Felix Five-Boots",
+  "cmdr_zh": "五靴菲利斯",
+  "slug": "felix-five-boots",
+  "group": "扭曲异形",
+  "types": [
+   "ooze"
+  ],
+  "profile_rank": 475,
+  "edhrec_rank": 4926,
+  "num_decks": 6083,
+  "type_line": "Legendary Creature — Ooze Rogue",
+  "color_identity": [
+   "B",
+   "G",
+   "U"
+  ],
+  "cmc": 5.0
+ },
+ {
+  "name": "Arthur, Marigold Knight",
+  "cmdr_zh": "金盏花骑士亚瑟",
+  "slug": "arthur-marigold-knight",
+  "group": "可爱小兽",
+  "types": [
+   "mouse"
+  ],
+  "profile_rank": 484,
+  "edhrec_rank": 8126,
+  "num_decks": 6005,
+  "type_line": "Legendary Creature — Mouse Knight",
+  "color_identity": [
+   "U",
+   "R",
+   "W"
+  ],
+  "cmc": 5.0
+ },
+ {
+  "name": "Camellia, the Seedmiser",
+  "cmdr_zh": "守种奴卡茉拉",
+  "slug": "camellia-the-seedmiser",
+  "group": "可爱小兽",
+  "types": [
+   "squirrel"
+  ],
+  "profile_rank": 487,
+  "edhrec_rank": 2718,
+  "num_decks": 5991,
+  "type_line": "Legendary Creature — Squirrel Warlock",
+  "color_identity": [
+   "B",
+   "G"
+  ],
+  "cmc": 3.0
+ },
+ {
+  "name": "Xantcha, Sleeper Agent",
+  "cmdr_zh": "潜藏密探珊迦",
+  "slug": "xantcha-sleeper-agent",
+  "group": "扭曲异形",
+  "types": [
+   "phyrexian"
+  ],
+  "profile_rank": 543,
+  "edhrec_rank": 3033,
+  "num_decks": 5493,
+  "type_line": "Legendary Creature — Phyrexian Minion",
+  "color_identity": [
+   "B",
+   "R"
+  ],
+  "cmc": 3.0
+ },
+ {
+  "name": "Solphim, Mayhem Dominus",
+  "cmdr_zh": "破坏圣主索非穆",
+  "slug": "solphim-mayhem-dominus",
+  "group": "扭曲异形",
+  "types": [
+   "horror",
+   "phyrexian"
+  ],
+  "profile_rank": 556,
+  "edhrec_rank": 900,
+  "num_decks": 5371,
+  "type_line": "Legendary Creature — Phyrexian Horror",
+  "color_identity": [
+   "R"
+  ],
+  "cmc": 4.0
+ },
+ {
+  "name": "Slicer, Hired Muscle // Slicer, High-Speed Antagonist",
+  "cmdr_zh": "受雇狂徒切片",
+  "slug": "slicer-hired-muscle",
+  "group": "机械构装",
+  "types": [
+   "robot",
+   "vehicle"
+  ],
+  "profile_rank": 569,
+  "edhrec_rank": 3462,
+  "num_decks": 5238,
+  "type_line": "Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle",
+  "color_identity": [
+   "R"
+  ],
+  "cmc": 5.0
+ },
+ {
+  "name": "Kozilek, the Great Distortion",
+  "cmdr_zh": "无际曲相寇基雷",
+  "slug": "kozilek-the-great-distortion",
+  "group": "扭曲异形",
+  "types": [
+   "eldrazi"
+  ],
+  "profile_rank": 570,
+  "edhrec_rank": 1563,
+  "num_decks": 5176,
+  "type_line": "Legendary Creature — Eldrazi",
+  "color_identity": [],
+  "cmc": 10.0
+ },
+ {
+  "name": "Ultron, Artificial Malevolence",
+  "cmdr_zh": "人工恶意奥创",
+  "slug": "ultron-artificial-malevolence",
+  "group": "机械构装",
+  "types": [
+   "robot"
+  ],
+  "profile_rank": 574,
+  "edhrec_rank": 4572,
+  "num_decks": 5138,
+  "type_line": "Legendary Artifact Creature — Robot Villain",
+  "color_identity": [],
+  "cmc": 3.0
+ },
+ {
+  "name": "Liberty Prime, Recharged",
+  "cmdr_zh": "满电自由至尊",
+  "slug": "liberty-prime-recharged",
+  "group": "机械构装",
+  "types": [
+   "robot"
+  ],
+  "profile_rank": 575,
+  "edhrec_rank": 7891,
+  "num_decks": 5118,
+  "type_line": "Legendary Artifact Creature — Robot",
+  "color_identity": [
+   "U",
+   "R",
+   "W"
+  ],
+  "cmc": 5.0
+ },
+ {
+  "name": "Vishgraz, the Doomhive",
+  "cmdr_zh": "末日繁生威袭瑰",
+  "slug": "vishgraz-the-doomhive",
+  "group": "扭曲异形",
+  "types": [
+   "phyrexian"
+  ],
+  "profile_rank": 582,
+  "edhrec_rank": 6844,
+  "num_decks": 5069,
+  "type_line": "Legendary Creature — Phyrexian Insect",
+  "color_identity": [
+   "W",
+   "B",
+   "G"
+  ],
+  "cmc": 5.0
+ },
+ {
+  "name": "Herigast, Erupting Nullkite",
+  "cmdr_zh": "喷焰虚虐体赫厉轧",
+  "slug": "herigast-erupting-nullkite",
+  "group": "扭曲异形",
+  "types": [
+   "eldrazi"
+  ],
+  "profile_rank": 584,
+  "edhrec_rank": 6402,
+  "num_decks": 5040,
+  "type_line": "Legendary Creature — Eldrazi Dragon",
+  "color_identity": [
+   "R"
+  ],
+  "cmc": 9.0
+ },
+ {
+  "name": "G'raha Tia, Scion Reborn",
+  "cmdr_zh": "",
+  "slug": "graha-tia-scion-reborn",
+  "group": "可爱小兽",
+  "types": [
+   "cat"
+  ],
+  "profile_rank": 596,
+  "edhrec_rank": 5926,
+  "num_decks": 4945,
+  "type_line": "Legendary Creature — Cat Wizard",
+  "color_identity": [
+   "W",
+   "U",
+   "B"
+  ],
+  "cmc": 3.0
+ },
+ {
+  "name": "Sauron, Lord of the Rings",
+  "cmdr_zh": "",
+  "slug": "sauron-lord-of-the-rings",
+  "group": "扭曲异形",
+  "types": [
+   "horror"
+  ],
+  "profile_rank": 602,
+  "edhrec_rank": 5141,
+  "num_decks": 4909,
+  "type_line": "Legendary Creature — Avatar Horror",
+  "color_identity": [
+   "U",
+   "B",
+   "R"
+  ],
+  "cmc": 8.0
+ },
+ {
+  "name": "Yargle and Multani",
+  "cmdr_zh": "雅骨尔与穆塔尼",
+  "slug": "yargle-and-multani",
+  "group": "可爱小兽",
+  "types": [
+   "frog"
+  ],
+  "profile_rank": 616,
+  "edhrec_rank": 3169,
+  "num_decks": 4757,
+  "type_line": "Legendary Creature — Frog Spirit Elemental",
+  "color_identity": [
+   "B",
+   "G"
+  ],
+  "cmc": 6.0
+ },
+ {
+  "name": "Belbe, Corrupted Observer",
+  "cmdr_zh": "腐化观察员贝尔蓓",
+  "slug": "belbe-corrupted-observer",
+  "group": "扭曲异形",
+  "types": [
+   "phyrexian"
+  ],
+  "profile_rank": 646,
+  "edhrec_rank": 8221,
+  "num_decks": 4527,
+  "type_line": "Legendary Creature — Phyrexian Zombie Elf",
+  "color_identity": [
+   "B",
+   "G"
+  ],
+  "cmc": 2.0
+ },
+ {
+  "name": "Falco Spara, Pactweaver",
+  "cmdr_zh": "",
+  "slug": "falco-spara-pactweaver",
+  "group": "可爱小兽",
+  "types": [
+   "bird"
+  ],
+  "profile_rank": 650,
+  "edhrec_rank": 7082,
+  "num_decks": 4516,
+  "type_line": "Legendary Creature — Bird Demon",
+  "color_identity": [
+   "G",
+   "W",
+   "U"
+  ],
+  "cmc": 4.0
+ },
+ {
+  "name": "Vorinclex, Monstrous Raider",
+  "cmdr_zh": "畸巨劫怪弗霖凯",
+  "slug": "vorinclex-monstrous-raider",
+  "group": "扭曲异形",
+  "types": [
+   "phyrexian"
+  ],
+  "profile_rank": 654,
+  "edhrec_rank": 1249,
+  "num_decks": 4493,
+  "type_line": "Legendary Creature — Phyrexian Praetor",
+  "color_identity": [
+   "G"
+  ],
+  "cmc": 6.0
+ },
+ {
+  "name": "Archelos, Lagoon Mystic",
+  "cmdr_zh": "",
+  "slug": "archelos-lagoon-mystic",
+  "group": "可爱小兽",
+  "types": [
+   "turtle"
+  ],
+  "profile_rank": 656,
+  "edhrec_rank": 8693,
+  "num_decks": 4472,
+  "type_line": "Legendary Creature — Turtle Shaman",
+  "color_identity": [
+   "B",
+   "G",
+   "U"
+  ],
+  "cmc": 4.0
+ },
+ {
+  "name": "Sovereign Okinec Ahau",
+  "cmdr_zh": "",
+  "slug": "sovereign-okinec-ahau",
+  "group": "可爱小兽",
+  "types": [
+   "cat"
+  ],
+  "profile_rank": 661,
+  "edhrec_rank": 2867,
+  "num_decks": 4438,
+  "type_line": "Legendary Creature — Cat Noble",
+  "color_identity": [
+   "G",
+   "W"
+  ],
+  "cmc": 4.0
+ },
+ {
+  "name": "Kutzil, Malamet Exemplar",
+  "cmdr_zh": "豹族模范库琪",
+  "slug": "kutzil-malamet-exemplar",
+  "group": "可爱小兽",
+  "types": [
+   "cat"
+  ],
+  "profile_rank": 677,
+  "edhrec_rank": 396,
+  "num_decks": 4306,
+  "type_line": "Legendary Creature — Cat Warrior",
+  "color_identity": [
+   "G",
+   "W"
+  ],
+  "cmc": 3.0
+ },
+ {
+  "name": "Phelia, Exuberant Shepherd",
+  "cmdr_zh": "亢奋牧犬费利亚",
+  "slug": "phelia-exuberant-shepherd",
+  "group": "可爱小兽",
+  "types": [
+   "dog"
+  ],
+  "profile_rank": 681,
+  "edhrec_rank": 1578,
+  "num_decks": 4298,
+  "type_line": "Legendary Creature — Dog",
+  "color_identity": [
+   "W"
+  ],
+  "cmc": 2.0
+ },
+ {
+  "name": "Heroes in a Half Shell",
+  "cmdr_zh": "",
+  "slug": "heroes-in-a-half-shell",
+  "group": "可爱小兽/扭曲异形",
+  "types": [
+   "mutant",
+   "turtle"
+  ],
+  "profile_rank": 685,
+  "edhrec_rank": 8469,
+  "num_decks": 4280,
+  "type_line": "Legendary Creature — Mutant Ninja Turtle",
+  "color_identity": [
+   "W",
+   "U",
+   "B",
+   "R",
+   "G"
+  ],
+  "cmc": 5.0
+ },
+ {
+  "name": "Kykar, Zephyr Awakener",
+  "cmdr_zh": "",
+  "slug": "kykar-zephyr-awakener",
+  "group": "可爱小兽",
+  "types": [
+   "bird"
+  ],
+  "profile_rank": 704,
+  "edhrec_rank": 4207,
+  "num_decks": 4063,
+  "type_line": "Legendary Creature — Bird Wizard",
+  "color_identity": [
+   "W",
+   "U"
+  ],
+  "cmc": 4.0
+ },
+ {
+  "name": "Elesh Norn // The Argent Etchings",
+  "cmdr_zh": "艾蕾侬",
+  "slug": "elesh-norn",
+  "group": "扭曲异形",
+  "types": [
+   "phyrexian"
+  ],
+  "profile_rank": 707,
+  "edhrec_rank": 4182,
+  "num_decks": 4032,
+  "type_line": "Legendary Creature — Phyrexian Praetor // Enchantment — Saga",
+  "color_identity": [
+   "W"
+  ],
+  "cmc": 4.0
+ },
+ {
+  "name": "The Master, Transcendent",
+  "cmdr_zh": "",
+  "slug": "the-master-transcendent",
+  "group": "扭曲异形",
+  "types": [
+   "mutant"
+  ],
+  "profile_rank": 708,
+  "edhrec_rank": 5293,
+  "num_decks": 4032,
+  "type_line": "Legendary Artifact Creature — Mutant",
+  "color_identity": [
+   "B",
+   "G",
+   "U"
+  ],
+  "cmc": 4.0
+ },
+ {
+  "name": "Urabrask // The Great Work",
+  "cmdr_zh": "",
+  "slug": "urabrask",
+  "group": "扭曲异形",
+  "types": [
+   "phyrexian"
+  ],
+  "profile_rank": 710,
+  "edhrec_rank": 1893,
+  "num_decks": 4024,
+  "type_line": "Legendary Creature — Phyrexian Praetor // Enchantment — Saga",
+  "color_identity": [
+   "R"
+  ],
+  "cmc": 4.0
+ },
+ {
+  "name": "Jin-Gitaxias // The Great Synthesis",
+  "cmdr_zh": "",
+  "slug": "jin-gitaxias",
+  "group": "扭曲异形",
+  "types": [
+   "phyrexian"
+  ],
+  "profile_rank": 720,
+  "edhrec_rank": 3274,
+  "num_decks": 3958,
+  "type_line": "Legendary Creature — Phyrexian Praetor // Enchantment — Saga",
+  "color_identity": [
+   "U"
+  ],
+  "cmc": 5.0
+ },
+ {
+  "name": "Mm'menon, the Right Hand",
+  "cmdr_zh": "",
+  "slug": "mmmenon-the-right-hand",
+  "group": "机械构装",
+  "types": [
+   "jellyfish"
+  ],
+  "profile_rank": 727,
+  "edhrec_rank": 4925,
+  "num_decks": 3919,
+  "type_line": "Legendary Creature — Jellyfish Advisor",
+  "color_identity": [
+   "U"
+  ],
+  "cmc": 5.0
+ },
+ {
+  "name": "Balan, Wandering Knight",
+  "cmdr_zh": "",
+  "slug": "balan-wandering-knight",
+  "group": "可爱小兽",
+  "types": [
+   "cat"
+  ],
+  "profile_rank": 742,
+  "edhrec_rank": 6610,
+  "num_decks": 3800,
+  "type_line": "Legendary Creature — Cat Knight",
+  "color_identity": [
+   "W"
+  ],
+  "cmc": 4.0
+ },
+ {
+  "name": "Gix, Yawgmoth Praetor",
+  "cmdr_zh": "约格莫夫判官基克斯",
+  "slug": "gix-yawgmoth-praetor",
+  "group": "扭曲异形",
+  "types": [
+   "phyrexian"
+  ],
+  "profile_rank": 745,
+  "edhrec_rank": 1995,
+  "num_decks": 3746,
+  "type_line": "Legendary Creature — Phyrexian Praetor",
+  "color_identity": [
+   "B"
+  ],
+  "cmc": 3.0
+ },
+ {
+  "name": "Arahbo, the First Fang",
+  "cmdr_zh": "始牙阿拉博",
+  "slug": "arahbo-the-first-fang",
+  "group": "可爱小兽",
+  "types": [
+   "cat"
+  ],
+  "profile_rank": 773,
+  "edhrec_rank": 3686,
+  "num_decks": 3579,
+  "type_line": "Legendary Creature — Cat Avatar",
+  "color_identity": [
+   "W"
+  ],
+  "cmc": 3.0
+ },
+ {
+  "name": "Super Shredder",
+  "cmdr_zh": "",
+  "slug": "super-shredder",
+  "group": "扭曲异形",
+  "types": [
+   "mutant"
+  ],
+  "profile_rank": 777,
+  "edhrec_rank": 5132,
+  "num_decks": 3556,
+  "type_line": "Legendary Creature — Mutant Ninja Human",
+  "color_identity": [
+   "B"
+  ],
+  "cmc": 2.0
+ },
+ {
+  "name": "Zidane, Tantalus Thief",
+  "cmdr_zh": "",
+  "slug": "zidane-tantalus-thief",
+  "group": "扭曲异形",
+  "types": [
+   "mutant"
+  ],
+  "profile_rank": 807,
+  "edhrec_rank": 8223,
+  "num_decks": 3358,
+  "type_line": "Legendary Creature — Human Mutant Scout",
+  "color_identity": [
+   "R",
+   "W"
+  ],
+  "cmc": 5.0
+ },
+ {
+  "name": "Abigale, Eloquent First-Year",
+  "cmdr_zh": "",
+  "slug": "abigale-eloquent-first-year",
+  "group": "可爱小兽",
+  "types": [
+   "bird"
+  ],
+  "profile_rank": 810,
+  "edhrec_rank": 8348,
+  "num_decks": 3346,
+  "type_line": "Legendary Creature — Bird Bard",
+  "color_identity": [
+   "W",
+   "B"
+  ],
+  "cmc": 2.0
+ },
+ {
+  "name": "Skithiryx, the Blight Dragon",
+  "cmdr_zh": "",
+  "slug": "skithiryx-the-blight-dragon",
+  "group": "扭曲异形",
+  "types": [
+   "phyrexian"
+  ],
+  "profile_rank": 815,
+  "edhrec_rank": 2670,
+  "num_decks": 3323,
+  "type_line": "Legendary Creature — Phyrexian Dragon Skeleton",
+  "color_identity": [
+   "B"
+  ],
+  "cmc": 5.0
+ },
+ {
+  "name": "The Pride of Hull Clade",
+  "cmdr_zh": "壳进化组所傲",
+  "slug": "the-pride-of-hull-clade",
+  "group": "可爱小兽",
+  "types": [
+   "turtle"
+  ],
+  "profile_rank": 834,
+  "edhrec_rank": 5348,
+  "num_decks": 3228,
+  "type_line": "Legendary Creature — Crocodile Elk Turtle",
+  "color_identity": [
+   "G",
+   "U"
+  ],
+  "cmc": 11.0
+ },
+ {
+  "name": "Old Stickfingers",
+  "cmdr_zh": "老枯指",
+  "slug": "old-stickfingers",
+  "group": "扭曲异形",
+  "types": [
+   "horror"
+  ],
+  "profile_rank": 836,
+  "edhrec_rank": 4099,
+  "num_decks": 3204,
+  "type_line": "Legendary Creature — Horror",
+  "color_identity": [
+   "B",
+   "G"
+  ],
+  "cmc": 2.0
+ },
+ {
+  "name": "Balmor, Battlemage Captain",
+  "cmdr_zh": "战巫师队长巴尔莫",
+  "slug": "balmor-battlemage-captain",
+  "group": "可爱小兽",
+  "types": [
+   "bird"
+  ],
+  "profile_rank": 840,
+  "edhrec_rank": 2118,
+  "num_decks": 3194,
+  "type_line": "Legendary Creature — Bird Wizard",
+  "color_identity": [
+   "U",
+   "R"
+  ],
+  "cmc": 2.0
+ },
+ {
+  "name": "Preston, the Vanisher",
+  "cmdr_zh": "",
+  "slug": "preston-the-vanisher",
+  "group": "可爱小兽",
+  "types": [
+   "rabbit"
+  ],
+  "profile_rank": 856,
+  "edhrec_rank": 3884,
+  "num_decks": 3123,
+  "type_line": "Legendary Creature — Rabbit Wizard",
+  "color_identity": [
+   "W"
+  ],
+  "cmc": 4.0
+ },
+ {
+  "name": "Lazav, Dimir Mastermind",
+  "cmdr_zh": "",
+  "slug": "lazav-dimir-mastermind",
+  "group": "扭曲异形",
+  "types": [
+   "shapeshifter"
+  ],
+  "profile_rank": 860,
+  "edhrec_rank": 6941,
+  "num_decks": 3105,
+  "type_line": "Legendary Creature — Shapeshifter",
+  "color_identity": [
+   "U",
+   "B"
+  ],
+  "cmc": 4.0
+ },
+ {
+  "name": "Mishra, Claimed by Gix",
+  "cmdr_zh": "",
+  "slug": "mishra-claimed-by-gix",
+  "group": "扭曲异形",
+  "types": [
+   "phyrexian"
+  ],
+  "profile_rank": 869,
+  "edhrec_rank": 6821,
+  "num_decks": 3029,
+  "type_line": "Legendary Creature — Phyrexian Human Artificer",
+  "color_identity": [
+   "B",
+   "R"
+  ],
+  "cmc": 4.0
+ },
+ {
+  "name": "Mondrak, Glory Dominus",
+  "cmdr_zh": "",
+  "slug": "mondrak-glory-dominus",
+  "group": "扭曲异形",
+  "types": [
+   "horror",
+   "phyrexian"
+  ],
+  "profile_rank": 871,
+  "edhrec_rank": 429,
+  "num_decks": 3023,
+  "type_line": "Legendary Creature — Phyrexian Horror",
+  "color_identity": [
+   "W"
+  ],
+  "cmc": 4.0
+ },
+ {
+  "name": "Red Death, Shipwrecker",
+  "cmdr_zh": "",
+  "slug": "red-death-shipwrecker",
+  "group": "扭曲异形",
+  "types": [
+   "mutant"
+  ],
+  "profile_rank": 898,
+  "edhrec_rank": 6347,
+  "num_decks": 2903,
+  "type_line": "Legendary Creature — Crab Mutant",
+  "color_identity": [
+   "U",
+   "R"
+  ],
+  "cmc": 2.0
+ },
+ {
+  "name": "Lurrus of the Dream-Den",
+  "cmdr_zh": "",
+  "slug": "lurrus-of-the-dream-den",
+  "group": "可爱小兽/扭曲异形",
+  "types": [
+   "cat",
+   "nightmare"
+  ],
+  "profile_rank": 904,
+  "edhrec_rank": 2791,
+  "num_decks": 2872,
+  "type_line": "Legendary Creature — Cat Nightmare",
+  "color_identity": [
+   "W",
+   "B"
+  ],
+  "cmc": 3.0
+ },
+ {
+  "name": "Rona, Herald of Invasion // Rona, Tolarian Obliterator",
+  "cmdr_zh": "",
+  "slug": "rona-herald-of-invasion",
+  "group": "扭曲异形",
+  "types": [
+   "phyrexian"
+  ],
+  "profile_rank": 907,
+  "edhrec_rank": 3494,
+  "num_decks": 2867,
+  "type_line": "Legendary Creature — Human Wizard // Legendary Creature — Phyrexian Wizard",
+  "color_identity": [
+   "U",
+   "B"
+  ],
+  "cmc": 2.0
+ },
+ {
+  "name": "Agent Frank Horrigan",
+  "cmdr_zh": "",
+  "slug": "agent-frank-horrigan",
+  "group": "扭曲异形",
+  "types": [
+   "mutant"
+  ],
+  "profile_rank": 925,
+  "edhrec_rank": 3539,
+  "num_decks": 2782,
+  "type_line": "Legendary Creature — Mutant Warrior",
+  "color_identity": [
+   "B",
+   "G"
+  ],
+  "cmc": 7.0
+ },
+ {
+  "name": "Vannifar, Evolved Enigma",
+  "cmdr_zh": "",
+  "slug": "vannifar-evolved-enigma",
+  "group": "扭曲异形",
+  "types": [
+   "ooze"
+  ],
+  "profile_rank": 934,
+  "edhrec_rank": 8275,
+  "num_decks": 2731,
+  "type_line": "Legendary Creature — Elf Ooze Wizard",
+  "color_identity": [
+   "G",
+   "U"
+  ],
+  "cmc": 4.0
+ },
+ {
+  "name": "Ajani, Nacatl Pariah // Ajani, Nacatl Avenger",
+  "cmdr_zh": "",
+  "slug": "ajani-nacatl-pariah",
+  "group": "可爱小兽",
+  "types": [
+   "cat"
+  ],
+  "profile_rank": 940,
+  "edhrec_rank": 4495,
+  "num_decks": 2702,
+  "type_line": "Legendary Creature — Cat Warrior // Legendary Planeswalker — Ajani",
+  "color_identity": [
+   "R",
+   "W"
+  ],
+  "cmc": 2.0
+ },
+ {
+  "name": "Dark Leo & Shredder",
+  "cmdr_zh": "",
+  "slug": "dark-leo-shredder",
+  "group": "可爱小兽/扭曲异形",
+  "types": [
+   "mutant",
+   "turtle"
+  ],
+  "profile_rank": 942,
+  "edhrec_rank": 8356,
+  "num_decks": 2698,
+  "type_line": "Legendary Creature — Mutant Ninja Turtle Human",
+  "color_identity": [
+   "W",
+   "B"
+  ],
+  "cmc": 2.0
+ },
+ {
+  "name": "Dragonhawk, Fate's Tempest",
+  "cmdr_zh": "",
+  "slug": "dragonhawk-fates-tempest",
+  "group": "可爱小兽",
+  "types": [
+   "bird"
+  ],
+  "profile_rank": 949,
+  "edhrec_rank": 2224,
+  "num_decks": 2674,
+  "type_line": "Legendary Creature — Bird Dragon",
+  "color_identity": [
+   "R"
+  ],
+  "cmc": 5.0
+ },
+ {
+  "name": "Liberator, Urza's Battlethopter",
+  "cmdr_zh": "",
+  "slug": "liberator-urzas-battlethopter",
+  "group": "机械构装",
+  "types": [
+   "thopter"
+  ],
+  "profile_rank": 950,
+  "edhrec_rank": 1251,
+  "num_decks": 2672,
+  "type_line": "Legendary Artifact Creature — Thopter",
+  "color_identity": [],
+  "cmc": 3.0
+ },
+ {
+  "name": "Zirda, the Dawnwaker",
+  "cmdr_zh": "熠晓灵狐泽尔达",
+  "slug": "zirda-the-dawnwaker",
+  "group": "可爱小兽",
+  "types": [
+   "fox"
+  ],
+  "profile_rank": 952,
+  "edhrec_rank": 3317,
+  "num_decks": 2671,
+  "type_line": "Legendary Creature — Elemental Fox",
+  "color_identity": [
+   "R",
+   "W"
+  ],
+  "cmc": 3.0
+ },
+ {
+  "name": "Yorion, Sky Nomad",
+  "cmdr_zh": "",
+  "slug": "yorion-sky-nomad",
+  "group": "可爱小兽",
+  "types": [
+   "bird"
+  ],
+  "profile_rank": 960,
+  "edhrec_rank": 4547,
+  "num_decks": 2642,
+  "type_line": "Legendary Creature — Bird Serpent",
+  "color_identity": [
+   "W",
+   "U"
+  ],
+  "cmc": 5.0
+ },
+ {
+  "name": "Y'shtola Rhul",
+  "cmdr_zh": "",
+  "slug": "yshtola-rhul",
+  "group": "可爱小兽",
+  "types": [
+   "cat"
+  ],
+  "profile_rank": 973,
+  "edhrec_rank": 2486,
+  "num_decks": 2570,
+  "type_line": "Legendary Creature — Cat Druid",
+  "color_identity": [
+   "U"
+  ],
+  "cmc": 6.0
+ },
+ {
+  "name": "Alibou, Ancient Witness",
+  "cmdr_zh": "",
+  "slug": "alibou-ancient-witness",
+  "group": "机械构装",
+  "types": [
+   "golem"
+  ],
+  "profile_rank": 984,
+  "edhrec_rank": 2416,
+  "num_decks": 2521,
+  "type_line": "Legendary Artifact Creature — Golem",
+  "color_identity": [
+   "R",
+   "W"
+  ],
+  "cmc": 5.0
+ },
+ {
+  "name": "Glissa Sunslayer",
+  "cmdr_zh": "戮日者格莉莎",
+  "slug": "glissa-sunslayer",
+  "group": "扭曲异形",
+  "types": [
+   "phyrexian"
+  ],
+  "profile_rank": 995,
+  "edhrec_rank": 1375,
+  "num_decks": 2497,
+  "type_line": "Legendary Creature — Phyrexian Zombie Elf",
+  "color_identity": [
+   "B",
+   "G"
+  ],
+  "cmc": 3.0
+ },
+ {
+  "name": "Tekuthal, Inquiry Dominus",
+  "cmdr_zh": "求知圣主特库索",
+  "slug": "tekuthal-inquiry-dominus",
+  "group": "扭曲异形",
+  "types": [
+   "horror",
+   "phyrexian"
+  ],
+  "profile_rank": 1004,
+  "edhrec_rank": 1191,
+  "num_decks": 2480,
+  "type_line": "Legendary Creature — Phyrexian Horror",
+  "color_identity": [
+   "U"
+  ],
+  "cmc": 4.0
+ },
+ {
+  "name": "Soul of Windgrace",
+  "cmdr_zh": "",
+  "slug": "soul-of-windgrace",
+  "group": "可爱小兽",
+  "types": [
+   "cat"
+  ],
+  "profile_rank": 1006,
+  "edhrec_rank": 5210,
+  "num_decks": 2471,
+  "type_line": "Legendary Creature — Cat Avatar",
+  "color_identity": [
+   "B",
+   "R",
+   "G"
+  ],
+  "cmc": 4.0
+ },
+ {
+  "name": "The Goose Mother",
+  "cmdr_zh": "",
+  "slug": "the-goose-mother",
+  "group": "可爱小兽",
+  "types": [
+   "bird"
+  ],
+  "profile_rank": 1012,
+  "edhrec_rank": 2955,
+  "num_decks": 2446,
+  "type_line": "Legendary Creature — Bird Hydra",
+  "color_identity": [
+   "G",
+   "U"
+  ],
+  "cmc": 2.0
+ },
+ {
+  "name": "Toski, Bearer of Secrets",
+  "cmdr_zh": "密讯信使托斯奇",
+  "slug": "toski-bearer-of-secrets",
+  "group": "可爱小兽",
+  "types": [
+   "squirrel"
+  ],
+  "profile_rank": 1016,
+  "edhrec_rank": 388,
+  "num_decks": 2437,
+  "type_line": "Legendary Creature — Squirrel",
+  "color_identity": [
+   "G"
+  ],
+  "cmc": 4.0
+ },
+ {
+  "name": "Abomination of Llanowar",
+  "cmdr_zh": "",
+  "slug": "abomination-of-llanowar",
+  "group": "扭曲异形",
+  "types": [
+   "horror"
+  ],
+  "profile_rank": 1035,
+  "edhrec_rank": 4975,
+  "num_decks": 2368,
+  "type_line": "Legendary Creature — Elf Horror",
+  "color_identity": [
+   "B",
+   "G"
+  ],
+  "cmc": 3.0
+ },
+ {
+  "name": "Traxos, Scourge of Kroog",
+  "cmdr_zh": "萼城劫运刹索斯",
+  "slug": "traxos-scourge-of-kroog",
+  "group": "机械构装",
+  "types": [
+   "construct"
+  ],
+  "profile_rank": 1044,
+  "edhrec_rank": 3943,
+  "num_decks": 2353,
+  "type_line": "Legendary Artifact Creature — Dragon Construct",
+  "color_identity": [],
+  "cmc": 4.0
+ },
+ {
+  "name": "Pearl-Ear, Imperial Advisor",
+  "cmdr_zh": "皇室谏臣珠耳",
+  "slug": "pearl-ear-imperial-advisor",
+  "group": "可爱小兽",
+  "types": [
+   "fox"
+  ],
+  "profile_rank": 1048,
+  "edhrec_rank": 2084,
+  "num_decks": 2343,
+  "type_line": "Legendary Creature — Fox Advisor",
+  "color_identity": [
+   "W"
+  ],
+  "cmc": 3.0
+ },
+ {
+  "name": "Skrelv, Defector Mite",
+  "cmdr_zh": "叛逃虫械斯勒夫",
+  "slug": "skrelv-defector-mite",
+  "group": "扭曲异形",
+  "types": [
+   "phyrexian"
+  ],
+  "profile_rank": 1068,
+  "edhrec_rank": 1124,
+  "num_decks": 2250,
+  "type_line": "Legendary Artifact Creature — Phyrexian Mite",
+  "color_identity": [
+   "W"
+  ],
+  "cmc": 1.0
+ },
+ {
+  "name": "Mirri, Weatherlight Duelist",
+  "cmdr_zh": "晴空号斗士米丽",
+  "slug": "mirri-weatherlight-duelist",
+  "group": "可爱小兽",
+  "types": [
+   "cat"
+  ],
+  "profile_rank": 1070,
+  "edhrec_rank": 2666,
+  "num_decks": 2246,
+  "type_line": "Legendary Creature — Cat Warrior",
+  "color_identity": [
+   "G",
+   "W"
+  ],
+  "cmc": 3.0
+ },
+ {
+  "name": "Kangee, Sky Warden",
+  "cmdr_zh": "护天坎鴶",
+  "slug": "kangee-sky-warden",
+  "group": "可爱小兽",
+  "types": [
+   "bird"
+  ],
+  "profile_rank": 1071,
+  "edhrec_rank": 5562,
+  "num_decks": 2246,
+  "type_line": "Legendary Creature — Bird Wizard",
+  "color_identity": [
+   "W",
+   "U"
+  ],
+  "cmc": 5.0
+ },
+ {
+  "name": "Gorma, the Gullet",
+  "cmdr_zh": "",
+  "slug": "gorma-the-gullet",
+  "group": "可爱小兽",
+  "types": [
+   "frog"
+  ],
+  "profile_rank": 1087,
+  "edhrec_rank": 7384,
+  "num_decks": 2214,
+  "type_line": "Legendary Creature — Pest Frog",
+  "color_identity": [
+   "B",
+   "G"
+  ],
+  "cmc": 3.0
+ },
+ {
+  "name": "Scriv, the Obligator",
+  "cmdr_zh": "",
+  "slug": "scriv-the-obligator",
+  "group": "可爱小兽",
+  "types": [
+   "bird"
+  ],
+  "profile_rank": 1095,
+  "edhrec_rank": 7793,
+  "num_decks": 2198,
+  "type_line": "Legendary Creature — Inkling Bird",
+  "color_identity": [
+   "W",
+   "B"
+  ],
+  "cmc": 4.0
+ },
+ {
+  "name": "Gollum, Obsessed Stalker",
+  "cmdr_zh": "",
+  "slug": "gollum-obsessed-stalker",
+  "group": "扭曲异形",
+  "types": [
+   "horror"
+  ],
+  "profile_rank": 1156,
+  "edhrec_rank": 5076,
+  "num_decks": 2004,
+  "type_line": "Legendary Creature — Halfling Horror",
+  "color_identity": [
+   "B"
+  ],
+  "cmc": 2.0
+ },
+ {
+  "name": "Wan Shi Tong, Librarian",
+  "cmdr_zh": "",
+  "slug": "wan-shi-tong-librarian",
+  "group": "可爱小兽",
+  "types": [
+   "bird"
+  ],
+  "profile_rank": 1160,
+  "edhrec_rank": 1242,
+  "num_decks": 1988,
+  "type_line": "Legendary Creature — Bird Spirit",
+  "color_identity": [
+   "U"
+  ],
+  "cmc": 2.0
+ },
+ {
+  "name": "Jin-Gitaxias, Progress Tyrant",
+  "cmdr_zh": "",
+  "slug": "jin-gitaxias-progress-tyrant",
+  "group": "扭曲异形",
+  "types": [
+   "phyrexian"
+  ],
+  "profile_rank": 1168,
+  "edhrec_rank": 1734,
+  "num_decks": 1968,
+  "type_line": "Legendary Creature — Phyrexian Praetor",
+  "color_identity": [
+   "U"
+  ],
+  "cmc": 7.0
+ },
+ {
+  "name": "Ezuri, Stalker of Spheres",
+  "cmdr_zh": "狱界行者伊祖黎",
+  "slug": "ezuri-stalker-of-spheres",
+  "group": "扭曲异形",
+  "types": [
+   "phyrexian"
+  ],
+  "profile_rank": 1182,
+  "edhrec_rank": 3261,
+  "num_decks": 1935,
+  "type_line": "Legendary Creature — Phyrexian Elf Warrior",
+  "color_identity": [
+   "G",
+   "U"
+  ],
+  "cmc": 4.0
+ },
+ {
+  "name": "Moseo, Vein's New Dean",
+  "cmdr_zh": "",
+  "slug": "moseo-veins-new-dean",
+  "group": "可爱小兽",
+  "types": [
+   "bird"
+  ],
+  "profile_rank": 1184,
+  "edhrec_rank": 4212,
+  "num_decks": 1930,
+  "type_line": "Legendary Creature — Bird Skeleton Warlock",
+  "color_identity": [
+   "B"
+  ],
+  "cmc": 3.0
+ },
+ {
+  "name": "Prime Speaker Vannifar",
+  "cmdr_zh": "",
+  "slug": "prime-speaker-vannifar",
+  "group": "扭曲异形",
+  "types": [
+   "ooze"
+  ],
+  "profile_rank": 1194,
+  "edhrec_rank": 7318,
+  "num_decks": 1908,
+  "type_line": "Legendary Creature — Elf Ooze Wizard",
+  "color_identity": [
+   "G",
+   "U"
+  ],
+  "cmc": 4.0
+ },
+ {
+  "name": "Elesh Norn, Grand Cenobite",
+  "cmdr_zh": "大修道士艾蕾侬",
+  "slug": "elesh-norn-grand-cenobite",
+  "group": "扭曲异形",
+  "types": [
+   "phyrexian"
+  ],
+  "profile_rank": 1203,
+  "edhrec_rank": 858,
+  "num_decks": 1885,
+  "type_line": "Legendary Creature — Phyrexian Praetor",
+  "color_identity": [
+   "W"
+  ],
+  "cmc": 7.0
+ },
+ {
+  "name": "Teshar, Ancestor's Apostle",
+  "cmdr_zh": "",
+  "slug": "teshar-ancestors-apostle",
+  "group": "可爱小兽",
+  "types": [
+   "bird"
+  ],
+  "profile_rank": 1222,
+  "edhrec_rank": 1941,
+  "num_decks": 1837,
+  "type_line": "Legendary Creature — Bird Cleric",
+  "color_identity": [
+   "W"
+  ],
+  "cmc": 4.0
+ },
+ {
+  "name": "Brokkos, Apex of Forever",
+  "cmdr_zh": "",
+  "slug": "brokkos-apex-of-forever",
+  "group": "扭曲异形",
+  "types": [
+   "nightmare"
+  ],
+  "profile_rank": 1226,
+  "edhrec_rank": 8119,
+  "num_decks": 1829,
+  "type_line": "Legendary Creature — Nightmare Beast Elemental",
+  "color_identity": [
+   "B",
+   "G",
+   "U"
+  ],
+  "cmc": 5.0
+ },
+ {
+  "name": "Starscream, Power Hungry // Starscream, Seeker Leader",
+  "cmdr_zh": "",
+  "slug": "starscream-power-hungry",
+  "group": "机械构装",
+  "types": [
+   "robot",
+   "vehicle"
+  ],
+  "profile_rank": 1258,
+  "edhrec_rank": 6780,
+  "num_decks": 1730,
+  "type_line": "Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle",
+  "color_identity": [
+   "B"
+  ],
+  "cmc": 4.0
+ },
+ {
+  "name": "The Reality Chip",
+  "cmdr_zh": "实界晶片",
+  "slug": "the-reality-chip",
+  "group": "机械构装",
+  "types": [
+   "jellyfish"
+  ],
+  "profile_rank": 1269,
+  "edhrec_rank": 1078,
+  "num_decks": 1700,
+  "type_line": "Legendary Artifact Creature — Equipment Jellyfish",
+  "color_identity": [
+   "U"
+  ],
+  "cmc": 2.0
+ },
+ {
+  "name": "Rune-Tail, Kitsune Ascendant // Rune-Tail's Essence",
+  "cmdr_zh": "",
+  "slug": "rune-tail-kitsune-ascendant",
+  "group": "可爱小兽",
+  "types": [
+   "fox"
+  ],
+  "profile_rank": 1275,
+  "edhrec_rank": 7570,
+  "num_decks": 1692,
+  "type_line": "Legendary Creature — Fox Monk // Legendary Enchantment",
+  "color_identity": [
+   "W"
+  ],
+  "cmc": 3.0
+ },
+ {
+  "name": "Vohar, Vodalian Desecrator",
+  "cmdr_zh": "",
+  "slug": "vohar-vodalian-desecrator",
+  "group": "扭曲异形",
+  "types": [
+   "phyrexian"
+  ],
+  "profile_rank": 1283,
+  "edhrec_rank": 3905,
+  "num_decks": 1673,
+  "type_line": "Legendary Creature — Phyrexian Merfolk Wizard",
+  "color_identity": [
+   "U",
+   "B"
+  ],
+  "cmc": 2.0
+ },
+ {
+  "name": "Byrke, Long Ear of the Law",
+  "cmdr_zh": "法耳恢恢包尔克",
+  "slug": "byrke-long-ear-of-the-law",
+  "group": "可爱小兽",
+  "types": [
+   "rabbit"
+  ],
+  "profile_rank": 1284,
+  "edhrec_rank": 5995,
+  "num_decks": 1669,
+  "type_line": "Legendary Creature — Rabbit Soldier",
+  "color_identity": [
+   "G",
+   "W"
+  ],
+  "cmc": 6.0
+ },
+ {
+  "name": "Eight-and-a-Half-Tails",
+  "cmdr_zh": "",
+  "slug": "eight-and-a-half-tails",
+  "group": "可爱小兽",
+  "types": [
+   "fox"
+  ],
+  "profile_rank": 1296,
+  "edhrec_rank": 8255,
+  "num_decks": 1642,
+  "type_line": "Legendary Creature — Fox Cleric",
+  "color_identity": [
+   "W"
+  ],
+  "cmc": 2.0
+ },
+ {
+  "name": "Ulamog, the Defiler",
+  "cmdr_zh": "渎界秽体钨拉莫",
+  "slug": "ulamog-the-defiler",
+  "group": "扭曲异形",
+  "types": [
+   "eldrazi"
+  ],
+  "profile_rank": 1297,
+  "edhrec_rank": 1568,
+  "num_decks": 1636,
+  "type_line": "Legendary Creature — Eldrazi",
+  "color_identity": [],
+  "cmc": 10.0
+ },
+ {
+  "name": "Sheoldred // The True Scriptures",
+  "cmdr_zh": "",
+  "slug": "sheoldred",
+  "group": "扭曲异形",
+  "types": [
+   "phyrexian"
+  ],
+  "profile_rank": 1301,
+  "edhrec_rank": 2005,
+  "num_decks": 1626,
+  "type_line": "Legendary Creature — Phyrexian Praetor // Enchantment — Saga",
+  "color_identity": [
+   "B"
+  ],
+  "cmc": 5.0
+ },
+ {
+  "name": "Bruna, the Fading Light",
+  "cmdr_zh": "",
+  "slug": "bruna-the-fading-light",
+  "group": "扭曲异形",
+  "types": [
+   "horror"
+  ],
+  "profile_rank": 1315,
+  "edhrec_rank": 2422,
+  "num_decks": 1583,
+  "type_line": "Legendary Creature — Angel Horror",
+  "color_identity": [
+   "W"
+  ],
+  "cmc": 7.0
+ },
+ {
+  "name": "Vorinclex // The Grand Evolution",
+  "cmdr_zh": "",
+  "slug": "vorinclex",
+  "group": "扭曲异形",
+  "types": [
+   "phyrexian"
+  ],
+  "profile_rank": 1330,
+  "edhrec_rank": 3292,
+  "num_decks": 1554,
+  "type_line": "Legendary Creature — Phyrexian Praetor // Enchantment — Saga",
+  "color_identity": [
+   "G"
+  ],
+  "cmc": 5.0
+ },
+ {
+  "name": "Ayara, Widow of the Realm // Ayara, Furnace Queen",
+  "cmdr_zh": "",
+  "slug": "ayara-widow-of-the-realm",
+  "group": "扭曲异形",
+  "types": [
+   "phyrexian"
+  ],
+  "profile_rank": 1337,
+  "edhrec_rank": 7218,
+  "num_decks": 1535,
+  "type_line": "Legendary Creature — Elf Noble // Legendary Creature — Phyrexian Elf Noble",
+  "color_identity": [
+   "B",
+   "R"
+  ],
+  "cmc": 3.0
+ },
+ {
+  "name": "The Swarmweaver",
+  "cmdr_zh": "",
+  "slug": "the-swarmweaver",
+  "group": "机械构装",
+  "types": [
+   "scarecrow"
+  ],
+  "profile_rank": 1359,
+  "edhrec_rank": 6123,
+  "num_decks": 1497,
+  "type_line": "Legendary Artifact Creature — Scarecrow",
+  "color_identity": [
+   "B",
+   "G"
+  ],
+  "cmc": 4.0
+ },
+ {
+  "name": "Runadi, Behemoth Caller",
+  "cmdr_zh": "",
+  "slug": "runadi-behemoth-caller",
+  "group": "可爱小兽",
+  "types": [
+   "cat"
+  ],
+  "profile_rank": 1386,
+  "edhrec_rank": 7784,
+  "num_decks": 1467,
+  "type_line": "Legendary Creature — Cat Shaman",
+  "color_identity": [
+   "G"
+  ],
+  "cmc": 3.0
+ },
+ {
+  "name": "The Odd Acorn Gang",
+  "cmdr_zh": "怪橡果帮",
+  "slug": "the-odd-acorn-gang",
+  "group": "可爱小兽",
+  "types": [
+   "squirrel"
+  ],
+  "profile_rank": 1387,
+  "edhrec_rank": 4673,
+  "num_decks": 1458,
+  "type_line": "Legendary Creature — Squirrel Warrior",
+  "color_identity": [
+   "B",
+   "G"
+  ],
+  "cmc": 5.0
+ },
+ {
+  "name": "Hugs, Grisly Guardian",
+  "cmdr_zh": "",
+  "slug": "hugs-grisly-guardian",
+  "group": "可爱小兽",
+  "types": [
+   "badger"
+  ],
+  "profile_rank": 1411,
+  "edhrec_rank": 5129,
+  "num_decks": 1394,
+  "type_line": "Legendary Creature — Badger Warrior",
+  "color_identity": [
+   "R",
+   "G"
+  ],
+  "cmc": 4.0
+ },
+ {
+  "name": "Krang, Utrom Warlord",
+  "cmdr_zh": "乌创军阀克朗",
+  "slug": "krang-utrom-warlord",
+  "group": "机械构装",
+  "types": [
+   "robot"
+  ],
+  "profile_rank": 1419,
+  "edhrec_rank": 3373,
+  "num_decks": 1370,
+  "type_line": "Legendary Artifact Creature — Utrom Robot",
+  "color_identity": [],
+  "cmc": 9.0
+ },
+ {
+  "name": "Yes Man, Personal Securitron",
+  "cmdr_zh": "",
+  "slug": "yes-man-personal-securitron",
+  "group": "机械构装",
+  "types": [
+   "robot"
+  ],
+  "profile_rank": 1454,
+  "edhrec_rank": 3820,
+  "num_decks": 1322,
+  "type_line": "Legendary Artifact Creature — Robot",
+  "color_identity": [
+   "W"
+  ],
+  "cmc": 3.0
+ },
+ {
+  "name": "RMS Titanic",
+  "cmdr_zh": "",
+  "slug": "rms-titanic",
+  "group": "机械构装",
+  "types": [
+   "vehicle"
+  ],
+  "profile_rank": 1498,
+  "edhrec_rank": 4606,
+  "num_decks": 1255,
+  "type_line": "Legendary Artifact — Vehicle",
+  "color_identity": [
+   "R"
+  ],
+  "cmc": 4.0
+ },
+ {
+  "name": "Sheoldred, Whispering One",
+  "cmdr_zh": "",
+  "slug": "sheoldred-whispering-one",
+  "group": "扭曲异形",
+  "types": [
+   "phyrexian"
+  ],
+  "profile_rank": 1501,
+  "edhrec_rank": 725,
+  "num_decks": 1246,
+  "type_line": "Legendary Creature — Phyrexian Praetor",
+  "color_identity": [
+   "B"
+  ],
+  "cmc": 7.0
+ },
+ {
+  "name": "Cosima, God of the Voyage // The Omenkeel",
+  "cmdr_zh": "",
+  "slug": "cosima-god-of-the-voyage",
+  "group": "机械构装",
+  "types": [
+   "vehicle"
+  ],
+  "profile_rank": 1505,
+  "edhrec_rank": 5372,
+  "num_decks": 1240,
+  "type_line": "Legendary Creature — God // Legendary Artifact — Vehicle",
+  "color_identity": [
+   "U"
+  ],
+  "cmc": 3.0
+ },
+ {
+  "name": "Drivnod, Carnage Dominus",
+  "cmdr_zh": "",
+  "slug": "drivnod-carnage-dominus",
+  "group": "扭曲异形",
+  "types": [
+   "horror",
+   "phyrexian"
+  ],
+  "profile_rank": 1507,
+  "edhrec_rank": 1882,
+  "num_decks": 1239,
+  "type_line": "Legendary Creature — Phyrexian Horror",
+  "color_identity": [
+   "B"
+  ],
+  "cmc": 5.0
+ },
+ {
+  "name": "Moritte of the Frost",
+  "cmdr_zh": "",
+  "slug": "moritte-of-the-frost",
+  "group": "扭曲异形",
+  "types": [
+   "shapeshifter"
+  ],
+  "profile_rank": 1520,
+  "edhrec_rank": 6390,
+  "num_decks": 1227,
+  "type_line": "Legendary Snow Creature — Shapeshifter",
+  "color_identity": [
+   "G",
+   "U"
+  ],
+  "cmc": 5.0
+ },
+ {
+  "name": "Arvinox, the Mind Flail",
+  "cmdr_zh": "",
+  "slug": "arvinox-the-mind-flail",
+  "group": "扭曲异形",
+  "types": [
+   "horror"
+  ],
+  "profile_rank": 1524,
+  "edhrec_rank": 4951,
+  "num_decks": 1218,
+  "type_line": "Legendary Enchantment Creature — Horror",
+  "color_identity": [
+   "B"
+  ],
+  "cmc": 7.0
+ },
+ {
+  "name": "Vega, the Watcher",
+  "cmdr_zh": "灵枭看守维嘉",
+  "slug": "vega-the-watcher",
+  "group": "可爱小兽",
+  "types": [
+   "bird"
+  ],
+  "profile_rank": 1543,
+  "edhrec_rank": 2634,
+  "num_decks": 1194,
+  "type_line": "Legendary Creature — Bird Spirit",
+  "color_identity": [
+   "W",
+   "U"
+  ],
+  "cmc": 3.0
+ },
+ {
+  "name": "The Regalia",
+  "cmdr_zh": "",
+  "slug": "the-regalia",
+  "group": "机械构装",
+  "types": [
+   "vehicle"
+  ],
+  "profile_rank": 1589,
+  "edhrec_rank": 2454,
+  "num_decks": 1115,
+  "type_line": "Legendary Artifact — Vehicle",
+  "color_identity": [],
+  "cmc": 4.0
+ }
+]

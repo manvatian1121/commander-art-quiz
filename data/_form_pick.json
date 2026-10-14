@@ -1,0 +1,866 @@
+[
+ {
+  "name": "Atraxa, Grand Unifier",
+  "cmdr_zh": "大一统飞将亚崔夏",
+  "group": "扭曲异形",
+  "profile_rank": 104,
+  "color_identity": [
+   "G",
+   "W",
+   "U",
+   "B"
+  ],
+  "type_line": "Legendary Creature — Phyrexian Angel",
+  "types": [
+   "phyrexian"
+  ],
+  "num_decks": 17587
+ },
+ {
+  "name": "Deadpool, Trading Card",
+  "cmdr_zh": "集换卡牌死侍",
+  "group": "扭曲异形",
+  "profile_rank": 105,
+  "color_identity": [
+   "B",
+   "R"
+  ],
+  "type_line": "Legendary Creature — Mutant Mercenary Hero",
+  "types": [
+   "mutant"
+  ],
+  "num_decks": 17452
+ },
+ {
+  "name": "Etali, Primal Conqueror // Etali, Primal Sickness",
+  "cmdr_zh": "始霸埃泰力",
+  "group": "扭曲异形",
+  "profile_rank": 107,
+  "color_identity": [
+   "R",
+   "G"
+  ],
+  "type_line": "Legendary Creature — Elder Dinosaur // Legendary Creature — Phyrexian Elder Dinosaur",
+  "types": [
+   "phyrexian"
+  ],
+  "num_decks": 17290
+ },
+ {
+  "name": "Mendicant Core, Guidelight",
+  "cmdr_zh": "循光械济缘核心",
+  "group": "机械构装",
+  "profile_rank": 109,
+  "color_identity": [
+   "W",
+   "U"
+  ],
+  "type_line": "Legendary Artifact Creature — Robot",
+  "types": [
+   "robot"
+  ],
+  "num_decks": 17158
+ },
+ {
+  "name": "Storm, Force of Nature",
+  "cmdr_zh": "自然之力暴风女",
+  "group": "扭曲异形",
+  "profile_rank": 114,
+  "color_identity": [
+   "G",
+   "U",
+   "R"
+  ],
+  "type_line": "Legendary Creature — Mutant Hero",
+  "types": [
+   "mutant"
+  ],
+  "num_decks": 16671
+ },
+ {
+  "name": "Morophon, the Boundless",
+  "cmdr_zh": "无形莫洛丰",
+  "group": "扭曲异形",
+  "profile_rank": 115,
+  "color_identity": [
+   "W",
+   "U",
+   "B",
+   "R",
+   "G"
+  ],
+  "type_line": "Legendary Creature — Shapeshifter",
+  "types": [
+   "shapeshifter"
+  ],
+  "num_decks": 16381
+ },
+ {
+  "name": "Omnath, Locus of All",
+  "cmdr_zh": "万物核欧那斯",
+  "group": "扭曲异形",
+  "profile_rank": 137,
+  "color_identity": [
+   "W",
+   "U",
+   "B",
+   "R",
+   "G"
+  ],
+  "type_line": "Legendary Creature — Phyrexian Elemental",
+  "types": [
+   "phyrexian"
+  ],
+  "num_decks": 14428
+ },
+ {
+  "name": "Kykar, Wind's Fury",
+  "cmdr_zh": "狂风怒火凯卡",
+  "group": "可爱小兽",
+  "profile_rank": 139,
+  "color_identity": [
+   "U",
+   "R",
+   "W"
+  ],
+  "type_line": "Legendary Creature — Bird Wizard",
+  "types": [
+   "bird"
+  ],
+  "num_decks": 14403
+ },
+ {
+  "name": "Azlask, the Swelling Scourge",
+  "cmdr_zh": "翻涌灾祸兹拉克",
+  "group": "扭曲异形",
+  "profile_rank": 153,
+  "color_identity": [
+   "W",
+   "U",
+   "B",
+   "R",
+   "G"
+  ],
+  "type_line": "Legendary Creature — Eldrazi",
+  "types": [
+   "eldrazi"
+  ],
+  "num_decks": 13815
+ },
+ {
+  "name": "Yarok, the Desecrated",
+  "cmdr_zh": "秽灵雅若克",
+  "group": "扭曲异形",
+  "profile_rank": 163,
+  "color_identity": [
+   "B",
+   "G",
+   "U"
+  ],
+  "type_line": "Legendary Creature — Elemental Horror",
+  "types": [
+   "horror"
+  ],
+  "num_decks": 13295
+ },
+ {
+  "name": "Omo, Queen of Vesuva",
+  "cmdr_zh": "维苏瓦女皇欧茉",
+  "group": "扭曲异形",
+  "profile_rank": 164,
+  "color_identity": [
+   "G",
+   "U"
+  ],
+  "type_line": "Legendary Creature — Shapeshifter Noble",
+  "types": [
+   "shapeshifter"
+  ],
+  "num_decks": 13282
+ },
+ {
+  "name": "Wolverine, Best There Is",
+  "cmdr_zh": "全力出战金刚狼",
+  "group": "扭曲异形",
+  "profile_rank": 168,
+  "color_identity": [
+   "R",
+   "G"
+  ],
+  "type_line": "Legendary Creature — Mutant Berserker Hero",
+  "types": [
+   "mutant"
+  ],
+  "num_decks": 13074
+ },
+ {
+  "name": "Rendmaw, Creaking Nest",
+  "cmdr_zh": "嘎响草窝裂口",
+  "group": "机械构装",
+  "profile_rank": 178,
+  "color_identity": [
+   "B",
+   "G"
+  ],
+  "type_line": "Legendary Artifact Creature — Scarecrow",
+  "types": [
+   "scarecrow"
+  ],
+  "num_decks": 12645
+ },
+ {
+  "name": "Light-Paws, Emperor's Voice",
+  "cmdr_zh": "帝皇玉音轻脚",
+  "group": "可爱小兽",
+  "profile_rank": 182,
+  "color_identity": [
+   "W"
+  ],
+  "type_line": "Legendary Creature — Fox Advisor",
+  "types": [
+   "fox"
+  ],
+  "num_decks": 12449
+ },
+ {
+  "name": "Hazel of the Rootbloom",
+  "cmdr_zh": "繁根教的哈珠儿",
+  "group": "可爱小兽",
+  "profile_rank": 185,
+  "color_identity": [
+   "B",
+   "G"
+  ],
+  "type_line": "Legendary Creature — Squirrel Druid",
+  "types": [
+   "squirrel"
+  ],
+  "num_decks": 12334
+ },
+ {
+  "name": "The Mindskinner",
+  "cmdr_zh": "剥忆惧魇",
+  "group": "扭曲异形",
+  "profile_rank": 188,
+  "color_identity": [
+   "U"
+  ],
+  "type_line": "Legendary Enchantment Creature — Nightmare",
+  "types": [
+   "nightmare"
+  ],
+  "num_decks": 12245
+ },
+ {
+  "name": "Sheoldred, the Apocalypse",
+  "cmdr_zh": "启示天灾希欧蕊",
+  "group": "扭曲异形",
+  "profile_rank": 191,
+  "color_identity": [
+   "B"
+  ],
+  "type_line": "Legendary Creature — Phyrexian Praetor",
+  "types": [
+   "phyrexian"
+  ],
+  "num_decks": 12161
+ },
+ {
+  "name": "Arahbo, Roar of the World",
+  "cmdr_zh": "震世吼阿拉博",
+  "group": "可爱小兽",
+  "profile_rank": 196,
+  "color_identity": [
+   "G",
+   "W"
+  ],
+  "type_line": "Legendary Creature — Cat Avatar",
+  "types": [
+   "cat"
+  ],
+  "num_decks": 11925
+ },
+ {
+  "name": "Thalia and The Gitrog Monster",
+  "cmdr_zh": "莎利雅与噬人蛙怪",
+  "group": "可爱小兽/扭曲异形",
+  "profile_rank": 197,
+  "color_identity": [
+   "W",
+   "B",
+   "G"
+  ],
+  "type_line": "Legendary Creature — Human Frog Horror",
+  "types": [
+   "frog",
+   "horror"
+  ],
+  "num_decks": 11877
+ },
+ {
+  "name": "Derevi, Empyrial Tactician",
+  "cmdr_zh": "穹光策士德蕾薇",
+  "group": "可爱小兽",
+  "profile_rank": 198,
+  "color_identity": [
+   "G",
+   "W",
+   "U"
+  ],
+  "type_line": "Legendary Creature — Bird Wizard",
+  "types": [
+   "bird"
+  ],
+  "num_decks": 11823
+ },
+ {
+  "name": "Ovika, Enigma Goliath",
+  "cmdr_zh": "谜样巨身兽欧威卡",
+  "group": "扭曲异形",
+  "profile_rank": 201,
+  "color_identity": [
+   "U",
+   "R"
+  ],
+  "type_line": "Legendary Creature — Phyrexian Nightmare",
+  "types": [
+   "nightmare",
+   "phyrexian"
+  ],
+  "num_decks": 11674
+ },
+ {
+  "name": "Reaper King",
+  "cmdr_zh": "夺命王者",
+  "group": "机械构装",
+  "profile_rank": 281,
+  "color_identity": [
+   "W",
+   "U",
+   "B",
+   "R",
+   "G"
+  ],
+  "type_line": "Legendary Artifact Creature — Scarecrow",
+  "types": [
+   "scarecrow"
+  ],
+  "num_decks": 9231
+ },
+ {
+  "name": "Gluntch, the Bestower",
+  "cmdr_zh": "遣施怪古朗奇",
+  "group": "机械构装",
+  "profile_rank": 347,
+  "color_identity": [
+   "G",
+   "W"
+  ],
+  "type_line": "Legendary Creature — Jellyfish",
+  "types": [
+   "jellyfish"
+  ],
+  "num_decks": 7889
+ },
+ {
+  "name": "The Gitrog, Ravenous Ride",
+  "cmdr_zh": "血口坐骑噬人蛙怪",
+  "group": "可爱小兽",
+  "profile_rank": 359,
+  "color_identity": [
+   "B",
+   "G"
+  ],
+  "type_line": "Legendary Creature — Frog Horror Mount",
+  "types": [
+   "frog"
+  ],
+  "num_decks": 7706,
+  "pure_animal": true
+ },
+ {
+  "name": "Nethroi, Apex of Death",
+  "cmdr_zh": "夺命霸狮涅司罗",
+  "group": "可爱小兽",
+  "profile_rank": 361,
+  "color_identity": [
+   "W",
+   "B",
+   "G"
+  ],
+  "type_line": "Legendary Creature — Cat Nightmare Beast",
+  "types": [
+   "cat"
+  ],
+  "num_decks": 7690,
+  "pure_animal": true
+ },
+ {
+  "name": "Grolnok, the Omnivore",
+  "cmdr_zh": "全能噬蛙葛诺克",
+  "group": "可爱小兽",
+  "profile_rank": 387,
+  "color_identity": [
+   "G",
+   "U"
+  ],
+  "type_line": "Legendary Creature — Frog",
+  "types": [
+   "frog"
+  ],
+  "num_decks": 7268,
+  "pure_animal": true
+ },
+ {
+  "name": "Maha, Its Feathers Night",
+  "cmdr_zh": "蔽夜飞羽玛哈",
+  "group": "可爱小兽",
+  "profile_rank": 449,
+  "color_identity": [
+   "B"
+  ],
+  "type_line": "Legendary Creature — Elemental Bird",
+  "types": [
+   "bird"
+  ],
+  "num_decks": 6521,
+  "pure_animal": true
+ },
+ {
+  "name": "Karn, Legacy Reforged",
+  "cmdr_zh": "神兵重铸卡恩",
+  "group": "机械构装",
+  "profile_rank": 456,
+  "color_identity": [],
+  "type_line": "Legendary Artifact Creature — Golem",
+  "types": [
+   "golem"
+  ],
+  "num_decks": 6438
+ },
+ {
+  "name": "The Reaper, King No More",
+  "cmdr_zh": "夺命枉者",
+  "group": "机械构装",
+  "profile_rank": 470,
+  "color_identity": [
+   "B",
+   "R",
+   "G"
+  ],
+  "type_line": "Legendary Artifact Creature — Scarecrow",
+  "types": [
+   "scarecrow"
+  ],
+  "num_decks": 6195
+ },
+ {
+  "name": "Slicer, Hired Muscle // Slicer, High-Speed Antagonist",
+  "cmdr_zh": "受雇狂徒切片",
+  "group": "机械构装",
+  "profile_rank": 569,
+  "color_identity": [
+   "R"
+  ],
+  "type_line": "Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle",
+  "types": [
+   "robot",
+   "vehicle"
+  ],
+  "num_decks": 5238
+ },
+ {
+  "name": "Ultron, Artificial Malevolence",
+  "cmdr_zh": "人工恶意奥创",
+  "group": "机械构装",
+  "profile_rank": 574,
+  "color_identity": [],
+  "type_line": "Legendary Artifact Creature — Robot Villain",
+  "types": [
+   "robot"
+  ],
+  "num_decks": 5138
+ },
+ {
+  "name": "Liberty Prime, Recharged",
+  "cmdr_zh": "满电自由至尊",
+  "group": "机械构装",
+  "profile_rank": 575,
+  "color_identity": [
+   "U",
+   "R",
+   "W"
+  ],
+  "type_line": "Legendary Artifact Creature — Robot",
+  "types": [
+   "robot"
+  ],
+  "num_decks": 5118
+ },
+ {
+  "name": "Yargle and Multani",
+  "cmdr_zh": "雅骨尔与穆塔尼",
+  "group": "可爱小兽",
+  "profile_rank": 616,
+  "color_identity": [
+   "B",
+   "G"
+  ],
+  "type_line": "Legendary Creature — Frog Spirit Elemental",
+  "types": [
+   "frog"
+  ],
+  "num_decks": 4757,
+  "pure_animal": true
+ },
+ {
+  "name": "Falco Spara, Pactweaver",
+  "cmdr_zh": "",
+  "group": "可爱小兽",
+  "profile_rank": 650,
+  "color_identity": [
+   "G",
+   "W",
+   "U"
+  ],
+  "type_line": "Legendary Creature — Bird Demon",
+  "types": [
+   "bird"
+  ],
+  "num_decks": 4516,
+  "pure_animal": true
+ },
+ {
+  "name": "Phelia, Exuberant Shepherd",
+  "cmdr_zh": "亢奋牧犬费利亚",
+  "group": "可爱小兽",
+  "profile_rank": 681,
+  "color_identity": [
+   "W"
+  ],
+  "type_line": "Legendary Creature — Dog",
+  "types": [
+   "dog"
+  ],
+  "num_decks": 4298,
+  "pure_animal": true
+ },
+ {
+  "name": "Mm'menon, the Right Hand",
+  "cmdr_zh": "",
+  "group": "机械构装",
+  "profile_rank": 727,
+  "color_identity": [
+   "U"
+  ],
+  "type_line": "Legendary Creature — Jellyfish Advisor",
+  "types": [
+   "jellyfish"
+  ],
+  "num_decks": 3919
+ },
+ {
+  "name": "Arahbo, the First Fang",
+  "cmdr_zh": "始牙阿拉博",
+  "group": "可爱小兽",
+  "profile_rank": 773,
+  "color_identity": [
+   "W"
+  ],
+  "type_line": "Legendary Creature — Cat Avatar",
+  "types": [
+   "cat"
+  ],
+  "num_decks": 3579,
+  "pure_animal": true
+ },
+ {
+  "name": "Abigale, Eloquent First-Year",
+  "cmdr_zh": "",
+  "group": "可爱小兽",
+  "profile_rank": 810,
+  "color_identity": [
+   "W",
+   "B"
+  ],
+  "type_line": "Legendary Creature — Bird Bard",
+  "types": [
+   "bird"
+  ],
+  "num_decks": 3346,
+  "pure_animal": true
+ },
+ {
+  "name": "The Pride of Hull Clade",
+  "cmdr_zh": "壳进化组所傲",
+  "group": "可爱小兽",
+  "profile_rank": 834,
+  "color_identity": [
+   "G",
+   "U"
+  ],
+  "type_line": "Legendary Creature — Crocodile Elk Turtle",
+  "types": [
+   "turtle"
+  ],
+  "num_decks": 3228,
+  "pure_animal": true
+ },
+ {
+  "name": "Lurrus of the Dream-Den",
+  "cmdr_zh": "",
+  "group": "可爱小兽",
+  "profile_rank": 904,
+  "color_identity": [
+   "W",
+   "B"
+  ],
+  "type_line": "Legendary Creature — Cat Nightmare",
+  "types": [
+   "cat"
+  ],
+  "num_decks": 2872,
+  "pure_animal": true
+ },
+ {
+  "name": "Ajani, Nacatl Pariah // Ajani, Nacatl Avenger",
+  "cmdr_zh": "",
+  "group": "可爱小兽",
+  "profile_rank": 940,
+  "color_identity": [
+   "R",
+   "W"
+  ],
+  "type_line": "Legendary Creature — Cat Warrior // Legendary Planeswalker — Ajani",
+  "types": [
+   "cat"
+  ],
+  "num_decks": 2702,
+  "pure_animal": true
+ },
+ {
+  "name": "Dragonhawk, Fate's Tempest",
+  "cmdr_zh": "",
+  "group": "可爱小兽",
+  "profile_rank": 949,
+  "color_identity": [
+   "R"
+  ],
+  "type_line": "Legendary Creature — Bird Dragon",
+  "types": [
+   "bird"
+  ],
+  "num_decks": 2674,
+  "pure_animal": true
+ },
+ {
+  "name": "Liberator, Urza's Battlethopter",
+  "cmdr_zh": "",
+  "group": "机械构装",
+  "profile_rank": 950,
+  "color_identity": [],
+  "type_line": "Legendary Artifact Creature — Thopter",
+  "types": [
+   "thopter"
+  ],
+  "num_decks": 2672
+ },
+ {
+  "name": "Zirda, the Dawnwaker",
+  "cmdr_zh": "熠晓灵狐泽尔达",
+  "group": "可爱小兽",
+  "profile_rank": 952,
+  "color_identity": [
+   "R",
+   "W"
+  ],
+  "type_line": "Legendary Creature — Elemental Fox",
+  "types": [
+   "fox"
+  ],
+  "num_decks": 2671,
+  "pure_animal": true
+ },
+ {
+  "name": "Yorion, Sky Nomad",
+  "cmdr_zh": "",
+  "group": "可爱小兽",
+  "profile_rank": 960,
+  "color_identity": [
+   "W",
+   "U"
+  ],
+  "type_line": "Legendary Creature — Bird Serpent",
+  "types": [
+   "bird"
+  ],
+  "num_decks": 2642,
+  "pure_animal": true
+ },
+ {
+  "name": "Alibou, Ancient Witness",
+  "cmdr_zh": "",
+  "group": "机械构装",
+  "profile_rank": 984,
+  "color_identity": [
+   "R",
+   "W"
+  ],
+  "type_line": "Legendary Artifact Creature — Golem",
+  "types": [
+   "golem"
+  ],
+  "num_decks": 2521
+ },
+ {
+  "name": "Soul of Windgrace",
+  "cmdr_zh": "",
+  "group": "可爱小兽",
+  "profile_rank": 1006,
+  "color_identity": [
+   "B",
+   "R",
+   "G"
+  ],
+  "type_line": "Legendary Creature — Cat Avatar",
+  "types": [
+   "cat"
+  ],
+  "num_decks": 2471,
+  "pure_animal": true
+ },
+ {
+  "name": "The Goose Mother",
+  "cmdr_zh": "",
+  "group": "可爱小兽",
+  "profile_rank": 1012,
+  "color_identity": [
+   "G",
+   "U"
+  ],
+  "type_line": "Legendary Creature — Bird Hydra",
+  "types": [
+   "bird"
+  ],
+  "num_decks": 2446,
+  "pure_animal": true
+ },
+ {
+  "name": "Toski, Bearer of Secrets",
+  "cmdr_zh": "密讯信使托斯奇",
+  "group": "可爱小兽",
+  "profile_rank": 1016,
+  "color_identity": [
+   "G"
+  ],
+  "type_line": "Legendary Creature — Squirrel",
+  "types": [
+   "squirrel"
+  ],
+  "num_decks": 2437,
+  "pure_animal": true
+ },
+ {
+  "name": "Traxos, Scourge of Kroog",
+  "cmdr_zh": "萼城劫运刹索斯",
+  "group": "机械构装",
+  "profile_rank": 1044,
+  "color_identity": [],
+  "type_line": "Legendary Artifact Creature — Dragon Construct",
+  "types": [
+   "construct"
+  ],
+  "num_decks": 2353
+ },
+ {
+  "name": "Gorma, the Gullet",
+  "cmdr_zh": "",
+  "group": "可爱小兽",
+  "profile_rank": 1087,
+  "color_identity": [
+   "B",
+   "G"
+  ],
+  "type_line": "Legendary Creature — Pest Frog",
+  "types": [
+   "frog"
+  ],
+  "num_decks": 2214,
+  "pure_animal": true
+ },
+ {
+  "name": "Scriv, the Obligator",
+  "cmdr_zh": "",
+  "group": "可爱小兽",
+  "profile_rank": 1095,
+  "color_identity": [
+   "W",
+   "B"
+  ],
+  "type_line": "Legendary Creature — Inkling Bird",
+  "types": [
+   "bird"
+  ],
+  "num_decks": 2198,
+  "pure_animal": true
+ },
+ {
+  "name": "Wan Shi Tong, Librarian",
+  "cmdr_zh": "",
+  "group": "可爱小兽",
+  "profile_rank": 1160,
+  "color_identity": [
+   "U"
+  ],
+  "type_line": "Legendary Creature — Bird Spirit",
+  "types": [
+   "bird"
+  ],
+  "num_decks": 1988,
+  "pure_animal": true
+ },
+ {
+  "name": "Starscream, Power Hungry // Starscream, Seeker Leader",
+  "cmdr_zh": "",
+  "group": "机械构装",
+  "profile_rank": 1258,
+  "color_identity": [
+   "B"
+  ],
+  "type_line": "Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle",
+  "types": [
+   "robot",
+   "vehicle"
+  ],
+  "num_decks": 1730
+ },
+ {
+  "name": "The Reality Chip",
+  "cmdr_zh": "实界晶片",
+  "group": "机械构装",
+  "profile_rank": 1269,
+  "color_identity": [
+   "U"
+  ],
+  "type_line": "Legendary Artifact Creature — Equipment Jellyfish",
+  "types": [
+   "jellyfish"
+  ],
+  "num_decks": 1700
+ },
+ {
+  "name": "The Swarmweaver",
+  "cmdr_zh": "",
+  "group": "机械构装",
+  "profile_rank": 1359,
+  "color_identity": [
+   "B",
+   "G"
+  ],
+  "type_line": "Legendary Artifact Creature — Scarecrow",
+  "types": [
+   "scarecrow"
+  ],
+  "num_decks": 1497
+ }
+]

@@ -1,0 +1,20 @@
+# 卡图与运行时产物不入库
+# 在线版的图走 Scryfall CDN，不需要本地图库；要重建本地版再跑 download_art.py 拉回来
+data/cards/
+backups/
+
+# 临时产物
+__pycache__/
+*.pyc
+_smoke_report.txt
+_form_weights_report.txt
+*.bak
+
+# 系统
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# ��������� build_standalone.py / build_mobile.py ����
+art_quiz_standalone.html
+art_quiz_mobile.html

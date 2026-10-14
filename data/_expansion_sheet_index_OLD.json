@@ -1,0 +1,548 @@
+[
+ {
+  "n": 1,
+  "art_id": "d2bf0b07-a06a-4e27-95c0-e9fa78a92407",
+  "cmdr_en": "Atraxa, Grand Unifier",
+  "form_hint": "扭曲异形"
+ },
+ {
+  "n": 2,
+  "art_id": "f2ebe584-386c-424a-b8c0-2becc8fda954",
+  "cmdr_en": "Atraxa, Grand Unifier",
+  "form_hint": "扭曲异形"
+ },
+ {
+  "n": 3,
+  "art_id": "194c6f28-197c-49ea-91e3-5312dc2b0a0b",
+  "cmdr_en": "Deadpool, Trading Card",
+  "form_hint": "扭曲异形"
+ },
+ {
+  "n": 4,
+  "art_id": "f27c1453-2657-45aa-baff-b5c0ecb9e1ee",
+  "cmdr_en": "Deadpool, Trading Card",
+  "form_hint": "扭曲异形"
+ },
+ {
+  "n": 5,
+  "art_id": "2a96e266-775f-4c6f-a33c-0450227fa9d2",
+  "cmdr_en": "Etali, Primal Conqueror // Etali, Primal Sickness",
+  "form_hint": "扭曲异形"
+ },
+ {
+  "n": 6,
+  "art_id": "b0739892-9047-4144-9acb-a586258befbc",
+  "cmdr_en": "Etali, Primal Conqueror // Etali, Primal Sickness",
+  "form_hint": "扭曲异形"
+ },
+ {
+  "n": 7,
+  "art_id": "2a559433-c828-4609-b077-923190f607d5",
+  "cmdr_en": "Storm, Force of Nature",
+  "form_hint": "扭曲异形"
+ },
+ {
+  "n": 8,
+  "art_id": "a905a8d9-a2f1-4be3-93af-be705b8fc6d8",
+  "cmdr_en": "Storm, Force of Nature",
+  "form_hint": "扭曲异形"
+ },
+ {
+  "n": 9,
+  "art_id": "1367114e-80de-4bc9-8ad9-1dc1d2ccf13d",
+  "cmdr_en": "Morophon, the Boundless",
+  "form_hint": "扭曲异形"
+ },
+ {
+  "n": 10,
+  "art_id": "b7449b07-147b-480b-8bd4-ea761621df15",
+  "cmdr_en": "Morophon, the Boundless",
+  "form_hint": "扭曲异形"
+ },
+ {
+  "n": 11,
+  "art_id": "7fb043c3-2340-4fa2-a52e-8f9f51f100a7",
+  "cmdr_en": "Omnath, Locus of All",
+  "form_hint": "扭曲异形"
+ },
+ {
+  "n": 12,
+  "art_id": "88132aea-5e50-4b69-bab1-53eba5c0897d",
+  "cmdr_en": "Omnath, Locus of All",
+  "form_hint": "扭曲异形"
+ },
+ {
+  "n": 13,
+  "art_id": "bafe5aae-4953-4ece-a9c8-98a2a32fec9d",
+  "cmdr_en": "Azlask, the Swelling Scourge",
+  "form_hint": "扭曲异形"
+ },
+ {
+  "n": 14,
+  "art_id": "fd78d186-f642-4576-8276-cc8ff066c64e",
+  "cmdr_en": "Azlask, the Swelling Scourge",
+  "form_hint": "扭曲异形"
+ },
+ {
+  "n": 15,
+  "art_id": "6deddfec-0616-4825-9c28-d8cf1f79df6b",
+  "cmdr_en": "Yarok, the Desecrated",
+  "form_hint": "扭曲异形"
+ },
+ {
+  "n": 16,
+  "art_id": "b73ba2be-e28d-4ba5-aada-00dd3322721d",
+  "cmdr_en": "Yarok, the Desecrated",
+  "form_hint": "扭曲异形"
+ },
+ {
+  "n": 17,
+  "art_id": "1a2d095f-3d50-4651-b49a-34ead920c7c6",
+  "cmdr_en": "Omo, Queen of Vesuva",
+  "form_hint": "扭曲异形"
+ },
+ {
+  "n": 18,
+  "art_id": "f2e698de-9ab0-49e2-ba0c-7340f65d326e",
+  "cmdr_en": "Omo, Queen of Vesuva",
+  "form_hint": "扭曲异形"
+ },
+ {
+  "n": 19,
+  "art_id": "24065475-b73e-4163-ae1e-11f46a3bea5c",
+  "cmdr_en": "Wolverine, Best There Is",
+  "form_hint": "扭曲异形"
+ },
+ {
+  "n": 20,
+  "art_id": "75aa41ff-5865-44d5-bede-2f6cb9a3eaf9",
+  "cmdr_en": "Wolverine, Best There Is",
+  "form_hint": "扭曲异形"
+ },
+ {
+  "n": 21,
+  "art_id": "5fe24f60-17ad-4de5-bbac-5cf0a8155135",
+  "cmdr_en": "The Mindskinner",
+  "form_hint": "扭曲异形"
+ },
+ {
+  "n": 22,
+  "art_id": "dd737bc0-2129-41a3-9a1e-538bc209ed46",
+  "cmdr_en": "The Mindskinner",
+  "form_hint": "扭曲异形"
+ },
+ {
+  "n": 23,
+  "art_id": "b47b4a29-d674-4644-9a57-ff418b0659d6",
+  "cmdr_en": "Sheoldred, the Apocalypse",
+  "form_hint": "扭曲异形"
+ },
+ {
+  "n": 24,
+  "art_id": "fc4669a9-e426-47da-9c22-9bf6ce527052",
+  "cmdr_en": "Sheoldred, the Apocalypse",
+  "form_hint": "扭曲异形"
+ },
+ {
+  "n": 25,
+  "art_id": "104f9065-c036-4674-a7b6-b97de9e293cd",
+  "cmdr_en": "Ovika, Enigma Goliath",
+  "form_hint": "扭曲异形"
+ },
+ {
+  "n": 26,
+  "art_id": "d722ff79-3a0c-4a50-89ff-7455b479f34f",
+  "cmdr_en": "Ovika, Enigma Goliath",
+  "form_hint": "扭曲异形"
+ },
+ {
+  "n": 27,
+  "art_id": "7d6d5121-a002-4d8f-ad16-56c555ea074d",
+  "cmdr_en": "Umbris, Fear Manifest",
+  "form_hint": "扭曲异形"
+ },
+ {
+  "n": 28,
+  "art_id": "c4280ea5-ce9c-4927-b613-fa6d00f9279a",
+  "cmdr_en": "Umbris, Fear Manifest",
+  "form_hint": "扭曲异形"
+ },
+ {
+  "n": 29,
+  "art_id": "5c750992-fdd7-4b75-8121-d26d315b7ddc",
+  "cmdr_en": "Orvar, the All-Form",
+  "form_hint": "扭曲异形"
+ },
+ {
+  "n": 30,
+  "art_id": "cc7d0315-1fc2-46e9-9bf2-52857be33a93",
+  "cmdr_en": "Orvar, the All-Form",
+  "form_hint": "扭曲异形"
+ },
+ {
+  "n": 31,
+  "art_id": "5fc31f50-3f21-4add-9dd8-9ea6c6fb5b61",
+  "cmdr_en": "Kykar, Wind's Fury",
+  "form_hint": "可爱小兽"
+ },
+ {
+  "n": 32,
+  "art_id": "a5dc8e4c-3582-4041-8427-7787d4d747b1",
+  "cmdr_en": "Kykar, Wind's Fury",
+  "form_hint": "可爱小兽"
+ },
+ {
+  "n": 33,
+  "art_id": "016aa4fb-4a8f-4936-afd3-9e4c3191145f",
+  "cmdr_en": "Light-Paws, Emperor's Voice",
+  "form_hint": "可爱小兽"
+ },
+ {
+  "n": 34,
+  "art_id": "c3277323-fab2-42f7-9a38-d3d3f008f76b",
+  "cmdr_en": "Light-Paws, Emperor's Voice",
+  "form_hint": "可爱小兽"
+ },
+ {
+  "n": 35,
+  "art_id": "019a2b87-257e-43bd-ab98-556d421bd96c",
+  "cmdr_en": "Hazel of the Rootbloom",
+  "form_hint": "可爱小兽"
+ },
+ {
+  "n": 36,
+  "art_id": "690229b4-9f6f-48bb-96ad-4c35f98dec81",
+  "cmdr_en": "Hazel of the Rootbloom",
+  "form_hint": "可爱小兽"
+ },
+ {
+  "n": 37,
+  "art_id": "2346f3c3-0268-4100-9341-dfe95d22d9c6",
+  "cmdr_en": "Arahbo, Roar of the World",
+  "form_hint": "可爱小兽"
+ },
+ {
+  "n": 38,
+  "art_id": "fd175300-a861-4443-be5e-ea9038f91809",
+  "cmdr_en": "Arahbo, Roar of the World",
+  "form_hint": "可爱小兽"
+ },
+ {
+  "n": 39,
+  "art_id": "0605ccf3-74f5-4b6d-9a55-7b073932f9c7",
+  "cmdr_en": "Thalia and The Gitrog Monster",
+  "form_hint": "可爱小兽/扭曲异形"
+ },
+ {
+  "n": 40,
+  "art_id": "ab03640d-4b29-4685-b303-06322563d088",
+  "cmdr_en": "Thalia and The Gitrog Monster",
+  "form_hint": "可爱小兽/扭曲异形"
+ },
+ {
+  "n": 41,
+  "art_id": "7f112a15-97aa-4e07-9f5c-d3ca5bc63af7",
+  "cmdr_en": "Derevi, Empyrial Tactician",
+  "form_hint": "可爱小兽"
+ },
+ {
+  "n": 42,
+  "art_id": "b31410ab-32be-47a4-93be-8acfa50e5470",
+  "cmdr_en": "Derevi, Empyrial Tactician",
+  "form_hint": "可爱小兽"
+ },
+ {
+  "n": 43,
+  "art_id": "9af64fd2-1b72-4d9e-877c-a73dece6b0ba",
+  "cmdr_en": "Alania, Divergent Storm",
+  "form_hint": "可爱小兽"
+ },
+ {
+  "n": 44,
+  "art_id": "e3936f4d-06d7-45d6-b96a-598b90705b91",
+  "cmdr_en": "Alania, Divergent Storm",
+  "form_hint": "可爱小兽"
+ },
+ {
+  "n": 45,
+  "art_id": "5dd37010-f255-4425-93e4-0edebec55150",
+  "cmdr_en": "Kastral, the Windcrested",
+  "form_hint": "可爱小兽"
+ },
+ {
+  "n": 46,
+  "art_id": "f93ef5cc-e585-4137-bcc2-292753ce67ae",
+  "cmdr_en": "Kastral, the Windcrested",
+  "form_hint": "可爱小兽"
+ },
+ {
+  "n": 47,
+  "art_id": "8b19935c-5e85-45d2-9782-2e7f69a84506",
+  "cmdr_en": "The Gitrog Monster",
+  "form_hint": "可爱小兽/扭曲异形"
+ },
+ {
+  "n": 48,
+  "art_id": "fea552cd-20be-41aa-90af-61e0af115d15",
+  "cmdr_en": "The Gitrog Monster",
+  "form_hint": "可爱小兽/扭曲异形"
+ },
+ {
+  "n": 49,
+  "art_id": "8a4d01fd-0ec9-419f-a2ad-fd26e468fcdd",
+  "cmdr_en": "Bria, Riptide Rogue",
+  "form_hint": "可爱小兽"
+ },
+ {
+  "n": 50,
+  "art_id": "07142a33-8162-4be0-86d0-4bd59d3f90d0",
+  "cmdr_en": "Jetmir, Nexus of Revels",
+  "form_hint": "可爱小兽"
+ },
+ {
+  "n": 51,
+  "art_id": "ee28e571-fb1b-4436-828d-4f89c0b85c2d",
+  "cmdr_en": "Jetmir, Nexus of Revels",
+  "form_hint": "可爱小兽"
+ },
+ {
+  "n": 52,
+  "art_id": "bebd4775-0a88-4de7-8a10-ef5fd5aa93fa",
+  "cmdr_en": "Roxanne, Starfall Savant",
+  "form_hint": "可爱小兽"
+ },
+ {
+  "n": 53,
+  "art_id": "1797e021-7372-472c-8d44-a29559479cf5",
+  "cmdr_en": "Finneas, Ace Archer",
+  "form_hint": "可爱小兽"
+ },
+ {
+  "n": 54,
+  "art_id": "557a0508-1bba-4067-a6d9-75112ff12c42",
+  "cmdr_en": "Finneas, Ace Archer",
+  "form_hint": "可爱小兽"
+ },
+ {
+  "n": 55,
+  "art_id": "ee49323a-927a-4eaf-9e44-4620072332f4",
+  "cmdr_en": "Brimaz, Blight of Oreskos",
+  "form_hint": "可爱小兽/扭曲异形"
+ },
+ {
+  "n": 56,
+  "art_id": "b71f0b54-4061-4d09-bd1d-3f4a24959aec",
+  "cmdr_en": "Clement, the Worrywort",
+  "form_hint": "可爱小兽"
+ },
+ {
+  "n": 57,
+  "art_id": "c78014b8-493e-432f-bd76-daf0586bcdb3",
+  "cmdr_en": "Clement, the Worrywort",
+  "form_hint": "可爱小兽"
+ },
+ {
+  "n": 58,
+  "art_id": "7e1c5d93-bd44-43b9-a31b-1d2361f59b2b",
+  "cmdr_en": "The Unbeatable Squirrel Girl",
+  "form_hint": "可爱小兽"
+ },
+ {
+  "n": 59,
+  "art_id": "d57ec1c4-0615-4229-ba66-771531536be0",
+  "cmdr_en": "The Unbeatable Squirrel Girl",
+  "form_hint": "可爱小兽"
+ },
+ {
+  "n": 60,
+  "art_id": "7d4d9c6f-2870-4bb3-a190-5514f560612f",
+  "cmdr_en": "Mendicant Core, Guidelight",
+  "form_hint": "机械构装"
+ },
+ {
+  "n": 61,
+  "art_id": "e54f5805-c80b-4087-af33-d42e94c85988",
+  "cmdr_en": "Mendicant Core, Guidelight",
+  "form_hint": "机械构装"
+ },
+ {
+  "n": 62,
+  "art_id": "1b71cc7d-88c4-4004-bac9-598626009f9b",
+  "cmdr_en": "Rendmaw, Creaking Nest",
+  "form_hint": "机械构装"
+ },
+ {
+  "n": 63,
+  "art_id": "10c829bc-b79a-4a56-851c-3bd3c242f829",
+  "cmdr_en": "Reaper King",
+  "form_hint": "机械构装"
+ },
+ {
+  "n": 64,
+  "art_id": "3f0c5778-56dc-44bd-8dce-f7ef1ee055e5",
+  "cmdr_en": "Reaper King",
+  "form_hint": "机械构装"
+ },
+ {
+  "n": 65,
+  "art_id": "69d449a4-3042-4e15-9386-aace606469dc",
+  "cmdr_en": "Gluntch, the Bestower",
+  "form_hint": "机械构装"
+ },
+ {
+  "n": 66,
+  "art_id": "7e8abe9e-2d1b-48e1-91f5-33aec633f981",
+  "cmdr_en": "Gluntch, the Bestower",
+  "form_hint": "机械构装"
+ },
+ {
+  "n": 67,
+  "art_id": "4a78b833-6938-48c9-b907-9af23a7f0aee",
+  "cmdr_en": "Karn, Legacy Reforged",
+  "form_hint": "机械构装"
+ },
+ {
+  "n": 68,
+  "art_id": "9583de30-d085-4c7c-807e-0cddb14fd27a",
+  "cmdr_en": "Karn, Legacy Reforged",
+  "form_hint": "机械构装"
+ },
+ {
+  "n": 69,
+  "art_id": "65db3032-2fd1-4308-92ce-634201960a74",
+  "cmdr_en": "The Reaper, King No More",
+  "form_hint": "机械构装"
+ },
+ {
+  "n": 70,
+  "art_id": "06eddf06-df23-4668-9cc5-69546aa7ef2c",
+  "cmdr_en": "Slicer, Hired Muscle // Slicer, High-Speed Antagonist",
+  "form_hint": "机械构装"
+ },
+ {
+  "n": 71,
+  "art_id": "b28cfa8d-421d-4ee6-b644-d91369b973ed",
+  "cmdr_en": "Slicer, Hired Muscle // Slicer, High-Speed Antagonist",
+  "form_hint": "机械构装"
+ },
+ {
+  "n": 72,
+  "art_id": "2e8a1335-b283-4ce4-82c8-db425299a374",
+  "cmdr_en": "Ultron, Artificial Malevolence",
+  "form_hint": "机械构装"
+ },
+ {
+  "n": 73,
+  "art_id": "fed79c89-4d77-4f6d-884c-59157ceaddf6",
+  "cmdr_en": "Ultron, Artificial Malevolence",
+  "form_hint": "机械构装"
+ },
+ {
+  "n": 74,
+  "art_id": "a50d7668-2fae-4b91-ade1-ac8950ad2a93",
+  "cmdr_en": "Liberty Prime, Recharged",
+  "form_hint": "机械构装"
+ },
+ {
+  "n": 75,
+  "art_id": "6316a243-b20d-4d1b-9199-bd8d04a4ce1e",
+  "cmdr_en": "Mm'menon, the Right Hand",
+  "form_hint": "机械构装"
+ },
+ {
+  "n": 76,
+  "art_id": "7682f495-e616-44d7-b21d-57eb71125f7d",
+  "cmdr_en": "Mm'menon, the Right Hand",
+  "form_hint": "机械构装"
+ },
+ {
+  "n": 77,
+  "art_id": "52c248bb-4db4-43f0-acbf-ce8898dc9219",
+  "cmdr_en": "Liberator, Urza's Battlethopter",
+  "form_hint": "机械构装"
+ },
+ {
+  "n": 78,
+  "art_id": "8842738e-8a47-40fe-9d0c-8e8321e6ef8a",
+  "cmdr_en": "Liberator, Urza's Battlethopter",
+  "form_hint": "机械构装"
+ },
+ {
+  "n": 79,
+  "art_id": "78ec39b0-e641-42b7-bfc8-082029dbe777",
+  "cmdr_en": "Alibou, Ancient Witness",
+  "form_hint": "机械构装"
+ },
+ {
+  "n": 80,
+  "art_id": "c8096d5e-187a-4498-8a2f-c22531185805",
+  "cmdr_en": "Alibou, Ancient Witness",
+  "form_hint": "机械构装"
+ },
+ {
+  "n": 81,
+  "art_id": "917f647e-b444-408d-9388-adf08a590f9d",
+  "cmdr_en": "Traxos, Scourge of Kroog",
+  "form_hint": "机械构装"
+ },
+ {
+  "n": 82,
+  "art_id": "b3bfb762-e034-4759-ae37-a55536b32059",
+  "cmdr_en": "Traxos, Scourge of Kroog",
+  "form_hint": "机械构装"
+ },
+ {
+  "n": 83,
+  "art_id": "8e76f625-4eed-491a-a151-a8d14fbf7984",
+  "cmdr_en": "Starscream, Power Hungry // Starscream, Seeker Leader",
+  "form_hint": "机械构装"
+ },
+ {
+  "n": 84,
+  "art_id": "d10b9ba7-9d34-43ca-ad11-6e8ec3a07de9",
+  "cmdr_en": "Starscream, Power Hungry // Starscream, Seeker Leader",
+  "form_hint": "机械构装"
+ },
+ {
+  "n": 85,
+  "art_id": "667dd16e-ecd6-4301-8663-3c13a615e5b8",
+  "cmdr_en": "The Reality Chip",
+  "form_hint": "机械构装"
+ },
+ {
+  "n": 86,
+  "art_id": "e2252fd1-1a4b-4876-8720-812545cae4fc",
+  "cmdr_en": "The Reality Chip",
+  "form_hint": "机械构装"
+ },
+ {
+  "n": 87,
+  "art_id": "8a2102cf-ff84-480a-a92d-679a6348ebc7",
+  "cmdr_en": "The Swarmweaver",
+  "form_hint": "机械构装"
+ },
+ {
+  "n": 88,
+  "art_id": "d011d1bd-5a5d-4238-9008-1df5a4b40826",
+  "cmdr_en": "The Swarmweaver",
+  "form_hint": "机械构装"
+ },
+ {
+  "n": 89,
+  "art_id": "1d006cd2-fa1b-43e7-ba92-47dd6b3f338d",
+  "cmdr_en": "Krang, Utrom Warlord",
+  "form_hint": "机械构装"
+ },
+ {
+  "n": 90,
+  "art_id": "ac5a9c0b-7a61-4d5b-80c3-29a9522d01e8",
+  "cmdr_en": "Krang, Utrom Warlord",
+  "form_hint": "机械构装"
+ },
+ {
+  "n": 91,
+  "art_id": "31c64e59-8a2e-4753-b75c-855fcf64d18c",
+  "cmdr_en": "Yes Man, Personal Securitron",
+  "form_hint": "机械构装"
+ }
+]

@@ -1,0 +1,565 @@
+[
+ {
+  "name": "The Gitrog, Ravenous Ride",
+  "profile_rank": 359,
+  "edhrec_rank": 4276,
+  "num_decks": 7706,
+  "type_line": "Legendary Creature — Frog Horror Mount",
+  "types": [
+   "frog"
+  ],
+  "color_identity": [
+   "B",
+   "G"
+  ],
+  "cmc": 5.0,
+  "slug": "the-gitrog-ravenous-ride"
+ },
+ {
+  "name": "Nethroi, Apex of Death",
+  "profile_rank": 361,
+  "edhrec_rank": 5558,
+  "num_decks": 7690,
+  "type_line": "Legendary Creature — Cat Nightmare Beast",
+  "types": [
+   "cat"
+  ],
+  "color_identity": [
+   "W",
+   "B",
+   "G"
+  ],
+  "cmc": 5.0,
+  "slug": "nethroi-apex-of-death"
+ },
+ {
+  "name": "Grolnok, the Omnivore",
+  "profile_rank": 387,
+  "edhrec_rank": 6893,
+  "num_decks": 7268,
+  "type_line": "Legendary Creature — Frog",
+  "types": [
+   "frog"
+  ],
+  "color_identity": [
+   "G",
+   "U"
+  ],
+  "cmc": 4.0,
+  "slug": "grolnok-the-omnivore"
+ },
+ {
+  "name": "Maha, Its Feathers Night",
+  "profile_rank": 449,
+  "edhrec_rank": 1962,
+  "num_decks": 6521,
+  "type_line": "Legendary Creature — Elemental Bird",
+  "types": [
+   "bird"
+  ],
+  "color_identity": [
+   "B"
+  ],
+  "cmc": 5.0,
+  "slug": "maha-its-feathers-night"
+ },
+ {
+  "name": "Yargle and Multani",
+  "profile_rank": 616,
+  "edhrec_rank": 3169,
+  "num_decks": 4757,
+  "type_line": "Legendary Creature — Frog Spirit Elemental",
+  "types": [
+   "frog"
+  ],
+  "color_identity": [
+   "B",
+   "G"
+  ],
+  "cmc": 6.0,
+  "slug": "yargle-and-multani"
+ },
+ {
+  "name": "Falco Spara, Pactweaver",
+  "profile_rank": 650,
+  "edhrec_rank": 7082,
+  "num_decks": 4516,
+  "type_line": "Legendary Creature — Bird Demon",
+  "types": [
+   "bird"
+  ],
+  "color_identity": [
+   "G",
+   "W",
+   "U"
+  ],
+  "cmc": 4.0,
+  "slug": "falco-spara-pactweaver"
+ },
+ {
+  "name": "Phelia, Exuberant Shepherd",
+  "profile_rank": 681,
+  "edhrec_rank": 1578,
+  "num_decks": 4298,
+  "type_line": "Legendary Creature — Dog",
+  "types": [
+   "dog"
+  ],
+  "color_identity": [
+   "W"
+  ],
+  "cmc": 2.0,
+  "slug": "phelia-exuberant-shepherd"
+ },
+ {
+  "name": "Arahbo, the First Fang",
+  "profile_rank": 773,
+  "edhrec_rank": 3686,
+  "num_decks": 3579,
+  "type_line": "Legendary Creature — Cat Avatar",
+  "types": [
+   "cat"
+  ],
+  "color_identity": [
+   "W"
+  ],
+  "cmc": 3.0,
+  "slug": "arahbo-the-first-fang"
+ },
+ {
+  "name": "Abigale, Eloquent First-Year",
+  "profile_rank": 810,
+  "edhrec_rank": 8348,
+  "num_decks": 3346,
+  "type_line": "Legendary Creature — Bird Bard",
+  "types": [
+   "bird"
+  ],
+  "color_identity": [
+   "W",
+   "B"
+  ],
+  "cmc": 2.0,
+  "slug": "abigale-eloquent-first-year"
+ },
+ {
+  "name": "The Pride of Hull Clade",
+  "profile_rank": 834,
+  "edhrec_rank": 5348,
+  "num_decks": 3228,
+  "type_line": "Legendary Creature — Crocodile Elk Turtle",
+  "types": [
+   "turtle"
+  ],
+  "color_identity": [
+   "G",
+   "U"
+  ],
+  "cmc": 11.0,
+  "slug": "the-pride-of-hull-clade"
+ },
+ {
+  "name": "Lurrus of the Dream-Den",
+  "profile_rank": 904,
+  "edhrec_rank": 2791,
+  "num_decks": 2872,
+  "type_line": "Legendary Creature — Cat Nightmare",
+  "types": [
+   "cat"
+  ],
+  "color_identity": [
+   "W",
+   "B"
+  ],
+  "cmc": 3.0,
+  "slug": "lurrus-of-the-dream-den"
+ },
+ {
+  "name": "Ajani, Nacatl Pariah // Ajani, Nacatl Avenger",
+  "profile_rank": 940,
+  "edhrec_rank": 4495,
+  "num_decks": 2702,
+  "type_line": "Legendary Creature — Cat Warrior // Legendary Planeswalker — Ajani",
+  "types": [
+   "cat"
+  ],
+  "color_identity": [
+   "R",
+   "W"
+  ],
+  "cmc": 2.0,
+  "slug": "ajani-nacatl-pariah"
+ },
+ {
+  "name": "Dragonhawk, Fate's Tempest",
+  "profile_rank": 949,
+  "edhrec_rank": 2224,
+  "num_decks": 2674,
+  "type_line": "Legendary Creature — Bird Dragon",
+  "types": [
+   "bird"
+  ],
+  "color_identity": [
+   "R"
+  ],
+  "cmc": 5.0,
+  "slug": "dragonhawk-fates-tempest"
+ },
+ {
+  "name": "Zirda, the Dawnwaker",
+  "profile_rank": 952,
+  "edhrec_rank": 3317,
+  "num_decks": 2671,
+  "type_line": "Legendary Creature — Elemental Fox",
+  "types": [
+   "fox"
+  ],
+  "color_identity": [
+   "R",
+   "W"
+  ],
+  "cmc": 3.0,
+  "slug": "zirda-the-dawnwaker"
+ },
+ {
+  "name": "Yorion, Sky Nomad",
+  "profile_rank": 960,
+  "edhrec_rank": 4547,
+  "num_decks": 2642,
+  "type_line": "Legendary Creature — Bird Serpent",
+  "types": [
+   "bird"
+  ],
+  "color_identity": [
+   "W",
+   "U"
+  ],
+  "cmc": 5.0,
+  "slug": "yorion-sky-nomad"
+ },
+ {
+  "name": "Soul of Windgrace",
+  "profile_rank": 1006,
+  "edhrec_rank": 5210,
+  "num_decks": 2471,
+  "type_line": "Legendary Creature — Cat Avatar",
+  "types": [
+   "cat"
+  ],
+  "color_identity": [
+   "B",
+   "R",
+   "G"
+  ],
+  "cmc": 4.0,
+  "slug": "soul-of-windgrace"
+ },
+ {
+  "name": "The Goose Mother",
+  "profile_rank": 1012,
+  "edhrec_rank": 2955,
+  "num_decks": 2446,
+  "type_line": "Legendary Creature — Bird Hydra",
+  "types": [
+   "bird"
+  ],
+  "color_identity": [
+   "G",
+   "U"
+  ],
+  "cmc": 2.0,
+  "slug": "the-goose-mother"
+ },
+ {
+  "name": "Toski, Bearer of Secrets",
+  "profile_rank": 1016,
+  "edhrec_rank": 388,
+  "num_decks": 2437,
+  "type_line": "Legendary Creature — Squirrel",
+  "types": [
+   "squirrel"
+  ],
+  "color_identity": [
+   "G"
+  ],
+  "cmc": 4.0,
+  "slug": "toski-bearer-of-secrets"
+ },
+ {
+  "name": "Gorma, the Gullet",
+  "profile_rank": 1087,
+  "edhrec_rank": 7384,
+  "num_decks": 2214,
+  "type_line": "Legendary Creature — Pest Frog",
+  "types": [
+   "frog"
+  ],
+  "color_identity": [
+   "B",
+   "G"
+  ],
+  "cmc": 3.0,
+  "slug": "gorma-the-gullet"
+ },
+ {
+  "name": "Scriv, the Obligator",
+  "profile_rank": 1095,
+  "edhrec_rank": 7793,
+  "num_decks": 2198,
+  "type_line": "Legendary Creature — Inkling Bird",
+  "types": [
+   "bird"
+  ],
+  "color_identity": [
+   "W",
+   "B"
+  ],
+  "cmc": 4.0,
+  "slug": "scriv-the-obligator"
+ },
+ {
+  "name": "Wan Shi Tong, Librarian",
+  "profile_rank": 1160,
+  "edhrec_rank": 1242,
+  "num_decks": 1988,
+  "type_line": "Legendary Creature — Bird Spirit",
+  "types": [
+   "bird"
+  ],
+  "color_identity": [
+   "U"
+  ],
+  "cmc": 2.0,
+  "slug": "wan-shi-tong-librarian"
+ },
+ {
+  "name": "Vega, the Watcher",
+  "profile_rank": 1543,
+  "edhrec_rank": 2634,
+  "num_decks": 1194,
+  "type_line": "Legendary Creature — Bird Spirit",
+  "types": [
+   "bird"
+  ],
+  "color_identity": [
+   "W",
+   "U"
+  ],
+  "cmc": 3.0,
+  "slug": "vega-the-watcher"
+ },
+ {
+  "name": "Mowu, Loyal Companion",
+  "profile_rank": 1606,
+  "edhrec_rank": 8281,
+  "num_decks": 1089,
+  "type_line": "Legendary Creature — Dog",
+  "types": [
+   "dog"
+  ],
+  "color_identity": [
+   "G"
+  ],
+  "cmc": 4.0,
+  "slug": "mowu-loyal-companion"
+ },
+ {
+  "name": "Uurg, Spawn of Turg",
+  "profile_rank": 1934,
+  "edhrec_rank": 7889,
+  "num_decks": 704,
+  "type_line": "Legendary Creature — Frog Beast",
+  "types": [
+   "frog"
+  ],
+  "color_identity": [
+   "B",
+   "G"
+  ],
+  "cmc": 3.0,
+  "slug": "uurg-spawn-of-turg"
+ },
+ {
+  "name": "Isamaru, Hound of Konda",
+  "profile_rank": 1980,
+  "edhrec_rank": 7284,
+  "num_decks": 661,
+  "type_line": "Legendary Creature — Dog",
+  "types": [
+   "dog"
+  ],
+  "color_identity": [
+   "W"
+  ],
+  "cmc": 1.0,
+  "slug": "isamaru-hound-of-konda"
+ },
+ {
+  "name": "Kaheera, the Orphanguard",
+  "profile_rank": 2251,
+  "edhrec_rank": 6034,
+  "num_decks": 468,
+  "type_line": "Legendary Creature — Cat Beast",
+  "types": [
+   "cat"
+  ],
+  "color_identity": [
+   "G",
+   "W"
+  ],
+  "cmc": 3.0,
+  "slug": "kaheera-the-orphanguard"
+ },
+ {
+  "name": "Cait Sith, Fortune Teller",
+  "profile_rank": 2387,
+  "edhrec_rank": 5625,
+  "num_decks": 386,
+  "type_line": "Legendary Artifact Creature — Cat Moogle",
+  "types": [
+   "cat"
+  ],
+  "color_identity": [
+   "R"
+  ],
+  "cmc": 4.0,
+  "slug": "cait-sith-fortune-teller"
+ },
+ {
+  "name": "Yargle, Glutton of Urborg",
+  "profile_rank": 2516,
+  "edhrec_rank": 6620,
+  "num_decks": 317,
+  "type_line": "Legendary Creature — Frog Spirit",
+  "types": [
+   "frog"
+  ],
+  "color_identity": [
+   "B"
+  ],
+  "cmc": 5.0,
+  "slug": "yargle-glutton-of-urborg"
+ },
+ {
+  "name": "Shabraz, the Skyshark",
+  "profile_rank": 2656,
+  "edhrec_rank": 6562,
+  "num_decks": 261,
+  "type_line": "Legendary Creature — Shark Bird",
+  "types": [
+   "bird"
+  ],
+  "color_identity": [
+   "W",
+   "U"
+  ],
+  "cmc": 5.0,
+  "slug": "shabraz-the-skyshark"
+ },
+ {
+  "name": "Yoshimaru, Ever Faithful",
+  "profile_rank": 2801,
+  "edhrec_rank": 4310,
+  "num_decks": 215,
+  "type_line": "Legendary Creature — Dog",
+  "types": [
+   "dog"
+  ],
+  "color_identity": [
+   "W"
+  ],
+  "cmc": 1.0,
+  "slug": "yoshimaru-ever-faithful"
+ },
+ {
+  "name": "Kogla and Yidaro",
+  "profile_rank": 3189,
+  "edhrec_rank": 2553,
+  "num_decks": 128,
+  "type_line": "Legendary Creature — Ape Dinosaur Turtle",
+  "types": [
+   "turtle"
+  ],
+  "color_identity": [
+   "R",
+   "G"
+  ],
+  "cmc": 6.0,
+  "slug": "kogla-and-yidaro"
+ },
+ {
+  "name": "Yidaro, Wandering Monster",
+  "profile_rank": 3274,
+  "edhrec_rank": 8009,
+  "num_decks": 113,
+  "type_line": "Legendary Creature — Dinosaur Turtle",
+  "types": [
+   "turtle"
+  ],
+  "color_identity": [
+   "R"
+  ],
+  "cmc": 7.0,
+  "slug": "yidaro-wandering-monster"
+ },
+ {
+  "name": "Ambrosia Whiteheart",
+  "profile_rank": 3434,
+  "edhrec_rank": 5710,
+  "num_decks": 94,
+  "type_line": "Legendary Creature — Bird",
+  "types": [
+   "bird"
+  ],
+  "color_identity": [
+   "W"
+  ],
+  "cmc": 2.0,
+  "slug": "ambrosia-whiteheart"
+ },
+ {
+  "name": "K-9, Mark I",
+  "profile_rank": 4015,
+  "edhrec_rank": 3502,
+  "num_decks": 45,
+  "type_line": "Legendary Artifact Creature — Robot Dog",
+  "types": [
+   "dog"
+  ],
+  "color_identity": [
+   "U"
+  ],
+  "cmc": 1.0,
+  "slug": "k-9-mark-i"
+ },
+ {
+  "name": "Falthis, Shadowcat Familiar",
+  "profile_rank": 5405,
+  "edhrec_rank": 7061,
+  "num_decks": 9,
+  "type_line": "Legendary Creature — Nightmare Cat",
+  "types": [
+   "cat"
+  ],
+  "color_identity": [
+   "B"
+  ],
+  "cmc": 3.0,
+  "slug": "falthis-shadowcat-familiar"
+ },
+ {
+  "name": "Esior, Wardwing Familiar",
+  "profile_rank": 5888,
+  "edhrec_rank": 3416,
+  "num_decks": 5,
+  "type_line": "Legendary Creature — Bird",
+  "types": [
+   "bird"
+  ],
+  "color_identity": [
+   "U"
+  ],
+  "cmc": 2.0,
+  "slug": "esior-wardwing-familiar"
+ }
+]
