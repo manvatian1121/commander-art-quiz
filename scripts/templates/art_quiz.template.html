@@ -98,8 +98,9 @@
   .pick{flex:1 1 0;min-width:0;background:var(--panel);border:1px solid var(--line);border-radius:14px;
     overflow:hidden;display:flex;flex-direction:column;position:relative}
   .pick.rank1{border-color:#3c5f80;box-shadow:0 0 0 1px #2b4a66 inset,0 18px 44px -30px #7dd3fc}
-  .pick .shot{position:relative;background:#0a0e15;overflow:hidden;min-height:150px}
-  .pick .shot img{display:block;width:100%;height:auto;min-height:150px}
+  .pick .shot{position:relative;background:#0a0e15;overflow:hidden}
+  .pick .shot::before{content:"";display:block;padding-top:73.0032%}
+  .pick .shot img{position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover}
   .ph{position:absolute;top:0;right:0;bottom:0;left:0;display:flex;flex-direction:column;align-items:center;justify-content:center;
     gap:6px;padding:14px;text-align:center;background:repeating-linear-gradient(45deg,#111823,#111823 11px,#0d131d 11px,#0d131d 22px)}
   .ph .ph-i{font-size:26px;opacity:.5;line-height:1}
@@ -107,7 +108,7 @@
   .ph .ph-n{font-size:13px;font-weight:700;color:var(--ink2)}
   .pick .badge{position:absolute;top:10px;left:10px;z-index:2;font-size:11.5px;font-weight:800;
     letter-spacing:.06em;padding:3px 10px;border-radius:99px;background:#0d1119cc;border:1px solid var(--line2);
-    color:var(--accent);-webkit-backdrop-filter:blur(8px);backdrop-filter:blur(3px)}
+    color:var(--accent);backdrop-filter:blur(3px)}
   .pick.rank1 .badge{background:#0d1119e6;border-color:#3c5f80;color:var(--gold)}
   .pick .info{padding:15px 17px 17px;display:flex;flex-direction:column;gap:5px;flex:1}
   .pick .nm{font-size:16.5px;font-weight:800;line-height:1.35}
