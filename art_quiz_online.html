@@ -143,7 +143,7 @@
     .picks{flex-direction:column;gap:14px}
     .pick.rank1{order:-1}
     
-    .pick .shot img{height:auto}
+    
     .opt{padding:14px 15px;font-size:15px}
     .btn{width:100%;text-align:center}
   }
@@ -544,7 +544,7 @@ var LETTERS = (function () { var a = []; for (var i = 0; i < 26; i++) a.push(Str
         '<div class="badge">' + (i === 0 ? "最符合你偏好的" : "第 " + (i + 1) + " 名") + '</div>' +
         '<div class="shot">' +
           '<img src="' + esc(src) + '" alt="' + esc(art.cmdr_zh) + ' 的插画" ' +
-               'loading="lazy" data-img-key="' + esc(art.art_id) + '" ' +
+               'data-img-key="' + esc(art.art_id) + '" ' +
                'onerror="window.__artQuizImgError&&window.__artQuizImgError(this)">' +
         '</div>' +
         '<div class="info">' +
