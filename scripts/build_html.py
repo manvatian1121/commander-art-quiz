@@ -21,6 +21,12 @@ fetch 本地 JSON 会被浏览器的同源策略拦掉，整个测试就白屏�
 2026-10-13：审美轴 10 → 9，`darkarea` 不再内嵌（它与 bright 实测 r = −0.830，
 基本是同一根轴的负向，题库里已全部撤题）。`data/art_axes.json` 里那一列特征
 原样保留，只是不进 payload；以后要重新启用，把它加回下面的审美轴列表即可。
+
+2026-10-14：新增 6 条 `tech_*` 画法轴（`data/art_style.json` 的 370 条标注，
+由 scripts/add_tech_axes.py 标定）+ 4 道 `t01`~`t04` 画法题。payload 里多一个
+`techs` 字段（与 `styles` 同形，前端暂不消费，只是留给以后做图例）。
+轴总数 25 → 31；**加轴时必须同步改的四处**：本文件的 AXES、模板的 AXES/AXIS_INFO、
+scripts/smoke_test.mjs、scripts/verify_questions.mjs（外加 solve_form_weights.py 的 ALL_AXES）。
 """
 from __future__ import annotations
 
@@ -34,7 +40,7 @@ sys.stdout.reconfigure(encoding="utf-8")
 PROJECT = Path(__file__).resolve().parent.parent
 MARKER = "__PAYLOAD__"
 
-# 9 个审美轴（darkarea 已下线）+ 7 个画面形态轴 + 9 个风格轴
+# 9 个审美轴（darkarea 已下线）+ 7 个画面形态轴 + 9 个风格轴 + 6 个画法轴
 LEGACY_AXES = ["warm", "bright", "vivid", "rich", "detailed",
                "contrasty", "modern", "borderless", "starart"]
 FORM_AXES = ["form_纯人类", "form_人形异类", "form_凶猛巨兽",
@@ -43,9 +49,14 @@ FORM_AXES = ["form_纯人类", "form_人形异类", "form_凶猛巨兽",
 # 2026-10-13 新增：由 art_labels.json 的 mood 标签做的「画风轴」（多标签中心化）
 STYLE_AXES = ["style_神秘", "style_史诗", "style_黑暗", "style_怪诞", "style_激烈",
               "style_温暖", "style_宁静", "style_可爱", "style_忧郁"]
-AXES = LEGACY_AXES + FORM_AXES + STYLE_AXES
+# 2026-10-14 新增：由 data/art_style.json 的 370 条画法标注做的「画法轴」
+#   （同样是多标签中心化，SD = 0.2887；水彩淡彩只有 6 张 → 出题时不给单独选项）
+TECH_AXES = ["tech_二次元日系", "tech_欧美厚涂", "tech_卡通绘本",
+             "tech_线稿版画", "tech_写实数字绘", "tech_水彩淡彩"]
+AXES = LEGACY_AXES + FORM_AXES + STYLE_AXES + TECH_AXES
 FORMS = [a.replace("form_", "") for a in FORM_AXES]
 STYLES = [a.replace("style_", "") for a in STYLE_AXES]
+TECHS = [a.replace("tech_", "") for a in TECH_AXES]
 
 # /result 会把这些键渲染出来，缺一个都算数据有问题
 REQUIRED_ART_KEYS = ("art_id", "cmdr_en", "cmdr_zh", "artist", "set_name", "vec", "local_art_crop")
@@ -103,7 +114,7 @@ def build_payload(questions: dict, arts: list, form_of: dict, img_base: str) -> 
             "img": "data/" + art["local_art_crop"].replace("\\", "/").lstrip("/"),
         })
     return {"v": 1, "base": img_base, "axes": AXES, "forms": FORMS, "styles": STYLES,
-            "q": payload_q, "a": payload_a}
+            "techs": TECHS, "q": payload_q, "a": payload_a}
 
 
 def self_check(arts: list, payload: dict, project: Path, form_of: dict) -> list[str]:
@@ -239,7 +250,8 @@ def main(argv=None) -> int:
               f"{q['id']} {len(q['opts'])} 个" for q in payload['q'] if q.get('multi')) if n_multi else ""))
     print(f"  插画      {len(payload['a'])} 张 / {len({a['cmdr_en'] for a in payload['a']})} 位主将"
           f"（另有 {len(arts) - len(payload['a'])} 张被裁定剔除）")
-    print(f"  轴        {len(AXES)} 个（9 图像/元数据 + 7 画面形态 + 9 风格；darkarea 已下线）")
+    print(f"  轴        {len(AXES)} 个（9 图像/元数据 + 7 画面形态 + 9 风格 + 6 画法；"
+          f"darkarea 已下线）")
     print(f"  图片前缀  {img_base or '(同目录)'}")
     print(f"  内嵌数据  {len(blob.encode('utf-8')):,} 字节")
     return 0

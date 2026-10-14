@@ -9,6 +9,9 @@
 //   · 「固定位置残留」不再单看某一个位置（多选只有 1 项带某一类，抵消不掉），
 //     改看「审美轴四个位置上的残留之和 = 0」这条恒等式；
 //     形态轴的四列之和**结构上不为 0**（= 该形态在「前 4 位」出现的次数 × 其单题权重）。
+// 2026-10-14：+ 9 道画风题（s01~s09）+ 5 道画法题（t01~t05）⟹ 43 题 = 40 单选 + 3 多选；
+//   轴 25 → 31（+ 6 条 tech_*）。画风/画法轴与审美轴同口径（每题 2 正 2 负 → 四列之和 = 0）；
+//   画法轴是 5 个顶点上的 5-环（5 题 × 2 轴 = 10 轴位 = 5 类 × 2 次）⟹ 五条全偶数、满偏全 2.4。
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
@@ -28,9 +31,12 @@ const FORM = ["form_纯人类", "form_人形异类", "form_凶猛巨兽",
               "form_扭曲异形", "form_可爱小兽", "form_机械构装", "form_写实动物"];
 const STYLE = ["style_神秘", "style_史诗", "style_黑暗", "style_怪诞", "style_激烈",
                "style_温暖", "style_宁静", "style_可爱", "style_忧郁"];
+// 2026-10-14：6 条 tech_* 画法轴（data/art_style.json 的 370 条画法标注；水彩淡彩不出题）
+const TECH = ["tech_二次元日系", "tech_欧美厚涂", "tech_卡通绘本",
+              "tech_线稿版画", "tech_写实数字绘", "tech_水彩淡彩"];
 const FORMS = FORM.map((a) => a.slice(5));
 const LIGHT = ["bright", "contrasty"];         // darkarea 2026-10-13 下线
-const AXES = LEGACY.concat(FORM).concat(STYLE);
+const AXES = LEGACY.concat(FORM).concat(STYLE).concat(TECH);
 
 const payload = JSON.parse(
   fs.readFileSync(path.join(ROOT, "art_quiz.html"), "utf8")
@@ -201,7 +207,7 @@ console.log("\n" + "=".repeat(74));
 console.log("③ 轴覆盖与位置残留");
 console.log("=".repeat(74));
 const cov = {};
-LEGACY.concat(STYLE).forEach((k) => { cov[k] = { n: 0, w: 0, tiers: {} }; });
+LEGACY.concat(STYLE).concat(TECH).forEach((k) => { cov[k] = { n: 0, w: 0, tiers: {} }; });
 SINGLE.forEach((q) => {
   const axes = new Set();
   q.opts.forEach((o) => Object.keys(o.s).forEach((k) => axes.add(k)));
@@ -244,6 +250,21 @@ STYLE.forEach((a) => {
   console.log(`  9 条画风轴「题数为偶数」：${odd.length ? "✗ " + odd.join("、") : "✓"}`
     + `；没被覆盖的：${zero.length ? "✗ " + zero.join("、") : "0 条 ✓"}`
     + `；低档（0.6）的轴：` + STYLE.filter((k) => cov[k].tiers["0.6"]).join("、"));
+}
+
+console.log(`\n  ${"画法轴".padEnd(16)}${"题数".padStart(5)}${"总权重".padStart(9)}   权重档`);
+TECH.forEach((a) => {
+  const t = Object.entries(cov[a].tiers).map(([w, n]) => `${w}×${n}`).join(" ");
+  console.log(`  ${a.padEnd(16)}${String(cov[a].n).padStart(5)}${cov[a].w.toFixed(2).padStart(9)}   ${t}`);
+});
+{ // 5 道画法题 × 每题 2 轴 = 10 个轴位 = 5 类 × 2 次（5-环）⟹ 每条轴恰好 2 题、
+  //   满偏一律 2.4、逐列残留同形。水彩淡彩按口径不出题（6 张），算 0 次 = 偶数。
+  const odd = TECH.filter((k) => cov[k].n % 2 !== 0);
+  const zero = TECH.filter((k) => cov[k].n === 0);
+  console.log(`  6 条画法轴「题数为偶数」：${odd.length ? "✗ " + odd.join("、") : "✓"}`
+    + `；没出题的：${zero.length ? zero.join("、") : "0 条"}（按口径不出题，不是漏）`);
+  const off = TECH.filter((k) => cov[k].n && Math.abs(cov[k].w - 2.4) > 1e-9);
+  console.log(`  出题的五条满偏全为 2.4：${off.length ? "✗ " + off.join("、") : "✓"}`);
 }
 
 console.log(`\n  形态轴（多选题 ${MQS.map((q) => q.id).join("/")}，每个选项只挂自己那一类）：`);
@@ -295,11 +316,11 @@ AXES.forEach((ax) => {
   console.log(`  ${ax.padEnd(13)}` + vals.map((v) => v.toFixed(2).padStart(8)).join("")
     + s.toFixed(2).padStart(12) + tag);
 });
-const worstLegacy = Math.max(...LEGACY.concat(STYLE).flatMap((k) => {
+const worstLegacy = Math.max(...LEGACY.concat(STYLE).concat(TECH).flatMap((k) => {
   const s = res.reduce((x, v) => x + (v[k] || 0), 0);
   return [Math.abs(s)];
 }));
-console.log(`  9 个审美轴 + 9 条画风轴的「四列之和」最大 |值| = ${worstLegacy.toFixed(6)}（应为 0）`);
+console.log(`  9 个审美轴 + 9 条画风轴 + 6 条画法轴的「四列之和」最大 |值| = ${worstLegacy.toFixed(6)}（应为 0）`);
 const deadForm = FORM.filter((k) => res.reduce((x, v) => x + (v[k] || 0), 0) <= 1e-9);
 console.log(`  7 个形态轴里「四列全 0」（永远扫不到）的：`
   + `${deadForm.length ? "✗ " + deadForm.join("、") : "0 个 ✓"}`);

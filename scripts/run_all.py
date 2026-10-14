@@ -8,12 +8,19 @@
     ① sync_excluded_from_form   形态表的 excluded → art_axes
     ② add_form_axes             7 条 form_*（依赖 art_form / art_axes）
     ③ add_style_axes            9 条 style_*（依赖 art_labels_v2 / art_axes）
-    ④ extend_form_options_7     三道形态题的 7 个选项与顺序（会把权重重置为占位 1.0）
-    ⑤ add_style_questions       s01~s09 写进题库（幂等）
-    ⑥ solve_form_weights        闭式解权重写回题库（必须在 ④ 之后）
-    ⑦ build_html                payload 自检 → art_quiz.html
-    ⑧ build_standalone          → art_quiz_standalone.html
-    ⑨ 三件套校验：smoke_test.mjs / audit_questions.py / audit_repeats.py / verify_questions.mjs
+    ④ add_tech_axes             6 条 tech_*（依赖 art_style / art_axes）
+    ⑤ extend_form_options_7     三道形态题的 7 个选项与顺序（会把权重重置为占位 1.0）
+    ⑥ add_style_questions       s01~s09 写进题库（幂等）
+    ⑦ add_tech_questions        t01~t04 写进题库（幂等）
+    ⑧ solve_form_weights        闭式解权重写回题库（必须在 ⑤ 之后）
+    ⑨ build_html                payload 自检 → art_quiz.html
+    ⑩ build_standalone          → art_quiz_standalone.html
+    ⑪ report_tech_axes          6 条画法轴的均值/SD + 各轴拉满的 Top3 命中率（只读）
+    ⑫ 三件套校验：smoke_test.mjs / audit_questions.py / audit_repeats.py / verify_questions.mjs
+
+    另有两个成品不在本流水线里（都从 art_quiz.html 派生，跑完 ⑨ 之后再单独跑）：
+      scripts/build_online.py   → art_quiz_online.html（图走 Scryfall CDN）
+      scripts/build_mobile.py   → art_quiz_mobile.html（图压到 240px 内嵌）
 """
 from __future__ import annotations
 
@@ -30,11 +37,14 @@ STEPS = [
     ("sync_excluded_from_form", [PY, "scripts/sync_excluded_from_form.py"], False),
     ("add_form_axes",           [PY, "scripts/add_form_axes.py"],           False),
     ("add_style_axes",          [PY, "scripts/add_style_axes.py"],          False),
+    ("add_tech_axes",           [PY, "scripts/add_tech_axes.py"],           False),
     ("extend_form_options_7",   [PY, "scripts/extend_form_options_7.py"],   False),
     ("add_style_questions",     [PY, "scripts/add_style_questions.py"],     False),
+    ("add_tech_questions",      [PY, "scripts/add_tech_questions.py"],      False),
     ("solve_form_weights",      [PY, "scripts/solve_form_weights.py"],      False),
     ("build_html",              [PY, "scripts/build_html.py"],              False),
     ("build_standalone",        [PY, "scripts/build_standalone.py"],        True),
+    ("report_tech_axes",        [PY, "scripts/report_tech_axes.py"],        False),
     ("smoke_test",              [NODE, "scripts/smoke_test.mjs"],           False),
     ("audit_questions",         [PY, "scripts/audit_questions.py"],         False),
     ("audit_repeats",           [PY, "scripts/audit_repeats.py"],           False),
@@ -60,7 +70,7 @@ def main(argv=None) -> int:
     if failed:
         print("✗ 流水线有失败步骤：" + "、".join(failed))
         return 1
-    print("✓ 流水线全部跑通（12 步里跑了 "
+    print(f"✓ 流水线全部跑通（{len(STEPS)} 步里跑了 "
           + str(len(STEPS) - (1 if args.fast else 0)) + " 步，全绿）")
     return 0
 

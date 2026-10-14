@@ -71,7 +71,11 @@ AES_AXES = ["warm", "bright", "vivid", "rich", "detailed",
 # 否则「只勾某一类形态」的纯度会被低估（用户答了画风题却不计入偏好向量）。
 STYLE_AXES = ["style_神秘", "style_史诗", "style_黑暗", "style_怪诞", "style_激烈",
               "style_温暖", "style_宁静", "style_可爱", "style_忧郁"]
-ALL_AXES = AES_AXES + FORM_AXES + STYLE_AXES          # 25 条（与 payload.axes 同序）
+# 2026-10-14 新增的 6 条「画法轴」（t01~t04 挂 tech_*）。同一条理由：
+# 少了它们，纯度模拟就漏掉用户新答的那 4 道题。
+TECH_AXES = ["tech_二次元日系", "tech_欧美厚涂", "tech_卡通绘本",
+             "tech_线稿版画", "tech_写实数字绘", "tech_水彩淡彩"]
+ALL_AXES = AES_AXES + FORM_AXES + STYLE_AXES + TECH_AXES   # 31 条（与 payload.axes 同序）
 
 SD = 0.2887                 # 所有轴统一到同一个标准差
 W_MIN, W_MAX = 0.5, 2.0     # 题库硬约束：**单题**权重区间（来自 make_questions.py）
@@ -180,12 +184,12 @@ def verify(pool, weights, alpha, n_q) -> dict:
 # 真引擎（与前端 art_quiz.html / smoke_test.mjs 的口径逐条对齐）
 # ----------------------------------------------------------------------
 def vec15(live) -> np.ndarray:
-    """25 轴矩阵（9 像素 + 7 形态 + 9 画风），顺序与 payload.axes 一致。"""
+    """31 轴矩阵（9 像素 + 7 形态 + 9 画风 + 6 画法），顺序与 payload.axes 一致。"""
     return np.array([[float(x["vec"][a]) for a in ALL_AXES] for x in live])
 
 
 def aes_pref(questions, picker) -> np.ndarray:
-    """全部**单选题**（26 道审美 + 9 道画风）产生的 25 轴 pref；多选题不参与。"""
+    """全部**单选题**（26 道审美 + 9 道画风 + 4 道画法）产生的 31 轴 pref；多选题不参与。"""
     qs = [q for q in questions if not q.get("multi")]
     p = np.zeros(len(ALL_AXES))
     for i, q in enumerate(qs):
@@ -215,7 +219,7 @@ def recommend(pref15, live, n=3, M=None):
 
 
 def form_pref(weights, S, n_q, zero_forms=False):
-    """25 轴 pref 里的形态部分（0 = 形态完全不参与）。"""
+    """31 轴 pref 里的形态部分（0 = 形态完全不参与）。"""
     p = np.zeros(len(ALL_AXES))
     if not zero_forms:
         for i, f in enumerate(FORMS):
@@ -242,7 +246,7 @@ def purity(pool, questions, weights, n_q, S, aes_list, zero_forms=False, M=None)
     fp = form_pref(weights, S, n_q, zero_forms)
     out = []
     for nm, ap in aes_list:
-        pref = fp + ap                       # 单选题的偏好（含画风轴）按轴位相加
+        pref = fp + ap                       # 单选题的偏好（含画风轴 / 画法轴）按轴位相加
         picks = recommend(pref, pool["live"], 3, M)
         hit = sum(1 for _, x in picks if (zero_forms or pool["formmap"][x["art_id"]] in S))
         out.append((nm, hit / 3.0, [pool["formmap"][x["art_id"]] for _, x in picks]))
@@ -439,7 +443,7 @@ def main(argv=None) -> int:
           "任务书规定不许自作主张破约束，所以这里只报数、不改。")
 
     print()
-    print("  J3-b 勾 3 类 → Top3 里「勾中三类」的比例（枚举全部 C(6,3)=20 组）")
+    print("  J3-b 勾 3 类 → Top3 里「勾中三类」的比例（枚举全部 C(7,3)=35 组）")
     tri = []
     for combo in itertools.combinations(FORMS, 3):
         rows = purity(pool, questions, weights, n_q, set(combo), aes_list, M=M)
@@ -447,7 +451,7 @@ def main(argv=None) -> int:
         tri.append((combo, min(ps), sum(ps) / len(ps), max(ps)))
     for combo, mn, me, mx in tri:
         print(f"    {'+'.join(combo):<24}{mn:>8.2f}{me:>8.2f}{mx:>8.2f}")
-    print(f"  → 20 组里最小纯度 {min(t[1] for t in tri):.2f}，"
+    print(f"  → {len(tri)} 组里最小纯度 {min(t[1] for t in tri):.2f}，"
           f"平均 {sum(t[2] for t in tri) / len(tri):.2f}")
 
     print()

@@ -17,7 +17,11 @@ const FORM_AXES = ["form_纯人类", "form_人形异类", "form_凶猛巨兽",
 // 2026-10-13 新增：由 mood 标签做的 9 条「画风轴」（多标签中心化，SD 同样 0.2887）
 const STYLE_AXES = ["style_神秘", "style_史诗", "style_黑暗", "style_怪诞", "style_激烈",
                     "style_温暖", "style_宁静", "style_可爱", "style_忧郁"];
-const AXES = LEGACY_AXES.concat(FORM_AXES).concat(STYLE_AXES);
+// 2026-10-14 新增：由 data/art_style.json 的 370 条画法标注做的 6 条「画法轴」
+//   （同一条多标签中心化算法；水彩淡彩只有 6 张 → 有轴、不出题）
+const TECH_AXES = ["tech_二次元日系", "tech_欧美厚涂", "tech_卡通绘本",
+                   "tech_线稿版画", "tech_写实数字绘", "tech_水彩淡彩"];
+const AXES = LEGACY_AXES.concat(FORM_AXES).concat(STYLE_AXES).concat(TECH_AXES);
 const FORMS = FORM_AXES.map((a) => a.replace("form_", ""));
 // ⚠️ 题数 / 插画数一律从题库和 payload 推导，不写死 —— 上一轮写死 31、
 //    题库一换成 27 全红。下面这几个常量只是「格式约定」，不随题库变动。
@@ -365,9 +369,9 @@ check(`payload 完整：${N_Q} 题（${N_SINGLE} 单选 × ${SINGLE_OPTS} 选项
 
 check(`新题确实被加载：${N_SINGLE} 道审美题在前、${N_MULTI} 道形态题在末尾，顺序正确`, () => {
   const ids = DATA.q.map((q) => q.id);
-  // 审美题 = aNN（图像/元数据轴）+ sNN（2026-10-13 新增的画风题）
-  assert(ids.slice(0, N_SINGLE).every((id) => /^[as]\d{2}$/.test(id)),
-    `审美题应全是 aNN / sNN，实际 ` + ids.slice(0, N_SINGLE).join(","));
+  // 审美题 = aNN（图像/元数据轴）+ sNN（2026-10-13 画风题）+ tNN（2026-10-14 画法题）
+  assert(ids.slice(0, N_SINGLE).every((id) => /^[ast]\d{2}$/.test(id)),
+    `审美题应全是 aNN / sNN / tNN，实际 ` + ids.slice(0, N_SINGLE).join(","));
   assert(ids.slice(N_SINGLE).join(",") === MQS.map((q) => q.id).join(","),
     `末尾应为 ${MQS.map((q) => q.id).join(",")}，实际 ${ids.slice(N_SINGLE).join(",")}`);
   assert(N_MULTI === 3, `形态多选题应当是 3 道（b01/b02/b03），实际 ${N_MULTI} 道`);
@@ -391,10 +395,10 @@ check("内嵌题目与 data/questions.json 逐字一致（构建没改内容）"
         `${q.id} 第 ${j + 1} 项的 ${k} 权重被改过：${p.opts[j].s[k]} vs ${v}`));
     });
   });
-  // 单选审美题只用 9 个审美轴 + 9 个画风轴（形态只出现在那三道多选题里）
+  // 单选审美题只用 9 个审美轴 + 9 个画风轴 + 6 个画法轴（形态只出现在那三道多选题里）
   DATA.q.filter((q) => !q.multi).forEach((q) => {
     q.opts.forEach((o) => Object.keys(o.s).forEach((k) =>
-      assert(LEGACY_AXES.includes(k) || STYLE_AXES.includes(k),
+      assert(LEGACY_AXES.includes(k) || STYLE_AXES.includes(k) || TECH_AXES.includes(k),
         `${q.id} 里出现了非原有轴 ${k}`)));
   });
   // 多选题只用 7 个形态轴，且每个选项标的 form 与它挂的轴一致（payload 不带 o.form，
@@ -419,7 +423,7 @@ check("内嵌题目与 data/questions.json 逐字一致（构建没改内容）"
   assert(!DATA.axes.includes("darkarea"), "payload.axes 里还留着已下线的 darkarea");
 });
 
-check(`7 个形态轴 + 9 个画风轴进了 payload，且每张图「自己那一类」是最高的（${N_ARTS}/${N_ARTS}）`, () => {
+check(`7 个形态轴 + 9 个画风轴 + 6 个画法轴进了 payload，且每张图「自己那一类」是最高的（${N_ARTS}/${N_ARTS}）`, () => {
   assert(Array.isArray(DATA.axes) && DATA.axes.length === AXES.length,
     `payload.axes 有 ${DATA.axes && DATA.axes.length} 个轴，应为 ${AXES.length}`);
   AXES.forEach((k) => assert(DATA.axes.includes(k), `payload.axes 里缺 ${k}`));
@@ -451,6 +455,10 @@ check(`每张插画都有 ${AXES.length} 个轴且数值有限（9 个审美轴�
     });
     // 画风轴同样是中心化指示变量：越瘦的轴单点值越大（忧郁 p=1.1% → 最高 +2.76）
     STYLE_AXES.forEach((k) => {
+      assert(Math.abs(a.vec[k]) <= 3.0, `${a.art_id} 的 ${k}=${a.vec[k]} 超出 ±3.0`);
+    });
+    // 画法轴同理：水彩淡彩 p=1.6%（6 张）→ 最高 +2.2486
+    TECH_AXES.forEach((k) => {
       assert(Math.abs(a.vec[k]) <= 3.0, `${a.art_id} 的 ${k}=${a.vec[k]} 超出 ±3.0`);
     });
   });
@@ -616,8 +624,8 @@ check("图省事：art_axes 的 vec 已中心化（不是全正的原始像素�
   });
 });
 
-check("7 个形态轴 + 9 个画风轴在参与池里都是零均值、SD≈0.2887（与 9 个审美轴同标度）", () => {
-  FORM_AXES.concat(STYLE_AXES).concat(LEGACY_AXES).forEach((k) => {
+check("7 个形态轴 + 9 个画风轴 + 6 个画法轴在参与池里都是零均值、SD≈0.2887（与 9 个审美轴同标度）", () => {
+  FORM_AXES.concat(STYLE_AXES).concat(TECH_AXES).concat(LEGACY_AXES).forEach((k) => {
     const vals = DATA.a.map((a) => a.vec[k]);
     const mean = vals.reduce((x, y) => x + y, 0) / vals.length;
     const sd = Math.sqrt(vals.reduce((s, v) => s + (v - mean) ** 2, 0) / vals.length);
@@ -847,6 +855,15 @@ check("位置偏置：审美轴四列之和精确为 0；形态轴的残留 = �
     v.forEach((p, i) => assert(Math.abs(p[k] - (expect[i][k] || 0)) < 1e-9,
       `${k} 在第 ${i + 1} 个位置的残留 ${p[k]} 与逐题累加的值 ${expect[i][k] || 0} 不符`));
   });
+  // 画风轴 / 画法轴同一口径（每题 2 正 2 负 → 四列之和必须为 0）。
+  // 画法轴：5 题 × 2 轴 = 10 个轴位，正好 = 5 类 × 2 次（5 个顶点上的 2-正则图 = 5-环），
+  // 所以五条轴都出现偶数次、满偏一律 2.4，逐列残留也都是同一形状（+2.4 / 0 / 0 / −2.4）。
+  STYLE_AXES.concat(TECH_AXES).forEach((k) => {
+    const s = v.reduce((a, p) => a + p[k], 0);
+    assert(Math.abs(s) < 1e-9, `${k} 在 4 个位置上的残留和 ${s} 不是 0`);
+    v.forEach((p, i) => assert(Math.abs(p[k] - (expect[i][k] || 0)) < 1e-9,
+      `${k} 在第 ${i + 1} 个位置的残留 ${p[k]} 与逐题累加的值 ${expect[i][k] || 0} 不符`));
+  });
   // 形态轴：走「单选策略」时每道多选题默认只勾第 1 项，位置 k 的残留 = 各题第 k 项
   // 所挂形态的权重之和（三题位置顺序不同 → 一个位置上最多 3 类各出现一次）
   const formAt = [0, 1, 2, 3].map((pos) => {
@@ -875,6 +892,12 @@ check("位置偏置：审美轴四列之和精确为 0；形态轴的残留 = �
     console.log(`      ${k.padEnd(11)}` +
       v.map((p) => (p[k] >= 0 ? "+" : "") + p[k].toFixed(1)).join("  ") +
       `   Σ=${t.toFixed(1)}`);
+  });
+  TECH_AXES.forEach((k) => {
+    const t = v.reduce((a, p) => a + p[k], 0);
+    console.log(`      ${k.padEnd(16)}` +
+      v.map((p) => (p[k] >= 0 ? "+" : "") + p[k].toFixed(1)).join("  ") +
+      `   Σ=${t.toFixed(1)}` + (t === 0 ? "" : "   ⚠"));
   });
   FORMS.forEach((f) => {
     const k = "form_" + f;
